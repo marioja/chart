@@ -3,9 +3,10 @@
  */
 var timeFormat = 'MM/DD/YYYY HH:mm';
 var dragOptions = {
-  animationDuration: 1000
+  animationDuration: 1000,
+  backgroundColor: "rgba(0, 0, 0, 0.4)"
 };
-d3.csv('ndt7-client-small.csv').then(makeChart);
+d3.csv('ndt7-client.csv').then(makeChart);
 function makeChart(ndt7Client) {
   ndt7Download=ndt7Client.map(function(d) {return {x: moment(d.Date).format(timeFormat), y: d.Download}})
   ndt7Error=ndt7Client.map(function(d) {return {x: moment(d.Date).format(timeFormat), y: d.Error}})
@@ -16,7 +17,8 @@ function makeChart(ndt7Client) {
 
       datasets: [{
           label: "Downloads (Mbps)",
-          fill: true,
+          fill: 'origin',
+          backgroundColor: "rgba(0, 0, 255, 0.1)",
           borderColor: "blue",
           borderWidth: 1,
           data: ndt7Download,
@@ -24,7 +26,8 @@ function makeChart(ndt7Client) {
         },
         {
           label: "Uploads (Mbps)",
-          fill: true,
+          fill: 'origin',
+	  backgroundColor: "rgba(255, 0, 0, 0.1)",
           borderColor: "red",
           borderWidth: 1,
           data: ndt7Upload,
@@ -33,6 +36,10 @@ function makeChart(ndt7Client) {
       ]
     },
     options: {
+	  title: {
+		display: true,
+		text: 'MFJ Associates Internet Bandwidth'
+	  },
       responsive: true,
       scales: {
           xAxes: [{
