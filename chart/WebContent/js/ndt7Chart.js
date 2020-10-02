@@ -5,9 +5,10 @@ var timeFormat = 'MM/DD/YYYY HH:mm';
 var dragOptions = {
   animationDuration: 1000
 };
-d3.csv('ndt7-client.csv').then(makeChart);
+d3.csv('ndt7-client-small.csv').then(makeChart);
 function makeChart(ndt7Client) {
   ndt7Download=ndt7Client.map(function(d) {return {x: moment(d.Date).format(timeFormat), y: d.Download}})
+  ndt7Error=ndt7Client.map(function(d) {return {x: moment(d.Date).format(timeFormat), y: d.Error}})
   ndt7Upload=ndt7Client.map(function(d) {return {x: moment(d.Date).format(timeFormat), y: d.Upload}})
   window.myLine = new Chart('canvas', {
     type: 'line',
@@ -18,14 +19,16 @@ function makeChart(ndt7Client) {
           fill: true,
           borderColor: "blue",
           borderWidth: 1,
-          data: ndt7Download
+          data: ndt7Download,
+          dataError: ndt7Error
         },
         {
           label: "Uploads (Mbps)",
           fill: true,
           borderColor: "red",
           borderWidth: 1,
-          data: ndt7Upload
+          data: ndt7Upload,
+          dataError: ndt7Error
         }
       ]
     },
@@ -58,7 +61,24 @@ function makeChart(ndt7Client) {
             speed: 0.05
           }
         }
-      }
+      },
+      tooltips: {
+          callbacks: {
+              label: function(tooltipItem, data) {
+                  var label = data.datasets[tooltipItem.datasetIndex].label || '';
+
+                  if (label) {
+                      label += ': ';
+                  }
+                  label += Math.round(tooltipItem.yLabel * 100) / 100;
+                  console.log(tooltipItem.datasetIndex+" - "+tooltipItem.index+" - "+tooltipItem.yLabel) 
+                  return label;
+              },
+              afterLabel: function(tooltipItem, data) {
+                 return 'Error: '+data.datasets[tooltipItem.datasetIndex].dataError[tooltipItem.index].y;
+              }
+          }
+      }      
     }
 
   });

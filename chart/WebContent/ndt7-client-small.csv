@@ -1,0 +1,13 @@
+﻿Date,Download,Upload,Error
+Wed 09/02/2020 21:38:09.93 ,19.086476013689886,2.9618134863701577
+Wed 09/02/2020 21:53:09.48 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": dial tcp: lookup locate.measurementlab.net: no such host"
+Wed 09/02/2020 22:08:32.07 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": dial tcp: lookup locate.measurementlab.net: no such host"
+Wed 09/02/2020 22:23:31.58 ,17.95341244461568,3.0010876083630804
+Wed 09/02/2020 22:39:49.06 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
+Wed 09/02/2020 22:53:14.72 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
+Wed 09/02/2020 23:08:27.71 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
+Wed 09/02/2020 23:14:59.72 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
+Wed 09/02/2020 23:18:11.39 ,12.431960642346608,2.629045218087235
+Wed 09/02/2020 23:19:16.75 ,12.689048522437066,2.4904885075084278
+Wed 09/02/2020 23:20:14.76 ,19.600983769333585,4.327664039900249
+Wed 09/02/2020 23:23:14.77 ,12.9994480147099,2.8534781272410616
