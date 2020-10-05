@@ -2,8 +2,8 @@
 setlocal
 set folder=%~dp0okla
 mkdir "%folder%" 2>nul
-set logfile=%folder%\okla-client.log
-set csvfile=%folder%\okla-client.csv
+set logfile=%folder%\ookla-client.log
+set csvfile=%folder%\ookla-client.csv
 set header="Date","serverName","serverId","latency","jitter","packetLoss","download","upload","downloadBytes","uploadBytes","shareUrl"
 if not exist "%csvfile%" echo %header% >"%csvfile%"
 <nul set /p=%date% %time% >>"%logfile%"
