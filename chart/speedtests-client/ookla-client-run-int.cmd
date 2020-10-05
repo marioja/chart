@@ -1,6 +1,6 @@
 @echo off
 setlocal
-set folder=%~dp0okla
+set folder=%~dp0ookla
 mkdir "%folder%" 2>nul
 set logfile=%folder%\ookla-client.log
 set csvfile=%folder%\ookla-client.csv
