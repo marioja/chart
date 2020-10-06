@@ -18,9 +18,10 @@
 </head>
 <body>
 <script type="text/javascript" src="js/ndt7Chart.js"></script>
-  <div>
+  <div style="width:90%;">
     <button onclick="resetZoom()">Reset Zoom</button>
     <button id="drag-switch" onclick="toggleDragMode()">Disable drag mode</button>
+    <button onclick="resetData()">Reset Data</button><label> to only </label><input id="last-days" value="14" size="3"><label> last days</label>
     <canvas id="canvas"></canvas>
   </div>
 </body>

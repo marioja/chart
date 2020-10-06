@@ -7,15 +7,49 @@ var dragOptions = {
   backgroundColor: "rgba(0, 0, 0, 0.4)"
 };
 d3.csv('ndt7-client.csv').then(function(ndt7) {
-	d3.csv('ookla-client.csv').then(function(ookla){
-		makeChart(ndt7, ookla)
-	})
+  d3.csv('ookla-client.csv').then(function(ookla){
+    addData(ndt7, ookla)
+  })
 })
-function makeChart(ndt7Client, ooklaClient) {
-  ndt7Download=ndt7Client.map(function(d) {return {x: moment(d.Date).format(timeFormat), y: d.Download, e: d.Error}})
-  ndt7Upload=ndt7Client.map(function(d) {return {x: moment(d.Date).format(timeFormat), y: d.Upload}})
-  ooklaDownload=ooklaClient.map(function(d) {return {x: moment(d.Date).format(timeFormat), y: d.Download*8/1000000}})
-  ooklaUpload=ooklaClient.map(function(d) {return {x: moment(d.Date).format(timeFormat), y: d.Upload*8/1000000}})
+function addData(ndt7Client, ooklaClient) {
+  window.ndt7ClientCache=ndt7Client;
+  window.ooklaClientCache=ooklaClient;
+  addDataNoCache(ndt7Client, ooklaClient);
+}
+function addDataNoCache(ndt7Client, ooklaClient) {
+  var lastDays = document.getElementById('last-days').value;
+  var lastDays = moment().subtract(lastDays, 'days');
+  ndt7Download=ndt7Client.reduce(function(filtered, d) {
+    x=moment(d.Date);
+    if (x>lastDays) {
+      filtered.push({"x": x.format(timeFormat), y: d.Download, e: d.Error})
+    }
+    return filtered;
+  }, [])
+  ndt7Upload=ndt7Client.reduce(function(filtered, d) {
+    x=moment(d.Date);
+    if (x>lastDays) {
+      filtered.push({"x": x.format(timeFormat), y: d.Upload})
+    }
+    return filtered;
+  }, [])
+  ooklaDownload=ooklaClient.reduce(function(filtered, d) {
+    x=moment(d.Date);
+    if (x>lastDays) {
+      filtered.push({"x": x.format(timeFormat), y: d.Download*8/1000000})
+    }
+    return filtered;
+  }, [])
+  ooklaUpload=ooklaClient.reduce(function(filtered, d) {
+    x=moment(d.Date);
+    if (x>lastDays) {
+      filtered.push({"x": x.format(timeFormat), y: d.Upload*8/1000000})
+    }
+    return filtered;
+  }, [])
+  makeChart(ndt7Download, ndt7Upload, ooklaDownload, ooklaUpload);
+}
+function makeChart(ndt7Download, ndt7Upload, ooklaDownload, ooklaUpload) {
   window.myLine = new Chart('canvas', {
     type: 'line',
     data: {
@@ -31,7 +65,7 @@ function makeChart(ndt7Client, ooklaClient) {
         {
           label: "M-Lab Uploads (Mbps)",
           fill: 'origin',
-	      backgroundColor: "rgba(255, 0, 0, 0.1)",
+        backgroundColor: "rgba(255, 0, 0, 0.1)",
           borderColor: "rgba(255, 0, 0, 1)",
           borderWidth: 1,
           data: ndt7Upload
@@ -49,7 +83,7 @@ function makeChart(ndt7Client, ooklaClient) {
         {
             label: "Ookla Uploads (Mbps)",
             fill: 'origin',
-  	        backgroundColor: "rgba(255, 0, 0, 0.1)",
+            backgroundColor: "rgba(255, 0, 0, 0.1)",
             borderColor: "rgba(255, 0, 0, 1)",
             borderWidth: 1,
             borderDash: [2, 5],
@@ -59,10 +93,10 @@ function makeChart(ndt7Client, ooklaClient) {
       ]
     },
     options: {
-	  title: {
-		display: true,
-		text: 'MFJ Associates Internet Bandwidth'
-	  },
+    title: {
+    display: true,
+    text: 'MFJ Associates Internet Bandwidth'
+    },
       responsive: true,
       scales: {
           xAxes: [{
@@ -105,7 +139,7 @@ function makeChart(ndt7Client, ooklaClient) {
                   return label;
               },
               afterLabel: function(tooltipItem, data) {
-            	 var estr=data.datasets[tooltipItem.datasetIndex].data[tooltipItem.index].e;
+               var estr=data.datasets[tooltipItem.datasetIndex].data[tooltipItem.index].e;
                  return estr ? 'Error: '+estr : '';
               }
           }
@@ -114,17 +148,19 @@ function makeChart(ndt7Client, ooklaClient) {
 
   });
 }
-    window.resetZoom = function() {
-      window.myLine.resetZoom();
-      console.log('done reset zoom')
-    };
+window.resetZoom = function() {
+  window.myLine.resetZoom();
+  console.log('done reset zoom')
+};
 
-    window.toggleDragMode = function() {
-      var chart = window.myLine;
-      var zoomOptions = chart.options.plugins.zoom.zoom;
-      zoomOptions.drag = zoomOptions.drag ? false : dragOptions;
+window.toggleDragMode = function() {
+  var chart = window.myLine;
+  var zoomOptions = chart.options.plugins.zoom.zoom;
+  zoomOptions.drag = zoomOptions.drag ? false : dragOptions;
 
-      chart.update();
-      document.getElementById('drag-switch').innerText = zoomOptions.drag ? 'Disable drag mode' : 'Enable drag mode';
-    };
-
+  chart.update();
+  document.getElementById('drag-switch').innerText = zoomOptions.drag ? 'Disable drag mode' : 'Enable drag mode';
+};
+window.resetData = function() {
+  addDataNoCache(window.ndt7ClientCache, window.ooklaClientCache);
+}
