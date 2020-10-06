@@ -22,28 +22,28 @@ function addDataNoCache(ndt7Client, ooklaClient) {
   ndt7Download=ndt7Client.reduce(function(filtered, d) {
     x=moment(d.Date);
     if (x>lastDays) {
-      filtered.push({"x": x.format(timeFormat), y: d.Download, e: d.Error})
+      filtered.push({"x": x.format(timeFormat), y: d.Download, e: d.Error, s: d.Server, r: d.Retrans})
     }
     return filtered;
   }, [])
   ndt7Upload=ndt7Client.reduce(function(filtered, d) {
     x=moment(d.Date);
     if (x>lastDays) {
-      filtered.push({"x": x.format(timeFormat), y: d.Upload})
+      filtered.push({"x": x.format(timeFormat), y: d.Upload, s: d.Server})
     }
     return filtered;
   }, [])
   ooklaDownload=ooklaClient.reduce(function(filtered, d) {
     x=moment(d.Date);
     if (x>lastDays) {
-      filtered.push({"x": x.format(timeFormat), y: d.Download*8/1000000})
+      filtered.push({"x": x.format(timeFormat), y: d.Download*8/1000000, s: d.ServerName, r: d.PacketLoss})
     }
     return filtered;
   }, [])
   ooklaUpload=ooklaClient.reduce(function(filtered, d) {
     x=moment(d.Date);
     if (x>lastDays) {
-      filtered.push({"x": x.format(timeFormat), y: d.Upload*8/1000000})
+      filtered.push({"x": x.format(timeFormat), y: d.Upload*8/1000000, s: d.ServerName})
     }
     return filtered;
   }, [])
@@ -154,7 +154,11 @@ function makeChart(ndt7Download, ndt7Upload, ooklaDownload, ooklaUpload) {
               },
               afterLabel: function(tooltipItem, data) {
                var estr=data.datasets[tooltipItem.datasetIndex].data[tooltipItem.index].e;
-                 return estr ? 'Error: '+estr : '';
+               var server=data.datasets[tooltipItem.datasetIndex].data[tooltipItem.index].s;
+               var res;
+               res=estr ? 'Error: '+estr+' ' : '';
+               res=res+(server ? 'Server: '+server : '');
+                 return res;
               }
           }
       }      
