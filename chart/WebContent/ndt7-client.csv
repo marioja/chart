@@ -1,78 +1,78 @@
-﻿Date,Download,Upload,Error
-Wed 09/02/2020 21:38:09.93 ,19.086476013689886,2.9618134863701577
+﻿Date,Download,Upload,Retrans,Server,Error
+Wed 09/02/2020 21:38:09.93 ,19.086476013689886,2.9618134863701577,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
 Wed 09/02/2020 21:53:09.48 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": dial tcp: lookup locate.measurementlab.net: no such host"
 Wed 09/02/2020 22:08:32.07 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": dial tcp: lookup locate.measurementlab.net: no such host"
-Wed 09/02/2020 22:23:31.58 ,17.95341244461568,3.0010876083630804
+Wed 09/02/2020 22:23:31.58 ,17.95341244461568,3.0010876083630804,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
 Wed 09/02/2020 22:39:49.06 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Wed 09/02/2020 22:53:14.72 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Wed 09/02/2020 23:08:27.71 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Wed 09/02/2020 23:14:59.72 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Wed 09/02/2020 23:18:11.39 ,12.431960642346608,2.629045218087235
-Wed 09/02/2020 23:19:16.75 ,12.689048522437066,2.4904885075084278
-Wed 09/02/2020 23:20:14.76 ,19.600983769333585,4.327664039900249
-Wed 09/02/2020 23:23:14.77 ,12.9994480147099,2.8534781272410616
+Wed 09/02/2020 23:18:11.39 ,12.431960642346608,2.629045218087235,0,"ndt-iupui-mlab3-lga05.mlab-oti.measurement-lab.org"
+Wed 09/02/2020 23:19:16.75 ,12.689048522437066,2.4904885075084278,0,"ndt-iupui-mlab1-lga06.mlab-oti.measurement-lab.org"
+Wed 09/02/2020 23:20:14.76 ,19.600983769333585,4.327664039900249,0.011938913974237133,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
+Wed 09/02/2020 23:23:14.77 ,12.9994480147099,2.8534781272410616,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Wed 09/02/2020 23:38:11.45 ,,,"download websocket: bad handshake"
-Wed 09/02/2020 23:53:10.26 ,12.20231831491452,3.036763639294061
-Thu 09/03/2020  0:08:09.97 ,13.586995199043544,3.343539411434528
-Thu 09/03/2020  0:23:10.00 ,15.239664953219187,3.503826992390869
-Thu 09/03/2020  0:38:09.98 ,14.855139454416854,3.2520575415907835
-Thu 09/03/2020  0:53:10.07 ,13.200465613143257,3.0604087836486538
-Thu 09/03/2020  1:08:09.77 ,13.947847220880586,3.269004178412203
-Thu 09/03/2020  1:23:09.78 ,4.61053015083932,4.401082647833276
-Thu 09/03/2020  1:44:16.43 ,6.1492232771822355,4.24642549684037
-Thu 09/03/2020  1:53:10.31 ,15.355699743569819,3.941374293957495
-Thu 09/03/2020  2:08:12.03 ,13.189470656764236,3.3829618173418767
-Thu 09/03/2020  2:23:12.51 ,17.28963384368676,4.398966408268734
-Thu 09/03/2020  2:38:11.45 ,16.287256232427367,4.101151365166944
-Thu 09/03/2020  2:53:11.01 ,25.664499783966377,6.292677674661523
+Wed 09/02/2020 23:53:10.26 ,12.20231831491452,3.036763639294061,0,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
+Thu 09/03/2020  0:08:09.97 ,13.586995199043544,3.343539411434528,0.025729157267887756,"ndt-iupui-mlab1-lga08.mlab-oti.measurement-lab.org"
+Thu 09/03/2020  0:23:10.00 ,15.239664953219187,3.503826992390869,0.015026360971476877,"ndt-iupui-mlab1-lga08.mlab-oti.measurement-lab.org"
+Thu 09/03/2020  0:38:09.98 ,14.855139454416854,3.2520575415907835,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Thu 09/03/2020  0:53:10.07 ,13.200465613143257,3.0604087836486538,0,"ndt-iupui-mlab3-lga05.mlab-oti.measurement-lab.org"
+Thu 09/03/2020  1:08:09.77 ,13.947847220880586,3.269004178412203,0.008357750176085203,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Thu 09/03/2020  1:23:09.78 ,4.61053015083932,4.401082647833276,13.483946755202622,"ndt-iupui-mlab1-lga03.mlab-oti.measurement-lab.org"
+Thu 09/03/2020  1:44:16.43 ,6.1492232771822355,4.24642549684037,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Thu 09/03/2020  1:53:10.31 ,15.355699743569819,3.941374293957495,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Thu 09/03/2020  2:08:12.03 ,13.189470656764236,3.3829618173418767,0,"ndt-iupui-mlab3-lga06.mlab-oti.measurement-lab.org"
+Thu 09/03/2020  2:23:12.51 ,17.28963384368676,4.398966408268734,0,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
+Thu 09/03/2020  2:38:11.45 ,16.287256232427367,4.101151365166944,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Thu 09/03/2020  2:53:11.01 ,25.664499783966377,6.292677674661523,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
 Thu 09/03/2020  3:08:10.92 ,,,"download No available M-Lab servers"
 Thu 09/03/2020  3:23:10.25 ,,,"download No available M-Lab servers"
-Thu 09/03/2020  3:38:11.18 ,16.030005953867132,3.979571102907059
-Thu 09/03/2020  3:53:10.08 ,19.157839029768468,4.681238120433871
-Thu 09/03/2020  4:08:10.96 ,14.959486094845216,4.619242347301497
-Thu 09/03/2020  4:23:09.80 ,19.52980091288725,4.793271164746754
-Thu 09/03/2020  4:38:10.39 ,16.98046471276074,4.067596385176799
+Thu 09/03/2020  3:38:11.18 ,16.030005953867132,3.979571102907059,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Thu 09/03/2020  3:53:10.08 ,19.157839029768468,4.681238120433871,0,"ndt-iupui-mlab1-lga03.mlab-oti.measurement-lab.org"
+Thu 09/03/2020  4:08:10.96 ,14.959486094845216,4.619242347301497,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Thu 09/03/2020  4:23:09.80 ,19.52980091288725,4.793271164746754,0,"ndt-iupui-mlab3-lga04.mlab-oti.measurement-lab.org"
+Thu 09/03/2020  4:38:10.39 ,16.98046471276074,4.067596385176799,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
 Thu 09/03/2020  4:53:09.85 ,,,"download No available M-Lab servers"
 Thu 09/03/2020  5:08:10.49 ,,,"download No available M-Lab servers"
-Thu 09/03/2020  5:23:09.52 ,19.24459966518501,5.166982034222466
-Thu 09/03/2020  5:38:10.85 ,14.57592249368155,3.6887548747638004
+Thu 09/03/2020  5:23:09.52 ,19.24459966518501,5.166982034222466,0,"ndt-iupui-mlab2-lga04.mlab-oti.measurement-lab.org"
+Thu 09/03/2020  5:38:10.85 ,14.57592249368155,3.6887548747638004,0,"ndt-iupui-mlab3-lga05.mlab-oti.measurement-lab.org"
 Thu 09/03/2020  5:53:09.64 ,,,"download No available M-Lab servers"
 Thu 09/03/2020  6:08:11.09 ,,,"download No available M-Lab servers"
-Thu 09/03/2020  6:23:10.09 ,14.257456028171623,3.804176173517635
+Thu 09/03/2020  6:23:10.09 ,14.257456028171623,3.804176173517635,0,"ndt-iupui-mlab1-lga05.mlab-oti.measurement-lab.org"
 Thu 09/03/2020  6:38:10.80 ,,,"download No available M-Lab servers"
 Thu 09/03/2020  6:53:09.95 ,,,"download No available M-Lab servers"
 Thu 09/03/2020  7:08:10.97 ,,,"download No available M-Lab servers"
-Thu 09/03/2020  7:23:10.02 ,13.49729224952741,3.293097816075486
-Thu 09/03/2020  7:38:11.20 ,15.529071783608831,3.6585436616274807
-Thu 09/03/2020  7:53:11.78 ,15.601138787234879,3.225872121114511
+Thu 09/03/2020  7:23:10.02 ,13.49729224952741,3.293097816075486,0,"ndt-iupui-mlab2-lga06.mlab-oti.measurement-lab.org"
+Thu 09/03/2020  7:38:11.20 ,15.529071783608831,3.6585436616274807,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Thu 09/03/2020  7:53:11.78 ,15.601138787234879,3.225872121114511,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Thu 09/03/2020  8:08:10.49 ,,,"download No available M-Lab servers"
 Thu 09/03/2020  8:23:10.63 ,,,"download No available M-Lab servers"
-Thu 09/03/2020  8:38:10.01 ,18.010874467551993,4.464215072861583
-Thu 09/03/2020  8:53:10.20 ,17.070823506706553,4.179826184468741
+Thu 09/03/2020  8:38:10.01 ,18.010874467551993,4.464215072861583,0,"ndt-iupui-mlab2-lga04.mlab-oti.measurement-lab.org"
+Thu 09/03/2020  8:53:10.20 ,17.070823506706553,4.179826184468741,0,"ndt-iupui-mlab1-lga08.mlab-oti.measurement-lab.org"
 Thu 09/03/2020  9:08:10.15 ,,,"download No available M-Lab servers"
-Thu 09/03/2020  9:23:10.39 ,22.58366790821545,4.918892466194463
-Thu 09/03/2020  9:38:10.14 ,15.374640027557701,4.095256909028604
+Thu 09/03/2020  9:23:10.39 ,22.58366790821545,4.918892466194463,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
+Thu 09/03/2020  9:38:10.14 ,15.374640027557701,4.095256909028604,0,"ndt-iupui-mlab1-lga03.mlab-oti.measurement-lab.org"
 Thu 09/03/2020  9:53:10.05 ,,,"download No available M-Lab servers"
-Thu 09/03/2020 10:08:10.21 ,14.70220086642326,3.8457918552036197
+Thu 09/03/2020 10:08:10.21 ,14.70220086642326,3.8457918552036197,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
 Thu 09/03/2020 10:23:09.90 ,,,"download No available M-Lab servers"
-Thu 09/03/2020 10:38:10.24 ,22.55088320905937,6.3044401289315095
+Thu 09/03/2020 10:38:10.24 ,22.55088320905937,6.3044401289315095,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
 Thu 09/03/2020 10:53:10.00 ,,,"download No available M-Lab servers"
-Thu 09/03/2020 11:08:09.87 ,16.40020586364425,4.7964677651575744
-Thu 09/03/2020 11:23:10.02 ,13.006599227653762,3.306788690962575
+Thu 09/03/2020 11:08:09.87 ,16.40020586364425,4.7964677651575744,0,"ndt-iupui-mlab3-lga08.mlab-oti.measurement-lab.org"
+Thu 09/03/2020 11:23:10.02 ,13.006599227653762,3.306788690962575,0,"ndt-iupui-mlab3-lga06.mlab-oti.measurement-lab.org"
 Thu 09/03/2020 11:38:10.48 ,,,"download No available M-Lab servers"
-Thu 09/03/2020 11:53:10.32 ,22.996206576402322,5.7057552530992774
+Thu 09/03/2020 11:53:10.32 ,22.996206576402322,5.7057552530992774,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
 Thu 09/03/2020 12:16:31.10 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Thu 09/03/2020 12:38:50.03 ,,,"download websocket: bad handshake"
 Thu 09/03/2020 12:53:13.55 ,,,"download No available M-Lab servers"
 Thu 09/03/2020 13:08:13.29 ,,,"download No available M-Lab servers"
 Thu 09/03/2020 13:23:16.75 ,,,"download No available M-Lab servers"
 Thu 09/03/2020 13:38:12.25 ,,,"download No available M-Lab servers"
-Thu 09/03/2020 13:53:10.34 ,28.46980760063307,5.749705930138099
+Thu 09/03/2020 13:53:10.34 ,28.46980760063307,5.749705930138099,0.004066045048214382,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
 Thu 09/03/2020 14:08:10.42 ,,,"download No available M-Lab servers"
 Thu 09/03/2020 14:23:10.30 ,,,"download websocket: bad handshake"
 Thu 09/03/2020 14:38:10.20 ,,,"download No available M-Lab servers"
 Thu 09/03/2020 14:53:10.30 ,,,"download No available M-Lab servers"
-Thu 09/03/2020 15:08:10.48 ,15.354767651331722,3.6376117611761174
+Thu 09/03/2020 15:08:10.48 ,15.354767651331722,3.6376117611761174,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
 Thu 09/03/2020 15:23:10.32 ,,,"download No available M-Lab servers"
 Thu 09/03/2020 15:38:10.19 ,,,"download No available M-Lab servers"
 Thu 09/03/2020 15:53:10.18 ,,,"download No available M-Lab servers"
@@ -84,7 +84,7 @@ Thu 09/03/2020 17:08:11.14 ,,,"download No available M-Lab servers"
 Thu 09/03/2020 17:23:10.36 ,,,"download No available M-Lab servers"
 Thu 09/03/2020 17:38:11.16 ,,,"download No available M-Lab servers"
 Thu 09/03/2020 17:53:10.07 ,,,"download No available M-Lab servers"
-Thu 09/03/2020 18:08:11.17 ,16.08475994754663,3.249350846678262
+Thu 09/03/2020 18:08:11.17 ,16.08475994754663,3.249350846678262,0,"ndt-iupui-mlab2-lga04.mlab-oti.measurement-lab.org"
 Thu 09/03/2020 18:23:10.11 ,,,"download No available M-Lab servers"
 Thu 09/03/2020 18:38:10.83 ,,,"download No available M-Lab servers"
 Thu 09/03/2020 18:53:09.96 ,,,"download No available M-Lab servers"
@@ -95,29 +95,29 @@ Thu 09/03/2020 19:53:10.11 ,,,"download No available M-Lab servers"
 Thu 09/03/2020 20:08:11.05 ,,,"download No available M-Lab servers"
 Thu 09/03/2020 20:23:09.98 ,,,"download No available M-Lab servers"
 Thu 09/03/2020 20:38:10.77 ,,,"download No available M-Lab servers"
-Thu 09/03/2020 20:53:09.62 ,13.957259347879754,3.1851848882653573
-Thu 09/03/2020 21:08:10.61 ,10.10125053677116,2.5098160947415225
+Thu 09/03/2020 20:53:09.62 ,13.957259347879754,3.1851848882653573,0.01725336375597693,"ndt-iupui-mlab1-lga08.mlab-oti.measurement-lab.org"
+Thu 09/03/2020 21:08:10.61 ,10.10125053677116,2.5098160947415225,0.03529850933911519,"ndt-iupui-mlab2-lga06.mlab-oti.measurement-lab.org"
 Thu 09/03/2020 21:23:09.83 ,,,"download No available M-Lab servers"
-Thu 09/03/2020 21:38:10.75 ,13.598281190844949,3.124860288918073
+Thu 09/03/2020 21:38:10.75 ,13.598281190844949,3.124860288918073,0.03103921634907808,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
 Thu 09/03/2020 21:53:10.01 ,,,"download No available M-Lab servers"
 Thu 09/03/2020 22:08:10.62 ,,,"download No available M-Lab servers"
-Thu 09/03/2020 22:23:10.04 ,13.109532420367707,2.640196818107266
+Thu 09/03/2020 22:23:10.04 ,13.109532420367707,2.640196818107266,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
 Thu 09/03/2020 22:38:11.00 ,,,"download No available M-Lab servers"
-Thu 09/03/2020 22:53:10.23 ,15.070496851482106,3.9228357723577236
+Thu 09/03/2020 22:53:10.23 ,15.070496851482106,3.9228357723577236,0,"ndt-iupui-mlab2-lga04.mlab-oti.measurement-lab.org"
 Thu 09/03/2020 23:08:14.07 ,,,"download No available M-Lab servers"
 Thu 09/03/2020 23:23:10.02 ,,,"download No available M-Lab servers"
-Thu 09/03/2020 23:38:10.98 ,14.489651786733646,3.487224555735057
+Thu 09/03/2020 23:38:10.98 ,14.489651786733646,3.487224555735057,0.008026363415263811,"ndt-iupui-mlab1-lga03.mlab-oti.measurement-lab.org"
 Thu 09/03/2020 23:53:10.02 ,,,"download No available M-Lab servers"
 Fri 09/04/2020  0:08:14.64 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Fri 09/04/2020  0:23:11.92 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": net/http: TLS handshake timeout"
 Fri 09/04/2020  0:38:15.72 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Fri 09/04/2020  0:53:13.60 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Fri 09/04/2020  1:08:11.71 ,20.394531896619036,5.431087567220483
+Fri 09/04/2020  1:08:11.71 ,20.394531896619036,5.431087567220483,0.01725035894924992,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
 Fri 09/04/2020  1:23:10.16 ,,,"download No available M-Lab servers"
 Fri 09/04/2020  1:44:41.79 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Fri 09/04/2020  1:53:14.34 ,,,"download No available M-Lab servers"
-Fri 09/04/2020  2:08:37.52 ,13.595989490118425,4.129996925914541
-Fri 09/04/2020  2:23:13.86 ,14.561668760023963,3.0991588521753126
+Fri 09/04/2020  2:08:37.52 ,13.595989490118425,4.129996925914541,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Fri 09/04/2020  2:23:13.86 ,14.561668760023963,3.0991588521753126,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Fri 09/04/2020  2:38:30.15 ,,,"download No available M-Lab servers"
 Fri 09/04/2020  2:53:13.49 ,,,"download No available M-Lab servers"
 Fri 09/04/2020  3:08:10.35 ,,,"download No available M-Lab servers"
@@ -126,17 +126,17 @@ Fri 09/04/2020  3:38:11.05 ,,,"download No available M-Lab servers"
 Fri 09/04/2020  3:53:09.95 ,,,"download No available M-Lab servers"
 Fri 09/04/2020  4:08:11.10 ,,,"download No available M-Lab servers"
 Fri 09/04/2020  4:23:09.98 ,,,"download No available M-Lab servers"
-Fri 09/04/2020  4:38:11.19 ,24.72947807770323,6.53494761914374
+Fri 09/04/2020  4:38:11.19 ,24.72947807770323,6.53494761914374,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
 Fri 09/04/2020  4:53:10.11 ,,,"download No available M-Lab servers"
 Fri 09/04/2020  5:08:11.12 ,,,"download No available M-Lab servers"
 Fri 09/04/2020  5:23:09.81 ,,,"download No available M-Lab servers"
-Fri 09/04/2020  5:38:10.49 ,15.442592620256947,3.6410370792462046
+Fri 09/04/2020  5:38:10.49 ,15.442592620256947,3.6410370792462046,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Fri 09/04/2020  5:53:09.59 ,,,"download No available M-Lab servers"
 Fri 09/04/2020  6:08:11.23 ,,,"download No available M-Lab servers"
 Fri 09/04/2020  6:23:10.04 ,,,"download No available M-Lab servers"
 Fri 09/04/2020  6:38:11.85 ,,,"download No available M-Lab servers"
 Fri 09/04/2020  6:53:10.17 ,,,"download No available M-Lab servers"
-Fri 09/04/2020  7:08:12.06 ,14.080062963970617,3.6009513305392344
+Fri 09/04/2020  7:08:12.06 ,14.080062963970617,3.6009513305392344,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Fri 09/04/2020  7:23:10.69 ,,,"download No available M-Lab servers"
 Fri 09/04/2020  7:38:12.02 ,,,"download No available M-Lab servers"
 Fri 09/04/2020  7:53:10.02 ,,,"download No available M-Lab servers"
@@ -145,7 +145,7 @@ Fri 09/04/2020  8:23:10.14 ,,,"download No available M-Lab servers"
 Fri 09/04/2020  8:38:11.86 ,,,"download No available M-Lab servers"
 Fri 09/04/2020  8:53:10.02 ,,,"download No available M-Lab servers"
 Fri 09/04/2020  9:08:11.97 ,,,"download No available M-Lab servers"
-Fri 09/04/2020  9:23:09.71 ,22.5311588879007,5.609923523260821
+Fri 09/04/2020  9:23:09.71 ,22.5311588879007,5.609923523260821,0.005178947535700684,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
 Fri 09/04/2020  9:38:11.55 ,,,"download No available M-Lab servers"
 Fri 09/04/2020  9:53:10.08 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 10:08:11.64 ,,,"download No available M-Lab servers"
@@ -153,7 +153,7 @@ Fri 09/04/2020 10:23:11.75 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 10:38:16.58 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 10:53:09.96 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 11:08:11.28 ,,,"download No available M-Lab servers"
-Fri 09/04/2020 11:23:10.20 ,15.885290142418318,3.784721564819872
+Fri 09/04/2020 11:23:10.20 ,15.885290142418318,3.784721564819872,0,"ndt-iupui-mlab3-lga03.mlab-oti.measurement-lab.org"
 Fri 09/04/2020 11:38:12.54 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 11:53:09.90 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 12:15:30.08 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
@@ -161,7 +161,7 @@ Fri 09/04/2020 12:38:19.80 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 12:53:19.09 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 13:08:38.19 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": net/http: TLS handshake timeout"
 Fri 09/04/2020 13:23:10.38 ,,,"download No available M-Lab servers"
-Fri 09/04/2020 13:38:11.48 ,16.718363906792263,4.366840957717779
+Fri 09/04/2020 13:38:11.48 ,16.718363906792263,4.366840957717779,0,"ndt-iupui-mlab1-lga04.mlab-oti.measurement-lab.org"
 Fri 09/04/2020 13:53:10.06 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 14:08:11.91 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 14:23:12.03 ,,,"download No available M-Lab servers"
@@ -170,7 +170,7 @@ Fri 09/04/2020 14:53:09.90 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 15:08:11.61 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 15:23:10.15 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 15:38:11.49 ,,,"download No available M-Lab servers"
-Fri 09/04/2020 15:53:10.08 ,11.86101267240253,2.92425075534746
+Fri 09/04/2020 15:53:10.08 ,11.86101267240253,2.92425075534746,0,"ndt-iupui-mlab1-lga05.mlab-oti.measurement-lab.org"
 Fri 09/04/2020 16:08:11.26 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 16:23:10.15 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 16:38:11.37 ,,,"download No available M-Lab servers"
@@ -181,17 +181,17 @@ Fri 09/04/2020 17:38:11.16 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 17:53:17.75 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 18:08:11.24 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 18:23:15.63 ,,,"download No available M-Lab servers"
-Fri 09/04/2020 18:38:11.18 ,11.971018733013516,2.633757072878136
+Fri 09/04/2020 18:38:11.18 ,11.971018733013516,2.633757072878136,0,"ndt-iupui-mlab2-lga05.mlab-oti.measurement-lab.org"
 Fri 09/04/2020 18:53:10.17 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 19:08:10.98 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 19:23:09.91 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 19:38:11.04 ,,,"download No available M-Lab servers"
-Fri 09/04/2020 19:53:09.81 ,15.539019014531736,3.4359967611336026
+Fri 09/04/2020 19:53:09.81 ,15.539019014531736,3.4359967611336026,0,"ndt-iupui-mlab1-lga03.mlab-oti.measurement-lab.org"
 Fri 09/04/2020 20:08:10.93 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 20:23:10.07 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 20:38:11.49 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 20:53:17.51 ,,,"download No available M-Lab servers"
-Fri 09/04/2020 21:08:10.94 ,8.863711456223273,2.950989405052974
+Fri 09/04/2020 21:08:10.94 ,8.863711456223273,2.950989405052974,0.06699770262124381,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
 Fri 09/04/2020 21:23:10.09 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 21:38:11.00 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 21:53:09.82 ,,,"download No available M-Lab servers"
@@ -199,9 +199,9 @@ Fri 09/04/2020 22:08:11.05 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 22:23:09.95 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 22:38:10.69 ,,,"download No available M-Lab servers"
 Fri 09/04/2020 22:53:09.63 ,,,"download No available M-Lab servers"
-Fri 09/04/2020 23:08:10.57 ,9.718578960486205,3.0778573005519316
+Fri 09/04/2020 23:08:10.57 ,9.718578960486205,3.0778573005519316,0.012268519919034491,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Fri 09/04/2020 23:23:09.72 ,,,"download No available M-Lab servers"
-Fri 09/04/2020 23:38:12.29 ,9.61865813278085,1.909388866639968
+Fri 09/04/2020 23:38:12.29 ,9.61865813278085,1.909388866639968,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
 Fri 09/04/2020 23:53:10.06 ,,,"download No available M-Lab servers"
 Sat 09/05/2020  0:08:11.65 ,,,"download No available M-Lab servers"
 Sat 09/05/2020  0:23:10.01 ,,,"download No available M-Lab servers"
@@ -220,48 +220,48 @@ Sat 09/05/2020  3:38:11.07 ,,,"download No available M-Lab servers"
 Sat 09/05/2020  3:53:10.15 ,,,"download No available M-Lab servers"
 Sat 09/05/2020  4:08:10.73 ,,,"download No available M-Lab servers"
 Sat 09/05/2020  4:23:10.38 ,,,"download No available M-Lab servers"
-Sat 09/05/2020  4:38:10.88 ,26.876107917198077,7.183375375375375
-Sat 09/05/2020  4:53:10.07 ,13.82847432024169,3.726601465994242
+Sat 09/05/2020  4:38:10.88 ,26.876107917198077,7.183375375375375,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
+Sat 09/05/2020  4:53:10.07 ,13.82847432024169,3.726601465994242,0,"ndt-iupui-mlab1-lga06.mlab-oti.measurement-lab.org"
 Sat 09/05/2020  5:08:10.93 ,,,"download No available M-Lab servers"
 Sat 09/05/2020  5:23:10.27 ,,,"download No available M-Lab servers"
 Sat 09/05/2020  5:38:10.83 ,,,"download No available M-Lab servers"
 Sat 09/05/2020  5:53:09.97 ,,,"download No available M-Lab servers"
-Sat 09/05/2020  6:08:10.80 ,16.18748569013868,4.101101691510306
+Sat 09/05/2020  6:08:10.80 ,16.18748569013868,4.101101691510306,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Sat 09/05/2020  6:23:10.00 ,,,"download No available M-Lab servers"
 Sat 09/05/2020  6:38:10.64 ,,,"download No available M-Lab servers"
 Sat 09/05/2020  6:53:09.75 ,,,"download No available M-Lab servers"
-Sat 09/05/2020  7:08:10.48 ,25.719391844110948,6.520765407754683
-Sat 09/05/2020  7:23:09.94 ,17.262098058065757,4.823835506840547
+Sat 09/05/2020  7:08:10.48 ,25.719391844110948,6.520765407754683,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
+Sat 09/05/2020  7:23:09.94 ,17.262098058065757,4.823835506840547,0,"ndt-iupui-mlab3-lga08.mlab-oti.measurement-lab.org"
 Sat 09/05/2020  7:38:11.09 ,,,"download No available M-Lab servers"
-Sat 09/05/2020  7:53:10.10 ,15.20771532284677,4.043297479400902
-Sat 09/05/2020  8:08:11.10 ,13.091401599878681,3.188046363581767
+Sat 09/05/2020  7:53:10.10 ,15.20771532284677,4.043297479400902,0.007509231211080581,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Sat 09/05/2020  8:08:11.10 ,13.091401599878681,3.188046363581767,0,"ndt-iupui-mlab1-lga06.mlab-oti.measurement-lab.org"
 Sat 09/05/2020  8:23:10.28 ,,,"download No available M-Lab servers"
 Sat 09/05/2020  8:38:10.98 ,,,"download No available M-Lab servers"
 Sat 09/05/2020  8:53:10.75 ,,,"download No available M-Lab servers"
 Sat 09/05/2020  9:08:11.07 ,,,"download No available M-Lab servers"
 Sat 09/05/2020  9:23:10.13 ,,,"download No available M-Lab servers"
 Sat 09/05/2020  9:38:14.17 ,,,"download No available M-Lab servers"
-Sat 09/05/2020  9:53:10.01 ,17.112453951048277,4.304005110188439
+Sat 09/05/2020  9:53:10.01 ,17.112453951048277,4.304005110188439,0,"ndt-iupui-mlab2-lga08.mlab-oti.measurement-lab.org"
 Sat 09/05/2020 10:08:11.00 ,,,"download No available M-Lab servers"
-Sat 09/05/2020 10:23:10.17 ,14.316552013422818,3.781456105371277
+Sat 09/05/2020 10:23:10.17 ,14.316552013422818,3.781456105371277,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Sat 09/05/2020 10:38:11.23 ,,,"download No available M-Lab servers"
-Sat 09/05/2020 10:53:10.42 ,16.354285605411068,3.802116964521167
+Sat 09/05/2020 10:53:10.42 ,16.354285605411068,3.802116964521167,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Sat 09/05/2020 11:08:11.27 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 11:23:10.21 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 11:38:10.95 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 11:53:10.38 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 12:15:01.57 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Sat 09/05/2020 12:23:09.50 ,14.703151352388259,3.1975870481259703
+Sat 09/05/2020 12:23:09.50 ,14.703151352388259,3.1975870481259703,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Sat 09/05/2020 12:38:38.07 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 12:53:16.67 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 13:08:10.58 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 13:23:10.22 ,,,"download No available M-Lab servers"
-Sat 09/05/2020 13:38:10.10 ,25.34856264290783,5.2846318741861165
+Sat 09/05/2020 13:38:10.10 ,25.34856264290783,5.2846318741861165,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
 Sat 09/05/2020 13:53:09.92 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 14:08:09.95 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 14:23:10.25 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 14:38:10.89 ,,,"download No available M-Lab servers"
-Sat 09/05/2020 14:53:11.33 ,13.748678770381064,3.3428005703154806
+Sat 09/05/2020 14:53:11.33 ,13.748678770381064,3.3428005703154806,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Sat 09/05/2020 15:08:10.34 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 15:23:10.24 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 15:38:10.14 ,,,"download No available M-Lab servers"
@@ -269,13 +269,13 @@ Sat 09/05/2020 15:53:10.13 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 16:08:10.54 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 16:23:10.21 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 16:38:10.61 ,,,"download No available M-Lab servers"
-Sat 09/05/2020 16:53:10.17 ,13.862322963648278,3.5766248731994317
+Sat 09/05/2020 16:53:10.17 ,13.862322963648278,3.5766248731994317,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Sat 09/05/2020 17:08:11.09 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 17:23:10.04 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 17:38:10.91 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 17:53:09.99 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 18:08:11.05 ,,,"download No available M-Lab servers"
-Sat 09/05/2020 18:23:09.64 ,14.102107107488383,3.0999074111348173
+Sat 09/05/2020 18:23:09.64 ,14.102107107488383,3.0999074111348173,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Sat 09/05/2020 18:38:09.70 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 18:53:09.73 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 19:08:09.86 ,,,"download No available M-Lab servers"
@@ -291,66 +291,66 @@ Sat 09/05/2020 21:23:09.83 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 21:38:09.74 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 21:53:09.77 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 22:08:11.06 ,,,"download No available M-Lab servers"
-Sat 09/05/2020 22:23:10.00 ,13.450078920716209,2.6000498987709357
+Sat 09/05/2020 22:23:10.00 ,13.450078920716209,2.6000498987709357,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Sat 09/05/2020 22:38:11.04 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 22:53:10.06 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 23:08:10.88 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 23:23:10.16 ,,,"download No available M-Lab servers"
 Sat 09/05/2020 23:38:11.05 ,,,"download No available M-Lab servers"
-Sat 09/05/2020 23:53:10.09 ,14.667193999318105,2.9742911924285074
+Sat 09/05/2020 23:53:10.09 ,14.667193999318105,2.9742911924285074,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
 Sun 09/06/2020  0:08:10.79 ,,,"download No available M-Lab servers"
 Sun 09/06/2020  0:23:10.45 ,,,"download No available M-Lab servers"
-Sun 09/06/2020  0:38:10.86 ,15.106817590129607,3.6400112490458394
+Sun 09/06/2020  0:38:10.86 ,15.106817590129607,3.6400112490458394,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Sun 09/06/2020  0:53:09.70 ,,,"download No available M-Lab servers"
-Sun 09/06/2020  1:08:10.84 ,23.802059216209848,5.530602873886168
+Sun 09/06/2020  1:08:10.84 ,23.802059216209848,5.530602873886168,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
 Sun 09/06/2020  1:23:09.83 ,,,"download No available M-Lab servers"
 Sun 09/06/2020  1:44:22.81 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Sun 09/06/2020  1:53:15.28 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": net/http: TLS handshake timeout"
-Sun 09/06/2020  2:08:14.97 ,11.404617853089656,4.002429250486371
-Sun 09/06/2020  2:23:14.14 ,17.773416819942867,4.510580293603351
+Sun 09/06/2020  2:08:14.97 ,11.404617853089656,4.002429250486371,0,"ndt-iupui-mlab1-lga05.mlab-oti.measurement-lab.org"
+Sun 09/06/2020  2:23:14.14 ,17.773416819942867,4.510580293603351,0,"ndt-iupui-mlab2-lga04.mlab-oti.measurement-lab.org"
 Sun 09/06/2020  2:38:15.47 ,,,"download No available M-Lab servers"
-Sun 09/06/2020  2:53:10.49 ,17.682355893594842,4.59784168541624
+Sun 09/06/2020  2:53:10.49 ,17.682355893594842,4.59784168541624,0,"ndt-iupui-mlab2-lga08.mlab-oti.measurement-lab.org"
 Sun 09/06/2020  3:08:11.00 ,,,"download No available M-Lab servers"
 Sun 09/06/2020  3:23:13.47 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": net/http: TLS handshake timeout"
 Sun 09/06/2020  3:38:14.83 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Sun 09/06/2020  3:53:13.51 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Sun 09/06/2020  4:08:15.65 ,12.756751569435002,4.0506788797470925
+Sun 09/06/2020  4:08:15.65 ,12.756751569435002,4.0506788797470925,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Sun 09/06/2020  4:23:10.06 ,,,"download No available M-Lab servers"
-Sun 09/06/2020  4:38:10.95 ,16.39275039269953,4.1197805805805805
+Sun 09/06/2020  4:38:10.95 ,16.39275039269953,4.1197805805805805,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Sun 09/06/2020  4:53:10.19 ,,,"download No available M-Lab servers"
 Sun 09/06/2020  5:08:10.90 ,,,"download No available M-Lab servers"
 Sun 09/06/2020  5:23:10.15 ,,,"download No available M-Lab servers"
 Sun 09/06/2020  5:38:10.87 ,,,"download No available M-Lab servers"
-Sun 09/06/2020  5:53:09.68 ,28.154255841833223,6.363737561815524
-Sun 09/06/2020  6:08:18.71 ,9.872108022954878,3.7245449369662467
+Sun 09/06/2020  5:53:09.68 ,28.154255841833223,6.363737561815524,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
+Sun 09/06/2020  6:08:18.71 ,9.872108022954878,3.7245449369662467,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Sun 09/06/2020  6:23:10.43 ,,,"download No available M-Lab servers"
 Sun 09/06/2020  6:38:10.37 ,,,"download No available M-Lab servers"
 Sun 09/06/2020  6:53:10.21 ,,,"download No available M-Lab servers"
 Sun 09/06/2020  7:08:10.24 ,,,"download No available M-Lab servers"
 Sun 09/06/2020  7:23:10.45 ,,,"download No available M-Lab servers"
 Sun 09/06/2020  7:38:10.27 ,,,"download No available M-Lab servers"
-Sun 09/06/2020  7:53:09.98 ,16.589947469421777,3.91822852081488
+Sun 09/06/2020  7:53:09.98 ,16.589947469421777,3.91822852081488,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
 Sun 09/06/2020  8:08:10.28 ,,,"download No available M-Lab servers"
 Sun 09/06/2020  8:23:09.84 ,,,"download No available M-Lab servers"
 Sun 09/06/2020  8:38:09.96 ,,,"download No available M-Lab servers"
 Sun 09/06/2020  8:53:09.84 ,,,"download No available M-Lab servers"
 Sun 09/06/2020  9:08:10.06 ,,,"download No available M-Lab servers"
-Sun 09/06/2020  9:23:09.59 ,13.360374477781997,3.0917533233383305
+Sun 09/06/2020  9:23:09.59 ,13.360374477781997,3.0917533233383305,0,"ndt-iupui-mlab1-lga05.mlab-oti.measurement-lab.org"
 Sun 09/06/2020  9:38:12.89 ,,,"download No available M-Lab servers"
-Sun 09/06/2020  9:53:09.86 ,16.89947261663286,3.577049403202911
+Sun 09/06/2020  9:53:09.86 ,16.89947261663286,3.577049403202911,0,"ndt-iupui-mlab1-lga03.mlab-oti.measurement-lab.org"
 Sun 09/06/2020 10:08:09.62 ,,,"download No available M-Lab servers"
 Sun 09/06/2020 10:23:09.86 ,,,"download No available M-Lab servers"
 Sun 09/06/2020 10:38:11.44 ,,,"download No available M-Lab servers"
 Sun 09/06/2020 10:53:09.92 ,,,"download No available M-Lab servers"
 Sun 09/06/2020 11:08:10.32 ,,,"download No available M-Lab servers"
-Sun 09/06/2020 11:23:09.88 ,14.845236080428352,3.5138349691021444
+Sun 09/06/2020 11:23:09.88 ,14.845236080428352,3.5138349691021444,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Sun 09/06/2020 11:38:09.93 ,,,"download No available M-Lab servers"
 Sun 09/06/2020 11:53:09.98 ,,,"download No available M-Lab servers"
 Sun 09/06/2020 12:15:30.48 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Sun 09/06/2020 12:23:09.48 ,,,"download No available M-Lab servers"
 Sun 09/06/2020 12:38:21.53 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Sun 09/06/2020 12:53:20.09 ,,,"download No available M-Lab servers"
-Sun 09/06/2020 13:08:11.34 ,16.934500626023308,4.409250024992502
+Sun 09/06/2020 13:08:11.34 ,16.934500626023308,4.409250024992502,0,"ndt-iupui-mlab3-lga03.mlab-oti.measurement-lab.org"
 Sun 09/06/2020 13:23:10.13 ,,,"download No available M-Lab servers"
 Sun 09/06/2020 13:38:11.35 ,,,"download No available M-Lab servers"
 Sun 09/06/2020 13:53:09.64 ,,,"download No available M-Lab servers"
@@ -363,18 +363,18 @@ Sun 09/06/2020 15:23:10.14 ,,,"download No available M-Lab servers"
 Sun 09/06/2020 15:38:10.85 ,,,"download No available M-Lab servers"
 Sun 09/06/2020 15:53:10.04 ,,,"download No available M-Lab servers"
 Sun 09/06/2020 16:08:12.37 ,,,"download No available M-Lab servers"
-Sun 09/06/2020 16:23:10.05 ,13.953319359756097,3.5413350668345998
+Sun 09/06/2020 16:23:10.05 ,13.953319359756097,3.5413350668345998,0.01705619830424005,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Sun 09/06/2020 16:38:11.98 ,,,"download No available M-Lab servers"
 Sun 09/06/2020 16:53:11.03 ,,,"download No available M-Lab servers"
-Sun 09/06/2020 17:08:11.41 ,14.366325304651298,3.450229802225959
+Sun 09/06/2020 17:08:11.41 ,14.366325304651298,3.450229802225959,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Sun 09/06/2020 17:23:10.26 ,,,"download No available M-Lab servers"
-Sun 09/06/2020 17:38:11.04 ,17.350685844996704,3.93771758133553
+Sun 09/06/2020 17:38:11.04 ,17.350685844996704,3.93771758133553,0,"ndt-iupui-mlab2-lga08.mlab-oti.measurement-lab.org"
 Sun 09/06/2020 17:53:10.13 ,,,"download No available M-Lab servers"
 Sun 09/06/2020 18:08:11.33 ,,,"download No available M-Lab servers"
 Sun 09/06/2020 18:23:10.21 ,,,"download No available M-Lab servers"
 Sun 09/06/2020 18:38:10.95 ,,,"download No available M-Lab servers"
-Sun 09/06/2020 18:53:10.16 ,16.44451860081989,3.4012019386106624
-Sun 09/06/2020 19:08:11.53 ,12.507495458084609,2.817090189335626
+Sun 09/06/2020 18:53:10.16 ,16.44451860081989,3.4012019386106624,0,"ndt-iupui-mlab3-lga08.mlab-oti.measurement-lab.org"
+Sun 09/06/2020 19:08:11.53 ,12.507495458084609,2.817090189335626,0,"ndt-iupui-mlab2-lga05.mlab-oti.measurement-lab.org"
 Sun 09/06/2020 19:23:10.15 ,,,"download No available M-Lab servers"
 Sun 09/06/2020 19:38:11.29 ,,,"download No available M-Lab servers"
 Sun 09/06/2020 19:53:10.09 ,,,"download No available M-Lab servers"
@@ -387,19 +387,19 @@ Sun 09/06/2020 21:23:10.34 ,,,"download No available M-Lab servers"
 Sun 09/06/2020 21:38:11.17 ,,,"download No available M-Lab servers"
 Sun 09/06/2020 21:53:10.61 ,,,"download No available M-Lab servers"
 Sun 09/06/2020 22:08:10.97 ,,,"download No available M-Lab servers"
-Sun 09/06/2020 22:23:10.17 ,13.98660346592848,3.0117164597517023
+Sun 09/06/2020 22:23:10.17 ,13.98660346592848,3.0117164597517023,0,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
 Sun 09/06/2020 22:38:11.30 ,,,"download No available M-Lab servers"
 Sun 09/06/2020 22:53:10.12 ,,,"download No available M-Lab servers"
 Sun 09/06/2020 23:08:11.26 ,,,"download No available M-Lab servers"
 Sun 09/06/2020 23:23:09.68 ,,,"download No available M-Lab servers"
-Sun 09/06/2020 23:38:10.64 ,16.363798203500075,3.8037169815116587
-Sun 09/06/2020 23:53:09.84 ,15.046995869460051,2.9733938271856117
-Mon 09/07/2020  0:08:11.16 ,16.482693438179947,3.406250730272568
+Sun 09/06/2020 23:38:10.64 ,16.363798203500075,3.8037169815116587,0.0010575713930529931,"ndt-iupui-mlab1-lga08.mlab-oti.measurement-lab.org"
+Sun 09/06/2020 23:53:09.84 ,15.046995869460051,2.9733938271856117,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Mon 09/07/2020  0:08:11.16 ,16.482693438179947,3.406250730272568,0,"ndt-iupui-mlab3-lga08.mlab-oti.measurement-lab.org"
 Mon 09/07/2020  0:23:10.32 ,,,"download No available M-Lab servers"
-Mon 09/07/2020  0:38:10.88 ,22.578866080156402,5.718524349834321
+Mon 09/07/2020  0:38:10.88 ,22.578866080156402,5.718524349834321,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
 Mon 09/07/2020  0:53:10.12 ,,,"download No available M-Lab servers"
-Mon 09/07/2020  1:08:11.43 ,15.876751192757052,3.6575106087726006
-Mon 09/07/2020  1:23:10.22 ,25.154454618222996,5.398103417139876
+Mon 09/07/2020  1:08:11.43 ,15.876751192757052,3.6575106087726006,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Mon 09/07/2020  1:23:10.22 ,25.154454618222996,5.398103417139876,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
 Mon 09/07/2020  1:44:18.32 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Mon 09/07/2020  1:53:09.73 ,,,"download No available M-Lab servers"
 Mon 09/07/2020  2:08:16.45 ,,,"download No available M-Lab servers"
@@ -410,7 +410,7 @@ Mon 09/07/2020  3:08:11.22 ,,,"download No available M-Lab servers"
 Mon 09/07/2020  3:23:10.30 ,,,"download No available M-Lab servers"
 Mon 09/07/2020  3:38:13.54 ,,,"download No available M-Lab servers"
 Mon 09/07/2020  3:53:10.05 ,,,"download No available M-Lab servers"
-Mon 09/07/2020  4:08:11.51 ,14.968779907861494,3.5033925280955756
+Mon 09/07/2020  4:08:11.51 ,14.968779907861494,3.5033925280955756,0,"ndt-iupui-mlab3-lga06.mlab-oti.measurement-lab.org"
 Mon 09/07/2020  4:23:11.84 ,,,"download No available M-Lab servers"
 Mon 09/07/2020  4:38:13.76 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Mon 09/07/2020  4:53:12.00 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
@@ -419,18 +419,18 @@ Mon 09/07/2020  5:23:13.34 ,,,"download No available M-Lab servers"
 Mon 09/07/2020  5:38:11.54 ,,,"download No available M-Lab servers"
 Mon 09/07/2020  5:53:09.56 ,,,"download No available M-Lab servers"
 Mon 09/07/2020  6:08:11.02 ,,,"download No available M-Lab servers"
-Mon 09/07/2020  6:23:10.33 ,18.352281357714553,4.711911821215493
+Mon 09/07/2020  6:23:10.33 ,18.352281357714553,4.711911821215493,0,"ndt-iupui-mlab1-lga08.mlab-oti.measurement-lab.org"
 Mon 09/07/2020  6:38:11.16 ,,,"download No available M-Lab servers"
-Mon 09/07/2020  6:53:10.38 ,16.159029593943565,4.128995393949232
+Mon 09/07/2020  6:53:10.38 ,16.159029593943565,4.128995393949232,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Mon 09/07/2020  7:08:11.37 ,,,"download No available M-Lab servers"
-Mon 09/07/2020  7:23:10.26 ,25.4034755780096,6.216098169382418
+Mon 09/07/2020  7:23:10.26 ,25.4034755780096,6.216098169382418,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
 Mon 09/07/2020  7:38:11.83 ,,,"download No available M-Lab servers"
 Mon 09/07/2020  7:53:10.25 ,,,"download No available M-Lab servers"
 Mon 09/07/2020  8:08:11.48 ,,,"download No available M-Lab servers"
 Mon 09/07/2020  8:23:10.18 ,,,"download No available M-Lab servers"
 Mon 09/07/2020  8:38:11.38 ,,,"download No available M-Lab servers"
 Mon 09/07/2020  8:53:10.41 ,,,"download No available M-Lab servers"
-Mon 09/07/2020  9:08:11.03 ,14.303548129865197,3.253255818714049
+Mon 09/07/2020  9:08:11.03 ,14.303548129865197,3.253255818714049,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Mon 09/07/2020  9:23:10.36 ,,,"download No available M-Lab servers"
 Mon 09/07/2020  9:38:11.31 ,,,"download No available M-Lab servers"
 Mon 09/07/2020  9:53:10.31 ,,,"download No available M-Lab servers"
@@ -440,13 +440,13 @@ Mon 09/07/2020 10:38:11.05 ,,,"download No available M-Lab servers"
 Mon 09/07/2020 10:53:10.60 ,,,"download No available M-Lab servers"
 Mon 09/07/2020 11:08:11.37 ,,,"download No available M-Lab servers"
 Mon 09/07/2020 11:23:10.38 ,,,"download No available M-Lab servers"
-Mon 09/07/2020 11:38:10.88 ,11.481850584120842,2.6159327731092437
+Mon 09/07/2020 11:38:10.88 ,11.481850584120842,2.6159327731092437,0.0014749057312610442,"ndt-iupui-mlab1-lga05.mlab-oti.measurement-lab.org"
 Mon 09/07/2020 11:53:10.05 ,,,"download No available M-Lab servers"
 Mon 09/07/2020 12:17:29.89 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Mon 09/07/2020 12:40:01.96 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Mon 09/07/2020 13:10:26.78 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Mon 09/07/2020 13:41:28.64 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Mon 09/07/2020 13:53:31.81 ,14.857380443216442,3.179535721596725
+Mon 09/07/2020 13:53:31.81 ,14.857380443216442,3.179535721596725,0,"ndt-iupui-mlab3-lga03.mlab-oti.measurement-lab.org"
 Mon 09/07/2020 14:08:53.50 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Mon 09/07/2020 14:23:10.12 ,,,"download No available M-Lab servers"
 Mon 09/07/2020 14:38:11.08 ,,,"download No available M-Lab servers"
@@ -459,7 +459,7 @@ Mon 09/07/2020 16:08:11.29 ,,,"download No available M-Lab servers"
 Mon 09/07/2020 16:23:10.38 ,,,"download No available M-Lab servers"
 Mon 09/07/2020 16:38:11.81 ,,,"download No available M-Lab servers"
 Mon 09/07/2020 16:53:12.48 ,,,"download No available M-Lab servers"
-Mon 09/07/2020 17:08:11.13 ,13.59005415737496,2.6676169121063364
+Mon 09/07/2020 17:08:11.13 ,13.59005415737496,2.6676169121063364,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Mon 09/07/2020 17:23:10.07 ,,,"download No available M-Lab servers"
 Mon 09/07/2020 17:38:11.39 ,,,"download No available M-Lab servers"
 Mon 09/07/2020 17:53:09.92 ,,,"download No available M-Lab servers"
@@ -470,42 +470,42 @@ Mon 09/07/2020 18:53:10.21 ,,,"download No available M-Lab servers"
 Mon 09/07/2020 19:08:11.74 ,,,"download No available M-Lab servers"
 Mon 09/07/2020 19:23:10.15 ,,,"download No available M-Lab servers"
 Mon 09/07/2020 19:38:11.13 ,,,"download No available M-Lab servers"
-Mon 09/07/2020 19:53:10.22 ,7.877469881514624,2.3988768101408
+Mon 09/07/2020 19:53:10.22 ,7.877469881514624,2.3988768101408,0,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
 Mon 09/07/2020 20:08:11.17 ,,,"download No available M-Lab servers"
 Mon 09/07/2020 20:23:10.34 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": dial tcp: lookup locate.measurementlab.net: no such host"
 Mon 09/07/2020 20:38:11.14 ,,,"download No available M-Lab servers"
-Mon 09/07/2020 20:53:10.11 ,1.0258789204959884,0.7031210986267166
-Mon 09/07/2020 21:08:11.09 ,3.696272846907443,1.9805437757171265
+Mon 09/07/2020 20:53:10.11 ,1.0258789204959884,0.7031210986267166,0.017706092232036667,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Mon 09/07/2020 21:08:11.09 ,3.696272846907443,1.9805437757171265,0.31524278012463847,"ndt-iupui-mlab1-lga03.mlab-oti.measurement-lab.org"
 Mon 09/07/2020 21:23:09.70 ,,,"download No available M-Lab servers"
 Mon 09/07/2020 21:38:11.02 ,,,"download No available M-Lab servers"
 Mon 09/07/2020 21:53:09.87 ,,,"download No available M-Lab servers"
-Mon 09/07/2020 22:08:11.34 ,11.08095227654754,2.4175047984644915
-Mon 09/07/2020 22:23:10.12 ,11.046359131881594,2.253762271318604
+Mon 09/07/2020 22:08:11.34 ,11.08095227654754,2.4175047984644915,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Mon 09/07/2020 22:23:10.12 ,11.046359131881594,2.253762271318604,0,"ndt-iupui-mlab1-lga06.mlab-oti.measurement-lab.org"
 Mon 09/07/2020 22:38:11.69 ,,,"download No available M-Lab servers"
-Mon 09/07/2020 22:53:10.13 ,13.302239402525755,2.6329929281541458
+Mon 09/07/2020 22:53:10.13 ,13.302239402525755,2.6329929281541458,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Mon 09/07/2020 23:08:11.08 ,,,"download No available M-Lab servers"
 Mon 09/07/2020 23:23:10.16 ,,,"download No available M-Lab servers"
 Mon 09/07/2020 23:38:11.04 ,,,"download No available M-Lab servers"
 Mon 09/07/2020 23:53:10.03 ,,,"download No available M-Lab servers"
-Tue 09/08/2020  0:08:11.03 ,22.683041739028624,4.612350694791563
+Tue 09/08/2020  0:08:11.03 ,22.683041739028624,4.612350694791563,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
 Tue 09/08/2020  0:23:09.90 ,,,"download No available M-Lab servers"
 Tue 09/08/2020  0:38:10.87 ,,,"download No available M-Lab servers"
-Tue 09/08/2020  0:53:09.72 ,23.203811823350726,5.308178599047579
+Tue 09/08/2020  0:53:09.72 ,23.203811823350726,5.308178599047579,0.01007052262839537,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
 Tue 09/08/2020  1:08:10.90 ,,,"download No available M-Lab servers"
-Tue 09/08/2020  1:23:10.04 ,15.28981948917684,3.7805177681299242
+Tue 09/08/2020  1:23:10.04 ,15.28981948917684,3.7805177681299242,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Tue 09/08/2020  1:44:32.06 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Tue 09/08/2020  1:53:21.56 ,,,"download No available M-Lab servers"
 Tue 09/08/2020  2:08:11.45 ,,,"download No available M-Lab servers"
-Tue 09/08/2020  2:23:14.49 ,15.584183447794203,4.414790489737858
+Tue 09/08/2020  2:23:14.49 ,15.584183447794203,4.414790489737858,0,"ndt-iupui-mlab1-lga08.mlab-oti.measurement-lab.org"
 Tue 09/08/2020  2:38:18.88 ,,,"download No available M-Lab servers"
 Tue 09/08/2020  2:53:10.31 ,,,"download No available M-Lab servers"
-Tue 09/08/2020  3:08:10.97 ,18.629115720524016,4.527301593714021
+Tue 09/08/2020  3:08:10.97 ,18.629115720524016,4.527301593714021,0,"ndt-iupui-mlab1-lga04.mlab-oti.measurement-lab.org"
 Tue 09/08/2020  3:23:10.66 ,,,"download No available M-Lab servers"
 Tue 09/08/2020  3:38:11.17 ,,,"download No available M-Lab servers"
 Tue 09/08/2020  3:53:10.19 ,,,"download No available M-Lab servers"
-Tue 09/08/2020  4:08:11.03 ,15.907653137521807,3.9912783405692234
+Tue 09/08/2020  4:08:11.03 ,15.907653137521807,3.9912783405692234,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Tue 09/08/2020  4:23:09.79 ,,,"download No available M-Lab servers"
-Tue 09/08/2020  4:38:10.88 ,26.807135407442395,6.858817373103087
+Tue 09/08/2020  4:38:10.88 ,26.807135407442395,6.858817373103087,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
 Tue 09/08/2020  4:53:09.75 ,,,"download No available M-Lab servers"
 Tue 09/08/2020  5:08:10.81 ,,,"download No available M-Lab servers"
 Tue 09/08/2020  5:23:09.93 ,,,"download No available M-Lab servers"
@@ -513,17 +513,17 @@ Tue 09/08/2020  5:38:14.98 ,,,"download No available M-Lab servers"
 Tue 09/08/2020  5:53:15.17 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Tue 09/08/2020  6:08:18.40 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Tue 09/08/2020  6:23:13.87 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Tue 09/08/2020  6:38:11.04 ,13.925127812350407,3.542450960728469
+Tue 09/08/2020  6:38:11.04 ,13.925127812350407,3.542450960728469,0,"ndt-iupui-mlab1-lga06.mlab-oti.measurement-lab.org"
 Tue 09/08/2020  6:53:09.96 ,,,"download No available M-Lab servers"
 Tue 09/08/2020  7:08:11.02 ,,,"download No available M-Lab servers"
-Tue 09/08/2020  7:23:10.17 ,24.64598216399653,5.969878542510122
+Tue 09/08/2020  7:23:10.17 ,24.64598216399653,5.969878542510122,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
 Tue 09/08/2020  7:38:10.97 ,,,"download No available M-Lab servers"
-Tue 09/08/2020  7:53:09.96 ,15.34363028182552,3.4747194906834817
+Tue 09/08/2020  7:53:09.96 ,15.34363028182552,3.4747194906834817,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Tue 09/08/2020  8:08:12.83 ,,,"download No available M-Lab servers"
 Tue 09/08/2020  8:23:10.77 ,,,"download No available M-Lab servers"
 Tue 09/08/2020  8:38:11.50 ,,,"download No available M-Lab servers"
 Tue 09/08/2020  8:53:10.21 ,,,"download No available M-Lab servers"
-Tue 09/08/2020  9:08:11.94 ,14.662464202588213,3.5553103895840517
+Tue 09/08/2020  9:08:11.94 ,14.662464202588213,3.5553103895840517,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Tue 09/08/2020  9:23:10.18 ,,,"download No available M-Lab servers"
 Tue 09/08/2020  9:38:11.02 ,,,"download No available M-Lab servers"
 Tue 09/08/2020  9:53:10.14 ,,,"download No available M-Lab servers"
@@ -533,12 +533,12 @@ Tue 09/08/2020 10:38:10.96 ,,,"download No available M-Lab servers"
 Tue 09/08/2020 10:53:10.51 ,,,"download No available M-Lab servers"
 Tue 09/08/2020 11:08:11.44 ,,,"download No available M-Lab servers"
 Tue 09/08/2020 11:23:10.09 ,,,"download No available M-Lab servers"
-Tue 09/08/2020 11:38:11.23 ,12.499389249269756,3.35045740342701
-Tue 09/08/2020 11:53:10.19 ,13.40376467918534,3.3236757455750423
+Tue 09/08/2020 11:38:11.23 ,12.499389249269756,3.35045740342701,0,"ndt-iupui-mlab2-lga05.mlab-oti.measurement-lab.org"
+Tue 09/08/2020 11:53:10.19 ,13.40376467918534,3.3236757455750423,0,"ndt-iupui-mlab3-lga06.mlab-oti.measurement-lab.org"
 Tue 09/08/2020 12:17:04.42 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Tue 09/08/2020 12:38:18.90 ,,,"download No available M-Lab servers"
 Tue 09/08/2020 12:53:33.41 ,,,"download No available M-Lab servers"
-Tue 09/08/2020 13:08:18.29 ,14.675590870797272,3.4841890383717864
+Tue 09/08/2020 13:08:18.29 ,14.675590870797272,3.4841890383717864,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Tue 09/08/2020 13:23:10.30 ,,,"download No available M-Lab servers"
 Tue 09/08/2020 13:38:11.00 ,,,"download No available M-Lab servers"
 Tue 09/08/2020 13:53:09.72 ,,,"download No available M-Lab servers"
@@ -546,9 +546,9 @@ Tue 09/08/2020 14:08:10.82 ,,,"download No available M-Lab servers"
 Tue 09/08/2020 14:23:12.98 ,,,"download No available M-Lab servers"
 Tue 09/08/2020 14:38:10.07 ,,,"download No available M-Lab servers"
 Tue 09/08/2020 14:53:10.05 ,,,"download No available M-Lab servers"
-Tue 09/08/2020 15:08:10.90 ,12.501785018203213,3.381387089032877
+Tue 09/08/2020 15:08:10.90 ,12.501785018203213,3.381387089032877,0,"ndt-iupui-mlab1-lga05.mlab-oti.measurement-lab.org"
 Tue 09/08/2020 15:23:10.01 ,,,"download No available M-Lab servers"
-Tue 09/08/2020 15:38:11.04 ,14.344257643577878,3.388309805109563
+Tue 09/08/2020 15:38:11.04 ,14.344257643577878,3.388309805109563,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
 Tue 09/08/2020 15:53:12.27 ,,,"download No available M-Lab servers"
 Tue 09/08/2020 16:08:10.88 ,,,"download No available M-Lab servers"
 Tue 09/08/2020 16:23:10.12 ,,,"download No available M-Lab servers"
@@ -556,21 +556,21 @@ Tue 09/08/2020 16:38:10.92 ,,,"download No available M-Lab servers"
 Tue 09/08/2020 16:53:10.10 ,,,"download No available M-Lab servers"
 Tue 09/08/2020 17:08:11.12 ,,,"download No available M-Lab servers"
 Tue 09/08/2020 17:23:10.09 ,,,"download No available M-Lab servers"
-Tue 09/08/2020 17:38:15.58 ,14.427137578542624,3.2800338361765125
+Tue 09/08/2020 17:38:15.58 ,14.427137578542624,3.2800338361765125,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Tue 09/08/2020 17:53:10.27 ,,,"download No available M-Lab servers"
-Tue 09/08/2020 18:08:11.04 ,13.044059156221339,3.0754723074438886
+Tue 09/08/2020 18:08:11.04 ,13.044059156221339,3.0754723074438886,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Tue 09/08/2020 18:23:10.44 ,,,"download No available M-Lab servers"
-Tue 09/08/2020 18:38:10.84 ,14.810120726616269,2.5920149663460563
+Tue 09/08/2020 18:38:10.84 ,14.810120726616269,2.5920149663460563,0,"ndt-iupui-mlab1-lga04.mlab-oti.measurement-lab.org"
 Tue 09/08/2020 18:53:10.26 ,,,"download No available M-Lab servers"
-Tue 09/08/2020 19:08:10.92 ,10.358325350235893,2.348335312666366
+Tue 09/08/2020 19:08:10.92 ,10.358325350235893,2.348335312666366,0,"ndt-iupui-mlab3-lga06.mlab-oti.measurement-lab.org"
 Tue 09/08/2020 19:23:10.19 ,,,"download No available M-Lab servers"
 Tue 09/08/2020 19:38:12.17 ,,,"download No available M-Lab servers"
 Tue 09/08/2020 19:53:10.02 ,,,"download No available M-Lab servers"
 Tue 09/08/2020 20:08:10.24 ,,,"download No available M-Lab servers"
 Tue 09/08/2020 20:23:10.35 ,,,"download No available M-Lab servers"
-Tue 09/08/2020 20:38:14.25 ,12.246748477751757,2.1264242375537425
-Tue 09/08/2020 20:53:10.07 ,11.113907530202562,2.0957088789491793
-Tue 09/08/2020 21:08:10.97 ,10.860126223360467,2.033079817468577
+Tue 09/08/2020 20:38:14.25 ,12.246748477751757,2.1264242375537425,0.001393383793106168,"ndt-iupui-mlab1-lga03.mlab-oti.measurement-lab.org"
+Tue 09/08/2020 20:53:10.07 ,11.113907530202562,2.0957088789491793,0,"ndt-iupui-mlab2-lga05.mlab-oti.measurement-lab.org"
+Tue 09/08/2020 21:08:10.97 ,10.860126223360467,2.033079817468577,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Tue 09/08/2020 21:23:11.30 ,,,"download No available M-Lab servers"
 Tue 09/08/2020 21:38:11.38 ,,,"download No available M-Lab servers"
 Tue 09/08/2020 21:53:10.17 ,,,"download No available M-Lab servers"
@@ -586,11 +586,11 @@ Wed 09/09/2020  0:08:11.00 ,,,"download No available M-Lab servers"
 Wed 09/09/2020  0:23:10.07 ,,,"download No available M-Lab servers"
 Wed 09/09/2020  0:38:12.24 ,,,"download No available M-Lab servers"
 Wed 09/09/2020  0:53:10.73 ,,,"download No available M-Lab servers"
-Wed 09/09/2020  1:08:11.43 ,15.011868791868793,3.755892317367578
+Wed 09/09/2020  1:08:11.43 ,15.011868791868793,3.755892317367578,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Wed 09/09/2020  1:23:10.18 ,,,"download No available M-Lab servers"
 Wed 09/09/2020  1:43:47.59 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Wed 09/09/2020  1:53:14.22 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Wed 09/09/2020  2:09:05.48 ,13.84363225405436,3.743003920941026
+Wed 09/09/2020  2:09:05.48 ,13.84363225405436,3.743003920941026,0,"ndt-iupui-mlab3-lga05.mlab-oti.measurement-lab.org"
 Wed 09/09/2020  2:23:13.46 ,,,"download No available M-Lab servers"
 Wed 09/09/2020  2:38:11.97 ,,,"download No available M-Lab servers"
 Wed 09/09/2020  2:53:11.86 ,,,"download No available M-Lab servers"
@@ -598,25 +598,25 @@ Wed 09/09/2020  3:08:15.05 ,,,"download No available M-Lab servers"
 Wed 09/09/2020  3:23:10.15 ,,,"download No available M-Lab servers"
 Wed 09/09/2020  3:38:11.16 ,,,"download No available M-Lab servers"
 Wed 09/09/2020  3:53:09.72 ,,,"download No available M-Lab servers"
-Wed 09/09/2020  4:08:10.97 ,19.52895779233363,5.309768425332927
+Wed 09/09/2020  4:08:10.97 ,19.52895779233363,5.309768425332927,0,"ndt-iupui-mlab3-lga04.mlab-oti.measurement-lab.org"
 Wed 09/09/2020  4:23:09.77 ,,,"download No available M-Lab servers"
-Wed 09/09/2020  4:38:11.86 ,26.7216869609836,6.982213768262576
+Wed 09/09/2020  4:38:11.86 ,26.7216869609836,6.982213768262576,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
 Wed 09/09/2020  4:53:09.76 ,,,"download No available M-Lab servers"
 Wed 09/09/2020  5:08:11.29 ,,,"download No available M-Lab servers"
-Wed 09/09/2020  5:23:09.97 ,25.454053784095272,7.508907190753307
+Wed 09/09/2020  5:23:09.97 ,25.454053784095272,7.508907190753307,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
 Wed 09/09/2020  5:38:10.89 ,,,"download No available M-Lab servers"
 Wed 09/09/2020  5:53:09.62 ,,,"download No available M-Lab servers"
 Wed 09/09/2020  6:08:11.10 ,,,"download No available M-Lab servers"
 Wed 09/09/2020  6:23:10.38 ,,,"download No available M-Lab servers"
 Wed 09/09/2020  6:38:14.64 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Wed 09/09/2020  6:53:11.21 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Wed 09/09/2020  7:08:15.62 ,19.026923953625467,5.565846822112035
+Wed 09/09/2020  7:08:15.62 ,19.026923953625467,5.565846822112035,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
 Wed 09/09/2020  7:23:13.76 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Wed 09/09/2020  7:38:11.09 ,,,"download No available M-Lab servers"
-Wed 09/09/2020  7:53:09.98 ,24.701821373010493,5.862666531891236
+Wed 09/09/2020  7:53:09.98 ,24.701821373010493,5.862666531891236,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
 Wed 09/09/2020  8:08:10.95 ,,,"download No available M-Lab servers"
 Wed 09/09/2020  8:23:09.95 ,,,"download No available M-Lab servers"
-Wed 09/09/2020  8:38:11.02 ,15.597917647512833,3.713390538695147
+Wed 09/09/2020  8:38:11.02 ,15.597917647512833,3.713390538695147,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Wed 09/09/2020  8:53:10.16 ,,,"download No available M-Lab servers"
 Wed 09/09/2020  9:08:10.90 ,,,"download No available M-Lab servers"
 Wed 09/09/2020  9:23:10.51 ,,,"download No available M-Lab servers"
@@ -635,17 +635,17 @@ Wed 09/09/2020 12:38:35.57 ,,,"download Get ""https://locate.measurementlab.net/
 Wed 09/09/2020 12:53:14.48 ,,,"download No available M-Lab servers"
 Wed 09/09/2020 13:08:27.36 ,,,"download No available M-Lab servers"
 Wed 09/09/2020 13:23:10.59 ,,,"download No available M-Lab servers"
-Wed 09/09/2020 13:38:10.97 ,16.994718619709108,3.8220581374120126
+Wed 09/09/2020 13:38:10.97 ,16.994718619709108,3.8220581374120126,0,"ndt-iupui-mlab2-lga04.mlab-oti.measurement-lab.org"
 Wed 09/09/2020 13:53:10.12 ,,,"download No available M-Lab servers"
 Wed 09/09/2020 14:08:11.86 ,,,"download No available M-Lab servers"
 Wed 09/09/2020 14:23:10.24 ,,,"download No available M-Lab servers"
-Wed 09/09/2020 14:38:11.80 ,14.186923626504479,3.4065973592659655
+Wed 09/09/2020 14:38:11.80 ,14.186923626504479,3.4065973592659655,0,"ndt-iupui-mlab1-lga05.mlab-oti.measurement-lab.org"
 Wed 09/09/2020 14:53:10.28 ,,,"download No available M-Lab servers"
 Wed 09/09/2020 15:08:11.55 ,,,"download No available M-Lab servers"
 Wed 09/09/2020 15:23:10.20 ,,,"download No available M-Lab servers"
 Wed 09/09/2020 15:38:11.47 ,,,"download No available M-Lab servers"
-Wed 09/09/2020 15:53:10.03 ,14.760285643742996,3.63350821001419
-Wed 09/09/2020 16:08:11.71 ,13.43171968509883,3.4809173059159
+Wed 09/09/2020 15:53:10.03 ,14.760285643742996,3.63350821001419,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Wed 09/09/2020 16:08:11.71 ,13.43171968509883,3.4809173059159,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Wed 09/09/2020 16:23:09.74 ,,,"download No available M-Lab servers"
 Wed 09/09/2020 16:38:10.76 ,,,"download No available M-Lab servers"
 Wed 09/09/2020 16:53:09.88 ,,,"download No available M-Lab servers"
@@ -654,15 +654,15 @@ Wed 09/09/2020 17:23:10.09 ,,,"download No available M-Lab servers"
 Wed 09/09/2020 17:38:10.94 ,,,"download No available M-Lab servers"
 Wed 09/09/2020 17:53:10.13 ,,,"download No available M-Lab servers"
 Wed 09/09/2020 18:08:11.25 ,,,"download No available M-Lab servers"
-Wed 09/09/2020 18:23:10.21 ,19.581590649508872,4.23749624075225
+Wed 09/09/2020 18:23:10.21 ,19.581590649508872,4.23749624075225,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
 Wed 09/09/2020 18:38:11.04 ,,,"download No available M-Lab servers"
 Wed 09/09/2020 18:53:10.04 ,,,"download No available M-Lab servers"
-Wed 09/09/2020 19:08:11.93 ,13.287435807115445,2.8671412471055926
+Wed 09/09/2020 19:08:11.93 ,13.287435807115445,2.8671412471055926,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Wed 09/09/2020 19:23:10.02 ,,,"download No available M-Lab servers"
 Wed 09/09/2020 19:38:11.45 ,,,"download No available M-Lab servers"
-Wed 09/09/2020 19:53:10.34 ,12.765277390361073,2.8013566380363186
+Wed 09/09/2020 19:53:10.34 ,12.765277390361073,2.8013566380363186,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Wed 09/09/2020 20:08:11.15 ,,,"download No available M-Lab servers"
-Wed 09/09/2020 20:23:19.24 ,10.285740389650256,2.1121660347236078
+Wed 09/09/2020 20:23:19.24 ,10.285740389650256,2.1121660347236078,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Wed 09/09/2020 20:38:11.02 ,,,"download No available M-Lab servers"
 Wed 09/09/2020 20:53:10.43 ,,,"download No available M-Lab servers"
 Wed 09/09/2020 21:08:11.42 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": dial tcp: lookup locate.measurementlab.net: no such host"
@@ -674,12 +674,12 @@ Wed 09/09/2020 22:23:09.58 ,,,"download Get ""https://locate.measurementlab.net/
 Wed 09/09/2020 22:38:10.94 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": dial tcp: lookup locate.measurementlab.net: no such host"
 Wed 09/09/2020 22:53:09.58 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": dial tcp: lookup locate.measurementlab.net: no such host"
 Wed 09/09/2020 23:08:11.11 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": dial tcp: lookup locate.measurementlab.net: no such host"
-Wed 09/09/2020 23:23:09.75 ,13.473704175297897,2.7639362699156513
-Wed 09/09/2020 23:38:11.37 ,14.517939539037412,3.1281941051945936
-Wed 09/09/2020 23:53:10.20 ,16.51132375783842,3.489655622653827
+Wed 09/09/2020 23:23:09.75 ,13.473704175297897,2.7639362699156513,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Wed 09/09/2020 23:38:11.37 ,14.517939539037412,3.1281941051945936,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Wed 09/09/2020 23:53:10.20 ,16.51132375783842,3.489655622653827,0,"ndt-iupui-mlab2-lga08.mlab-oti.measurement-lab.org"
 Thu 09/10/2020  0:08:12.62 ,,,"download No available M-Lab servers"
-Thu 09/10/2020  0:23:10.07 ,14.479737260384152,3.133142101515614
-Thu 09/10/2020  0:38:11.89 ,12.76936279703345,2.961506299997964
+Thu 09/10/2020  0:23:10.07 ,14.479737260384152,3.133142101515614,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Thu 09/10/2020  0:38:11.89 ,12.76936279703345,2.961506299997964,0,"ndt-iupui-mlab1-lga06.mlab-oti.measurement-lab.org"
 Thu 09/10/2020  0:53:10.05 ,,,"download No available M-Lab servers"
 Thu 09/10/2020  1:08:11.94 ,,,"download No available M-Lab servers"
 Thu 09/10/2020  1:23:10.08 ,,,"download No available M-Lab servers"
@@ -687,7 +687,7 @@ Thu 09/10/2020  1:44:04.68 ,,,"download Get ""https://locate.measurementlab.net/
 Thu 09/10/2020  1:53:14.26 ,,,"download No available M-Lab servers"
 Thu 09/10/2020  2:08:37.67 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Thu 09/10/2020  2:23:19.87 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Thu 09/10/2020  2:38:37.35 ,14.7301980158887,4.184166362641371
+Thu 09/10/2020  2:38:37.35 ,14.7301980158887,4.184166362641371,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Thu 09/10/2020  2:53:13.38 ,,,"download No available M-Lab servers"
 Thu 09/10/2020  3:08:19.90 ,,,"download No available M-Lab servers"
 Thu 09/10/2020  3:24:04.17 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
@@ -701,12 +701,12 @@ Thu 09/10/2020  5:08:43.59 ,,,"download Get ""https://locate.measurementlab.net/
 Thu 09/10/2020  5:23:17.28 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Thu 09/10/2020  5:38:58.44 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Thu 09/10/2020  5:53:10.59 ,,,"download No available M-Lab servers"
-Thu 09/10/2020  6:08:11.10 ,16.447395451210564,3.9575359592158765
+Thu 09/10/2020  6:08:11.10 ,16.447395451210564,3.9575359592158765,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Thu 09/10/2020  6:23:14.14 ,,,"download No available M-Lab servers"
 Thu 09/10/2020  6:38:11.27 ,,,"download No available M-Lab servers"
 Thu 09/10/2020  6:53:10.14 ,,,"download No available M-Lab servers"
 Thu 09/10/2020  7:08:11.13 ,,,"download No available M-Lab servers"
-Thu 09/10/2020  7:23:10.24 ,14.912518433493512,3.4817000488519785
+Thu 09/10/2020  7:23:10.24 ,14.912518433493512,3.4817000488519785,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Thu 09/10/2020  7:38:15.25 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Thu 09/10/2020  7:53:12.54 ,,,"download No available M-Lab servers"
 Thu 09/10/2020  8:08:14.88 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
@@ -720,9 +720,9 @@ Thu 09/10/2020  9:53:10.09 ,,,"download No available M-Lab servers"
 Thu 09/10/2020 10:08:11.82 ,,,"download No available M-Lab servers"
 Thu 09/10/2020 10:23:10.27 ,,,"download No available M-Lab servers"
 Thu 09/10/2020 10:38:11.21 ,,,"download No available M-Lab servers"
-Thu 09/10/2020 10:53:10.05 ,13.763084723148765,3.539855962892135
+Thu 09/10/2020 10:53:10.05 ,13.763084723148765,3.539855962892135,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
 Thu 09/10/2020 11:08:11.30 ,,,"download No available M-Lab servers"
-Thu 09/10/2020 11:23:10.11 ,23.316345448482828,5.964857417494393
+Thu 09/10/2020 11:23:10.11 ,23.316345448482828,5.964857417494393,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
 Thu 09/10/2020 11:38:11.31 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": dial tcp: lookup locate.measurementlab.net: no such host"
 Thu 09/10/2020 11:53:10.10 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": dial tcp: lookup locate.measurementlab.net: no such host"
 Thu 09/10/2020 12:15:59.93 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
@@ -733,26 +733,26 @@ Thu 09/10/2020 13:23:10.23 ,,,"download No available M-Lab servers"
 Thu 09/10/2020 13:38:10.70 ,,,"download No available M-Lab servers"
 Thu 09/10/2020 13:53:10.10 ,,,"download No available M-Lab servers"
 Thu 09/10/2020 14:08:11.14 ,,,"download No available M-Lab servers"
-Thu 09/10/2020 14:23:10.16 ,15.694756451824503,3.5905985483643965
+Thu 09/10/2020 14:23:10.16 ,15.694756451824503,3.5905985483643965,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
 Thu 09/10/2020 14:38:10.19 ,,,"download websocket: bad handshake"
 Thu 09/10/2020 14:53:10.45 ,,,"download No available M-Lab servers"
 Thu 09/10/2020 15:08:11.12 ,,,"download No available M-Lab servers"
-Thu 09/10/2020 15:23:10.50 ,14.294023271425374,3.4395849734552577
+Thu 09/10/2020 15:23:10.50 ,14.294023271425374,3.4395849734552577,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Thu 09/10/2020 15:38:11.33 ,,,"download No available M-Lab servers"
 Thu 09/10/2020 15:53:10.30 ,,,"download No available M-Lab servers"
-Thu 09/10/2020 16:08:11.59 ,22.048088673037757,5.662780517627878
+Thu 09/10/2020 16:08:11.59 ,22.048088673037757,5.662780517627878,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
 Thu 09/10/2020 16:23:10.45 ,,,"download No available M-Lab servers"
 Thu 09/10/2020 16:38:10.22 ,,,"download No available M-Lab servers"
-Thu 09/10/2020 16:53:10.31 ,8.406736607142856,2.9323186069009997
+Thu 09/10/2020 16:53:10.31 ,8.406736607142856,2.9323186069009997,0.04203480712357542,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Thu 09/10/2020 17:08:11.22 ,,,"download No available M-Lab servers"
 Thu 09/10/2020 17:23:10.07 ,,,"download No available M-Lab servers"
 Thu 09/10/2020 17:38:10.35 ,,,"download No available M-Lab servers"
-Thu 09/10/2020 17:53:12.00 ,12.221002203425972,2.927598197037991
-Thu 09/10/2020 18:08:12.57 ,11.737419283908087,2.4814842862552062
+Thu 09/10/2020 17:53:12.00 ,12.221002203425972,2.927598197037991,0.03703723434346048,"ndt-iupui-mlab3-lga03.mlab-oti.measurement-lab.org"
+Thu 09/10/2020 18:08:12.57 ,11.737419283908087,2.4814842862552062,0,"ndt-iupui-mlab3-lga05.mlab-oti.measurement-lab.org"
 Thu 09/10/2020 18:23:10.04 ,,,"download No available M-Lab servers"
 Thu 09/10/2020 18:38:11.24 ,,,"download No available M-Lab servers"
-Thu 09/10/2020 18:53:10.09 ,14.44469975311522,3.172577181480504
-Thu 09/10/2020 19:08:11.20 ,18.84161357524336,2.8272192879893563
+Thu 09/10/2020 18:53:10.09 ,14.44469975311522,3.172577181480504,0,"ndt-iupui-mlab1-lga08.mlab-oti.measurement-lab.org"
+Thu 09/10/2020 19:08:11.20 ,18.84161357524336,2.8272192879893563,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
 Thu 09/10/2020 19:23:10.09 ,,,"download No available M-Lab servers"
 Thu 09/10/2020 19:38:11.97 ,,,"download No available M-Lab servers"
 Thu 09/10/2020 19:53:10.01 ,,,"download No available M-Lab servers"
@@ -766,34 +766,34 @@ Thu 09/10/2020 21:38:11.69 ,,,"download No available M-Lab servers"
 Thu 09/10/2020 21:53:10.31 ,,,"download No available M-Lab servers"
 Thu 09/10/2020 22:08:11.47 ,,,"download No available M-Lab servers"
 Thu 09/10/2020 22:23:10.07 ,,,"download No available M-Lab servers"
-Thu 09/10/2020 22:38:10.89 ,12.233343057949874,2.556128313300963
+Thu 09/10/2020 22:38:10.89 ,12.233343057949874,2.556128313300963,0,"ndt-iupui-mlab1-lga03.mlab-oti.measurement-lab.org"
 Thu 09/10/2020 22:53:09.85 ,,,"download No available M-Lab servers"
 Thu 09/10/2020 23:08:28.82 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Thu 09/10/2020 23:23:09.21 ,,,"download No available M-Lab servers"
 Thu 09/10/2020 23:38:09.43 ,,,"download No available M-Lab servers"
 Thu 09/10/2020 23:53:09.36 ,,,"download No available M-Lab servers"
 Thu 09/10/2020 23:54:35.39 ,,,"download No available M-Lab servers"
-Thu 09/10/2020 23:56:39.42 ,18.37224940369414,3.9382876863500473
-Fri 09/11/2020  0:04:38.93 ,13.636490207558216,3.3764512960327164
+Thu 09/10/2020 23:56:39.42 ,18.37224940369414,3.9382876863500473,0.012679138423017395,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
+Fri 09/11/2020  0:04:38.93 ,13.636490207558216,3.3764512960327164,0.017012672576667144,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
 Fri 09/11/2020  0:08:09.36 ,,,"download No available M-Lab servers"
-Fri 09/11/2020  0:10:59.66 ,13.67441591513968,3.370142327860223
+Fri 09/11/2020  0:10:59.66 ,13.67441591513968,3.370142327860223,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Fri 09/11/2020  0:23:09.20 ,,,"download No available M-Lab servers"
-Fri 09/11/2020  0:23:55.19 ,23.770560155869457,5.320830831839151
+Fri 09/11/2020  0:23:55.19 ,23.770560155869457,5.320830831839151,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
 Fri 09/11/2020  0:34:05.02 ,,,"download No available M-Lab servers"
 Fri 09/11/2020  0:34:46.12 ,,,"download No available M-Lab servers"
-Fri 09/11/2020  0:37:04.81 ,23.787636349399005,5.540354413916437
+Fri 09/11/2020  0:37:04.81 ,23.787636349399005,5.540354413916437,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
 Fri 09/11/2020  0:38:09.25 ,,,"download No available M-Lab servers"
 Fri 09/11/2020  0:39:44.00 ,,,"download No available M-Lab servers"
 Fri 09/11/2020  0:41:14.12 ,,,"download No available M-Lab servers"
 Fri 09/11/2020  0:42:19.84 ,,,"download No available M-Lab servers"
 Fri 09/11/2020  0:47:14.10 ,,,"download No available M-Lab servers"
-Fri 09/11/2020  0:53:09.21 ,14.312729377497291,3.7202331579909416
+Fri 09/11/2020  0:53:09.21 ,14.312729377497291,3.7202331579909416,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Fri 09/11/2020  1:08:10.05 ,,,"download No available M-Lab servers"
-Fri 09/11/2020  1:23:10.02 ,14.49658180442595,3.6918879415347137
+Fri 09/11/2020  1:23:10.02 ,14.49658180442595,3.6918879415347137,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Fri 09/11/2020  1:43:38.19 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": net/http: TLS handshake timeout"
 Fri 09/11/2020  1:53:10.25 ,,,"download No available M-Lab servers"
-Fri 09/11/2020  2:08:16.95 ,12.01531386560138,4.433603138385173
-Fri 09/11/2020  2:23:13.71 ,15.69532503575927,4.844245281126512
+Fri 09/11/2020  2:08:16.95 ,12.01531386560138,4.433603138385173,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Fri 09/11/2020  2:23:13.71 ,15.69532503575927,4.844245281126512,0,"ndt-iupui-mlab2-lga04.mlab-oti.measurement-lab.org"
 Fri 09/11/2020  2:38:21.60 ,,,"download No available M-Lab servers"
 Fri 09/11/2020  2:53:10.17 ,,,"download No available M-Lab servers"
 Fri 09/11/2020  3:08:10.94 ,,,"download No available M-Lab servers"
@@ -807,15 +807,15 @@ Fri 09/11/2020  4:53:10.01 ,,,"download No available M-Lab servers"
 Fri 09/11/2020  5:08:11.32 ,,,"download No available M-Lab servers"
 Fri 09/11/2020  5:23:09.82 ,,,"download No available M-Lab servers"
 Fri 09/11/2020  5:38:10.81 ,,,"download No available M-Lab servers"
-Fri 09/11/2020  5:53:09.73 ,14.028913772523163,3.611920556346073
+Fri 09/11/2020  5:53:09.73 ,14.028913772523163,3.611920556346073,0,"ndt-iupui-mlab1-lga06.mlab-oti.measurement-lab.org"
 Fri 09/11/2020  6:08:20.07 ,,,"download No available M-Lab servers"
 Fri 09/11/2020  6:23:10.12 ,,,"download No available M-Lab servers"
-Fri 09/11/2020  6:38:11.29 ,13.44698977559421,3.48274174788433
+Fri 09/11/2020  6:38:11.29 ,13.44698977559421,3.48274174788433,0,"ndt-iupui-mlab2-lga05.mlab-oti.measurement-lab.org"
 Fri 09/11/2020  6:53:10.11 ,,,"download No available M-Lab servers"
 Fri 09/11/2020  7:08:11.43 ,,,"download No available M-Lab servers"
 Fri 09/11/2020  7:23:10.43 ,,,"download No available M-Lab servers"
 Fri 09/11/2020  7:38:11.09 ,,,"download No available M-Lab servers"
-Fri 09/11/2020  7:53:10.09 ,14.746831161309007,3.7437363529364016
+Fri 09/11/2020  7:53:10.09 ,14.746831161309007,3.7437363529364016,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Fri 09/11/2020  8:08:11.01 ,,,"download No available M-Lab servers"
 Fri 09/11/2020  8:23:10.05 ,,,"download No available M-Lab servers"
 Fri 09/11/2020  8:38:10.78 ,,,"download No available M-Lab servers"
@@ -830,7 +830,7 @@ Fri 09/11/2020 10:23:09.41 ,,,"download No available M-Lab servers"
 Fri 09/11/2020 10:38:14.18 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Fri 09/11/2020 10:53:10.11 ,,,"download No available M-Lab servers"
 Fri 09/11/2020 11:08:10.09 ,,,"download No available M-Lab servers"
-Fri 09/11/2020 11:23:10.07 ,14.484126713302624,3.5216647175061504
+Fri 09/11/2020 11:23:10.07 ,14.484126713302624,3.5216647175061504,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Fri 09/11/2020 11:38:09.98 ,,,"download No available M-Lab servers"
 Fri 09/11/2020 11:53:10.01 ,,,"download No available M-Lab servers"
 Fri 09/11/2020 12:15:57.57 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
@@ -845,23 +845,23 @@ Fri 09/11/2020 14:23:10.15 ,,,"download websocket: bad handshake"
 Fri 09/11/2020 14:38:10.76 ,,,"download No available M-Lab servers"
 Fri 09/11/2020 14:53:10.15 ,,,"download No available M-Lab servers"
 Fri 09/11/2020 15:08:10.98 ,,,"download No available M-Lab servers"
-Fri 09/11/2020 15:23:10.27 ,14.794270748940178,4.15096868645791
+Fri 09/11/2020 15:23:10.27 ,14.794270748940178,4.15096868645791,0,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
 Fri 09/11/2020 15:38:12.45 ,,,"download No available M-Lab servers"
 Fri 09/11/2020 15:53:10.23 ,,,"download No available M-Lab servers"
 Fri 09/11/2020 16:08:11.36 ,,,"download No available M-Lab servers"
 Fri 09/11/2020 16:23:10.20 ,,,"download No available M-Lab servers"
-Fri 09/11/2020 16:38:11.05 ,22.531219379210967,5.414569153949506
+Fri 09/11/2020 16:38:11.05 ,22.531219379210967,5.414569153949506,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
 Fri 09/11/2020 16:53:10.00 ,,,"download No available M-Lab servers"
 Fri 09/11/2020 17:08:11.15 ,,,"download No available M-Lab servers"
 Fri 09/11/2020 17:23:09.99 ,,,"download No available M-Lab servers"
-Fri 09/11/2020 17:38:10.95 ,12.232013751547973,2.9669215291750506
+Fri 09/11/2020 17:38:10.95 ,12.232013751547973,2.9669215291750506,0,"ndt-iupui-mlab2-lga06.mlab-oti.measurement-lab.org"
 Fri 09/11/2020 17:53:10.08 ,,,"download No available M-Lab servers"
-Fri 09/11/2020 18:08:11.18 ,11.637115833982419,2.3471731498954975
-Fri 09/11/2020 18:23:10.04 ,13.747195658773526,2.950399611516905
+Fri 09/11/2020 18:08:11.18 ,11.637115833982419,2.3471731498954975,0.020198057168248986,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Fri 09/11/2020 18:23:10.04 ,13.747195658773526,2.950399611516905,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
 Fri 09/11/2020 18:38:11.06 ,,,"download No available M-Lab servers"
 Fri 09/11/2020 18:53:10.02 ,,,"download No available M-Lab servers"
 Fri 09/11/2020 19:08:11.21 ,,,"download No available M-Lab servers"
-Fri 09/11/2020 19:23:10.07 ,9.591926413939591,2.8635032642285574
+Fri 09/11/2020 19:23:10.07 ,9.591926413939591,2.8635032642285574,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
 Fri 09/11/2020 19:38:10.76 ,,,"download No available M-Lab servers"
 Fri 09/11/2020 19:53:10.31 ,,,"download No available M-Lab servers"
 Fri 09/11/2020 20:08:10.90 ,,,"download No available M-Lab servers"
@@ -873,25 +873,25 @@ Fri 09/11/2020 21:23:09.62 ,,,"download No available M-Lab servers"
 Fri 09/11/2020 21:38:10.66 ,,,"download No available M-Lab servers"
 Fri 09/11/2020 21:53:09.85 ,,,"download No available M-Lab servers"
 Fri 09/11/2020 22:08:10.72 ,,,"download No available M-Lab servers"
-Fri 09/11/2020 22:23:09.94 ,11.863300561017608,2.241628941067584
-Fri 09/11/2020 22:38:10.99 ,20.1947419197344,3.4769237047768686
+Fri 09/11/2020 22:23:09.94 ,11.863300561017608,2.241628941067584,0,"ndt-iupui-mlab3-lga05.mlab-oti.measurement-lab.org"
+Fri 09/11/2020 22:38:10.99 ,20.1947419197344,3.4769237047768686,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
 Fri 09/11/2020 22:53:10.10 ,,,"download No available M-Lab servers"
 Fri 09/11/2020 23:08:10.92 ,,,"download No available M-Lab servers"
 Fri 09/11/2020 23:23:10.14 ,,,"download No available M-Lab servers"
-Fri 09/11/2020 23:38:11.28 ,14.005758572623362,3.1501342254826876
+Fri 09/11/2020 23:38:11.28 ,14.005758572623362,3.1501342254826876,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Fri 09/11/2020 23:53:09.96 ,,,"download No available M-Lab servers"
 Sat 09/12/2020  0:08:11.59 ,,,"download No available M-Lab servers"
 Sat 09/12/2020  0:23:10.01 ,,,"download No available M-Lab servers"
-Sat 09/12/2020  0:38:11.57 ,22.693374547247455,5.418258397725908
+Sat 09/12/2020  0:38:11.57 ,22.693374547247455,5.418258397725908,0.005111705469412815,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
 Sat 09/12/2020  0:53:09.55 ,,,"download No available M-Lab servers"
 Sat 09/12/2020  1:08:11.73 ,,,"download No available M-Lab servers"
-Sat 09/12/2020  1:23:10.34 ,22.087311516480074,5.452278928550026
+Sat 09/12/2020  1:23:10.34 ,22.087311516480074,5.452278928550026,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
 Sat 09/12/2020  1:43:45.05 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Sat 09/12/2020  1:53:09.60 ,,,"download No available M-Lab servers"
-Sat 09/12/2020  2:08:16.54 ,14.346881986631374,4.343728251864126
-Sat 09/12/2020  2:23:14.96 ,23.391993171486988,6.318570333615717
+Sat 09/12/2020  2:08:16.54 ,14.346881986631374,4.343728251864126,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Sat 09/12/2020  2:23:14.96 ,23.391993171486988,6.318570333615717,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
 Sat 09/12/2020  2:38:37.96 ,,,"download No available M-Lab servers"
-Sat 09/12/2020  2:53:10.46 ,15.909530338610711,3.7828933338678
+Sat 09/12/2020  2:53:10.46 ,15.909530338610711,3.7828933338678,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Sat 09/12/2020  3:08:10.94 ,,,"download No available M-Lab servers"
 Sat 09/12/2020  3:23:10.27 ,,,"download No available M-Lab servers"
 Sat 09/12/2020  3:38:45.47 ,,,"download No available M-Lab servers"
@@ -903,24 +903,24 @@ Sat 09/12/2020  4:53:09.96 ,,,"download No available M-Lab servers"
 Sat 09/12/2020  5:08:11.09 ,,,"download No available M-Lab servers"
 Sat 09/12/2020  5:23:10.08 ,,,"download No available M-Lab servers"
 Sat 09/12/2020  5:38:10.98 ,,,"download No available M-Lab servers"
-Sat 09/12/2020  5:53:10.02 ,16.213987421383646,4.089970762002702
+Sat 09/12/2020  5:53:10.02 ,16.213987421383646,4.089970762002702,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
 Sat 09/12/2020  6:08:11.55 ,,,"download No available M-Lab servers"
-Sat 09/12/2020  6:23:10.24 ,15.731826948937641,4.1371536147660075
+Sat 09/12/2020  6:23:10.24 ,15.731826948937641,4.1371536147660075,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Sat 09/12/2020  6:38:11.48 ,,,"download No available M-Lab servers"
 Sat 09/12/2020  6:53:10.10 ,,,"download No available M-Lab servers"
 Sat 09/12/2020  7:08:11.61 ,,,"download No available M-Lab servers"
 Sat 09/12/2020  7:23:10.12 ,,,"download No available M-Lab servers"
 Sat 09/12/2020  7:38:11.06 ,,,"download No available M-Lab servers"
-Sat 09/12/2020  7:53:10.06 ,15.49459550907413,3.619821146764861
+Sat 09/12/2020  7:53:10.06 ,15.49459550907413,3.619821146764861,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Sat 09/12/2020  8:08:10.32 ,,,"download No available M-Lab servers"
 Sat 09/12/2020  8:23:10.29 ,,,"download No available M-Lab servers"
-Sat 09/12/2020  8:38:10.16 ,12.448687245716846,2.9189310555216594
-Sat 09/12/2020  8:53:09.99 ,21.161711082098147,4.432972577101473
+Sat 09/12/2020  8:38:10.16 ,12.448687245716846,2.9189310555216594,0,"ndt-iupui-mlab1-lga05.mlab-oti.measurement-lab.org"
+Sat 09/12/2020  8:53:09.99 ,21.161711082098147,4.432972577101473,0.00539871028509036,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
 Sat 09/12/2020  9:08:10.13 ,,,"download No available M-Lab servers"
-Sat 09/12/2020  9:23:10.07 ,22.09766306491048,4.6279297278677225
+Sat 09/12/2020  9:23:10.07 ,22.09766306491048,4.6279297278677225,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
 Sat 09/12/2020  9:38:10.20 ,,,"download No available M-Lab servers"
 Sat 09/12/2020  9:53:12.22 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": net/http: TLS handshake timeout"
-Sat 09/12/2020 10:08:09.95 ,17.855156300615487,4.797310059123999
+Sat 09/12/2020 10:08:09.95 ,17.855156300615487,4.797310059123999,0.006960423224243477,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
 Sat 09/12/2020 10:23:09.99 ,,,"download No available M-Lab servers"
 Sat 09/12/2020 10:38:13.32 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Sat 09/12/2020 10:53:11.83 ,,,"download No available M-Lab servers"
@@ -932,38 +932,38 @@ Sat 09/12/2020 12:15:04.51 ,,,"download Get ""https://locate.measurementlab.net/
 Sat 09/12/2020 12:38:19.18 ,,,"download No available M-Lab servers"
 Sat 09/12/2020 12:53:12.03 ,,,"download No available M-Lab servers"
 Sat 09/12/2020 13:08:11.99 ,,,"download No available M-Lab servers"
-Sat 09/12/2020 13:23:10.15 ,12.847061983699152,3.5739106591090466
+Sat 09/12/2020 13:23:10.15 ,12.847061983699152,3.5739106591090466,0,"ndt-iupui-mlab1-lga06.mlab-oti.measurement-lab.org"
 Sat 09/12/2020 13:38:11.29 ,,,"download No available M-Lab servers"
 Sat 09/12/2020 13:53:10.09 ,,,"download No available M-Lab servers"
 Sat 09/12/2020 14:08:11.42 ,,,"download No available M-Lab servers"
 Sat 09/12/2020 14:23:10.24 ,,,"download No available M-Lab servers"
-Sat 09/12/2020 14:38:10.87 ,14.900662781396411,3.5070359172814127
-Sat 09/12/2020 14:53:10.02 ,11.909616163869217,2.86232936960417
+Sat 09/12/2020 14:38:10.87 ,14.900662781396411,3.5070359172814127,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Sat 09/12/2020 14:53:10.02 ,11.909616163869217,2.86232936960417,0,"ndt-iupui-mlab3-lga05.mlab-oti.measurement-lab.org"
 Sat 09/12/2020 15:08:11.42 ,,,"download No available M-Lab servers"
 Sat 09/12/2020 15:23:10.24 ,,,"download No available M-Lab servers"
 Sat 09/12/2020 15:38:11.37 ,,,"download No available M-Lab servers"
 Sat 09/12/2020 15:53:10.12 ,,,"download No available M-Lab servers"
 Sat 09/12/2020 16:08:11.24 ,,,"download No available M-Lab servers"
-Sat 09/12/2020 16:23:10.27 ,12.575620676367507,3.3036040899795505
+Sat 09/12/2020 16:23:10.27 ,12.575620676367507,3.3036040899795505,0,"ndt-iupui-mlab1-lga05.mlab-oti.measurement-lab.org"
 Sat 09/12/2020 16:38:11.35 ,,,"download No available M-Lab servers"
 Sat 09/12/2020 16:53:10.21 ,,,"download No available M-Lab servers"
 Sat 09/12/2020 17:08:11.80 ,,,"download No available M-Lab servers"
 Sat 09/12/2020 17:23:10.16 ,,,"download No available M-Lab servers"
 Sat 09/12/2020 17:38:11.69 ,,,"download No available M-Lab servers"
-Sat 09/12/2020 17:53:10.30 ,14.951498696119037,3.5193535870717416
+Sat 09/12/2020 17:53:10.30 ,14.951498696119037,3.5193535870717416,0,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
 Sat 09/12/2020 18:08:11.37 ,,,"download No available M-Lab servers"
-Sat 09/12/2020 18:23:10.32 ,16.100691875730686,3.409456433555087
+Sat 09/12/2020 18:23:10.32 ,16.100691875730686,3.409456433555087,0,"ndt-iupui-mlab1-lga04.mlab-oti.measurement-lab.org"
 Sat 09/12/2020 18:38:11.15 ,,,"download No available M-Lab servers"
-Sat 09/12/2020 18:53:10.20 ,12.400278924467255,2.541932542935402
+Sat 09/12/2020 18:53:10.20 ,12.400278924467255,2.541932542935402,0,"ndt-iupui-mlab3-lga06.mlab-oti.measurement-lab.org"
 Sat 09/12/2020 19:08:11.31 ,,,"download No available M-Lab servers"
 Sat 09/12/2020 19:23:10.33 ,,,"download No available M-Lab servers"
 Sat 09/12/2020 19:38:11.48 ,,,"download No available M-Lab servers"
-Sat 09/12/2020 19:53:10.13 ,15.335507741652188,3.1102631262765827
-Sat 09/12/2020 20:08:11.24 ,12.112264648290404,2.2945381477196616
+Sat 09/12/2020 19:53:10.13 ,15.335507741652188,3.1102631262765827,0,"ndt-iupui-mlab1-lga08.mlab-oti.measurement-lab.org"
+Sat 09/12/2020 20:08:11.24 ,12.112264648290404,2.2945381477196616,0,"ndt-iupui-mlab2-lga05.mlab-oti.measurement-lab.org"
 Sat 09/12/2020 20:23:10.26 ,,,"download No available M-Lab servers"
 Sat 09/12/2020 20:38:11.06 ,,,"download No available M-Lab servers"
 Sat 09/12/2020 20:53:10.35 ,,,"download No available M-Lab servers"
-Sat 09/12/2020 21:08:11.51 ,13.389878026174324,2.552322833853276
+Sat 09/12/2020 21:08:11.51 ,13.389878026174324,2.552322833853276,0,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
 Sat 09/12/2020 21:23:10.34 ,,,"download No available M-Lab servers"
 Sat 09/12/2020 21:38:11.19 ,,,"download No available M-Lab servers"
 Sat 09/12/2020 21:53:10.48 ,,,"download No available M-Lab servers"
@@ -972,33 +972,33 @@ Sat 09/12/2020 22:23:10.67 ,,,"download No available M-Lab servers"
 Sat 09/12/2020 22:38:11.48 ,,,"download No available M-Lab servers"
 Sat 09/12/2020 22:53:10.77 ,,,"download No available M-Lab servers"
 Sat 09/12/2020 23:08:11.36 ,,,"download No available M-Lab servers"
-Sat 09/12/2020 23:23:10.75 ,16.110611065235343,3.649234639024687
-Sat 09/12/2020 23:38:11.19 ,13.911275439938791,3.219475996745321
+Sat 09/12/2020 23:23:10.75 ,16.110611065235343,3.649234639024687,0,"ndt-iupui-mlab3-lga04.mlab-oti.measurement-lab.org"
+Sat 09/12/2020 23:38:11.19 ,13.911275439938791,3.219475996745321,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
 Sat 09/12/2020 23:53:10.41 ,,,"download No available M-Lab servers"
 Sun 09/13/2020  0:08:11.87 ,,,"download No available M-Lab servers"
 Sun 09/13/2020  0:23:10.30 ,,,"download No available M-Lab servers"
 Sun 09/13/2020  0:38:10.16 ,,,"download No available M-Lab servers"
-Sun 09/13/2020  0:53:09.94 ,14.821475957045033,3.1614982973893304
+Sun 09/13/2020  0:53:09.94 ,14.821475957045033,3.1614982973893304,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
 Sun 09/13/2020  1:08:10.72 ,,,"download No available M-Lab servers"
 Sun 09/13/2020  1:23:10.31 ,,,"download No available M-Lab servers"
 Sun 09/13/2020  1:43:07.33 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Sun 09/13/2020  2:08:19.18 ,,,"download No available M-Lab servers"
-Sun 09/13/2020  2:23:13.56 ,13.295223571274953,3.523299761728371
+Sun 09/13/2020  2:23:13.56 ,13.295223571274953,3.523299761728371,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
 Sun 09/13/2020  2:38:22.00 ,,,"download No available M-Lab servers"
-Sun 09/13/2020  2:53:10.54 ,15.083930744738973,3.5774358974358975
+Sun 09/13/2020  2:53:10.54 ,15.083930744738973,3.5774358974358975,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
 Sun 09/13/2020  3:08:11.44 ,,,"download No available M-Lab servers"
 Sun 09/13/2020  3:23:10.36 ,,,"download No available M-Lab servers"
 Sun 09/13/2020  3:39:01.23 ,,,"download No available M-Lab servers"
 Sun 09/13/2020  3:53:10.14 ,,,"download No available M-Lab servers"
 Sun 09/13/2020  4:09:25.64 ,,,"download No available M-Lab servers"
-Sun 09/13/2020  4:23:10.37 ,13.79146626058818,3.493668666175093
-Sun 09/13/2020  4:38:11.14 ,19.21030281962148,4.792358325535983
+Sun 09/13/2020  4:23:10.37 ,13.79146626058818,3.493668666175093,0,"ndt-iupui-mlab3-lga06.mlab-oti.measurement-lab.org"
+Sun 09/13/2020  4:38:11.14 ,19.21030281962148,4.792358325535983,0,"ndt-iupui-mlab1-lga04.mlab-oti.measurement-lab.org"
 Sun 09/13/2020  4:53:10.32 ,,,"download No available M-Lab servers"
-Sun 09/13/2020  5:08:11.42 ,19.05046696035242,5.049081222850586
+Sun 09/13/2020  5:08:11.42 ,19.05046696035242,5.049081222850586,0,"ndt-iupui-mlab2-lga04.mlab-oti.measurement-lab.org"
 Sun 09/13/2020  5:23:10.42 ,,,"download No available M-Lab servers"
 Sun 09/13/2020  5:38:11.15 ,,,"download No available M-Lab servers"
 Sun 09/13/2020  5:53:10.24 ,,,"download No available M-Lab servers"
-Sun 09/13/2020  6:08:11.29 ,18.455431375892974,4.69162693968965
+Sun 09/13/2020  6:08:11.29 ,18.455431375892974,4.69162693968965,0,"ndt-iupui-mlab2-lga04.mlab-oti.measurement-lab.org"
 Sun 09/13/2020  6:23:10.34 ,,,"download No available M-Lab servers"
 Sun 09/13/2020  6:38:11.38 ,,,"download No available M-Lab servers"
 Sun 09/13/2020  6:53:10.34 ,,,"download No available M-Lab servers"
@@ -1006,14 +1006,14 @@ Sun 09/13/2020  7:08:22.13 ,,,"download No available M-Lab servers"
 Sun 09/13/2020  7:23:10.20 ,,,"download No available M-Lab servers"
 Sun 09/13/2020  7:38:11.60 ,,,"download No available M-Lab servers"
 Sun 09/13/2020  7:53:15.59 ,,,"download No available M-Lab servers"
-Sun 09/13/2020  8:08:11.49 ,13.460268489509161,3.485816446224163
-Sun 09/13/2020  8:23:10.22 ,15.846456165108485,3.9936664503569115
-Sun 09/13/2020  8:38:11.20 ,12.678765645555346,3.276342227632866
+Sun 09/13/2020  8:08:11.49 ,13.460268489509161,3.485816446224163,0,"ndt-iupui-mlab2-lga05.mlab-oti.measurement-lab.org"
+Sun 09/13/2020  8:23:10.22 ,15.846456165108485,3.9936664503569115,0,"ndt-iupui-mlab3-lga04.mlab-oti.measurement-lab.org"
+Sun 09/13/2020  8:38:11.20 ,12.678765645555346,3.276342227632866,0,"ndt-iupui-mlab2-lga05.mlab-oti.measurement-lab.org"
 Sun 09/13/2020  8:53:10.08 ,,,"download No available M-Lab servers"
 Sun 09/13/2020  9:08:11.17 ,,,"download No available M-Lab servers"
 Sun 09/13/2020  9:23:10.45 ,,,"download No available M-Lab servers"
-Sun 09/13/2020  9:38:11.19 ,14.289165664088609,3.621795885437676
-Sun 09/13/2020  9:53:10.54 ,14.314645542735779,3.2617559826108153
+Sun 09/13/2020  9:38:11.19 ,14.289165664088609,3.621795885437676,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Sun 09/13/2020  9:53:10.54 ,14.314645542735779,3.2617559826108153,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Sun 09/13/2020 10:08:11.38 ,,,"download No available M-Lab servers"
 Sun 09/13/2020 10:23:10.13 ,,,"download No available M-Lab servers"
 Sun 09/13/2020 10:38:11.95 ,,,"download No available M-Lab servers"
@@ -1032,12 +1032,12 @@ Sun 09/13/2020 14:23:10.09 ,,,"download No available M-Lab servers"
 Sun 09/13/2020 14:38:10.05 ,,,"download No available M-Lab servers"
 Sun 09/13/2020 14:53:10.11 ,,,"download No available M-Lab servers"
 Sun 09/13/2020 15:08:10.74 ,,,"download No available M-Lab servers"
-Sun 09/13/2020 15:23:10.21 ,14.589886937514134,3.4561762085998864
+Sun 09/13/2020 15:23:10.21 ,14.589886937514134,3.4561762085998864,0.008118251564375956,"ndt-iupui-mlab1-lga04.mlab-oti.measurement-lab.org"
 Sun 09/13/2020 15:38:10.96 ,,,"download No available M-Lab servers"
 Sun 09/13/2020 15:53:10.13 ,,,"download No available M-Lab servers"
-Sun 09/13/2020 16:08:12.47 ,14.89850478400092,3.2780659197657633
+Sun 09/13/2020 16:08:12.47 ,14.89850478400092,3.2780659197657633,0,"ndt-iupui-mlab2-lga04.mlab-oti.measurement-lab.org"
 Sun 09/13/2020 16:23:10.05 ,,,"download No available M-Lab servers"
-Sun 09/13/2020 16:38:10.84 ,11.884210923213244,3.1104527273089095
+Sun 09/13/2020 16:38:10.84 ,11.884210923213244,3.1104527273089095,0.009860062747818496,"ndt-iupui-mlab3-lga08.mlab-oti.measurement-lab.org"
 Sun 09/13/2020 16:53:10.20 ,,,"download No available M-Lab servers"
 Sun 09/13/2020 17:08:10.83 ,,,"download No available M-Lab servers"
 Sun 09/13/2020 17:23:09.99 ,,,"download No available M-Lab servers"
@@ -1047,7 +1047,7 @@ Sun 09/13/2020 18:08:10.56 ,,,"download No available M-Lab servers"
 Sun 09/13/2020 18:23:09.73 ,,,"download No available M-Lab servers"
 Sun 09/13/2020 18:38:10.60 ,,,"download No available M-Lab servers"
 Sun 09/13/2020 18:53:10.67 ,,,"download No available M-Lab servers"
-Sun 09/13/2020 19:08:10.92 ,12.554401254747823,2.3788142036722477
+Sun 09/13/2020 19:08:10.92 ,12.554401254747823,2.3788142036722477,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Sun 09/13/2020 19:23:10.19 ,,,"download No available M-Lab servers"
 Sun 09/13/2020 19:38:10.63 ,,,"download No available M-Lab servers"
 Sun 09/13/2020 19:53:10.08 ,,,"download No available M-Lab servers"
@@ -1062,7 +1062,7 @@ Sun 09/13/2020 21:53:10.06 ,,,"download Get ""https://locate.measurementlab.net/
 Sun 09/13/2020 22:08:09.95 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": dial tcp: lookup locate.measurementlab.net: no such host"
 Sun 09/13/2020 22:23:10.86 ,,,"download No available M-Lab servers"
 Sun 09/13/2020 22:38:10.18 ,,,"download No available M-Lab servers"
-Sun 09/13/2020 23:30:12.68 ,13.693483239799788,2.694693283763032
+Sun 09/13/2020 23:30:12.68 ,13.693483239799788,2.694693283763032,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Mon 09/14/2020  0:38:55.99 ,,,"download No available M-Lab servers"
 Mon 09/14/2020  1:47:11.58 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Mon 09/14/2020  2:30:51.67 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
@@ -1072,533 +1072,545 @@ Mon 09/14/2020  5:44:52.03 ,,,"download No available M-Lab servers"
 Mon 09/14/2020  6:47:27.84 ,,,"download No available M-Lab servers"
 Mon 09/14/2020  7:27:51.59 ,,,"download No available M-Lab servers"
 Mon 09/14/2020  8:38:53.90 ,,,"download No available M-Lab servers"
-Mon 09/14/2020  9:30:47.48 ,14.688932250955869,3.9001627464475126
+Mon 09/14/2020  9:30:47.48 ,14.688932250955869,3.9001627464475126,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Mon 09/14/2020 10:28:32.50 ,,,"download No available M-Lab servers"
 Mon 09/14/2020 11:51:51.86 ,,,"download No available M-Lab servers"
 Mon 09/14/2020 12:35:34.97 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Mon 09/14/2020 13:31:00.89 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Mon 09/14/2020 14:28:33.43 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Mon 09/14/2020 15:32:09.48 ,,,"download No available M-Lab servers"
-Mon 09/14/2020 16:31:39.47 ,14.521447943089276,3.404160282379367
+Mon 09/14/2020 16:31:39.47 ,14.521447943089276,3.404160282379367,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Mon 09/14/2020 17:34:25.73 ,,,"download No available M-Lab servers"
-Mon 09/14/2020 18:35:19.63 ,13.215700288622209,2.758672373415166
+Mon 09/14/2020 18:35:19.63 ,13.215700288622209,2.758672373415166,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
 Mon 09/14/2020 19:40:16.05 ,,,"download No available M-Lab servers"
-Mon 09/14/2020 20:38:32.47 ,5.9690637372874775,2.3218842315369264
+Mon 09/14/2020 20:38:32.47 ,5.9690637372874775,2.3218842315369264,0.0029926392367753576,"ndt-iupui-mlab2-lga04.mlab-oti.measurement-lab.org"
 Mon 09/14/2020 21:29:08.91 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": dial tcp: lookup locate.measurementlab.net: no such host"
 Mon 09/14/2020 22:25:48.32 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": dial tcp: lookup locate.measurementlab.net: no such host"
-Mon 09/14/2020 23:34:30.64 ,22.347703810996496,4.553163093823011
-Tue 09/15/2020  0:46:00.17 ,22.232571971135588,4.772548015364917
+Mon 09/14/2020 23:34:30.64 ,22.347703810996496,4.553163093823011,0.03149781154931263,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
+Tue 09/15/2020  0:46:00.17 ,22.232571971135588,4.772548015364917,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
 Tue 09/15/2020  1:45:59.83 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Tue 09/15/2020  2:52:05.68 ,12.977527323463297,3.9513981201404818
-Tue 09/15/2020  3:45:19.99 ,16.54136988381806,4.070518029354326
-Tue 09/15/2020  4:25:03.61 ,13.86890317245527,3.591759461868871
-Tue 09/15/2020  5:25:50.72 ,16.361022744975852,4.056210189777431
-Tue 09/15/2020  6:26:55.57 ,16.225832422449212,4.119526047314937
-Tue 09/15/2020  7:45:44.19 ,24.602256787330315,6.3918993831611
-Tue 09/15/2020  8:26:56.68 ,25.101502808437093,6.415650317252492
-Tue 09/15/2020  9:25:27.79 ,14.96317173966373,3.9143447971250174
+Tue 09/15/2020  2:52:05.68 ,12.977527323463297,3.9513981201404818,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Tue 09/15/2020  3:45:19.99 ,16.54136988381806,4.070518029354326,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Tue 09/15/2020  4:25:03.61 ,13.86890317245527,3.591759461868871,0,"ndt-iupui-mlab1-lga06.mlab-oti.measurement-lab.org"
+Tue 09/15/2020  5:25:50.72 ,16.361022744975852,4.056210189777431,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Tue 09/15/2020  6:26:55.57 ,16.225832422449212,4.119526047314937,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Tue 09/15/2020  7:45:44.19 ,24.602256787330315,6.3918993831611,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
+Tue 09/15/2020  8:26:56.68 ,25.101502808437093,6.415650317252492,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
+Tue 09/15/2020  9:25:27.79 ,14.96317173966373,3.9143447971250174,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Tue 09/15/2020 10:30:07.14 ,,,"download websocket: bad handshake"
-Tue 09/15/2020 11:32:02.58 ,17.23564724241617,4.439407047387607
-Tue 09/15/2020 12:52:07.65 ,14.602693155886247,3.843578461164458
-Tue 09/15/2020 13:39:20.62 ,24.229376612949476,6.029264608400458
-Tue 09/15/2020 14:26:17.02 ,23.543194132260737,5.36375025323123
+Tue 09/15/2020 11:32:02.58 ,17.23564724241617,4.439407047387607,0,"ndt-iupui-mlab1-lga08.mlab-oti.measurement-lab.org"
+Tue 09/15/2020 12:52:07.65 ,14.602693155886247,3.843578461164458,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Tue 09/15/2020 13:39:20.62 ,24.229376612949476,6.029264608400458,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
+Tue 09/15/2020 14:26:17.02 ,23.543194132260737,5.36375025323123,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
 Tue 09/15/2020 15:30:34.66 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": net/http: TLS handshake timeout"
 Tue 09/15/2020 16:35:12.36 ,,,"upload websocket: bad handshake"
-Tue 09/15/2020 17:31:13.48 ,14.618875174617754,3.7278350515463914
-Tue 09/15/2020 18:52:39.23 ,13.655677592859648,3.5949828066153593
-Tue 09/15/2020 19:32:15.52 ,13.895853022429147,2.8378599757183323
-Tue 09/15/2020 20:51:53.54 ,19.625583019351783,3.8779478715910236
-Tue 09/15/2020 21:49:56.06 ,14.305847773309365,2.916935387077416
-Tue 09/15/2020 22:24:27.26 ,14.205455584336432,3.011399717228843
-Tue 09/15/2020 23:47:08.85 ,17.109355526937936,4.314557646198236
-Wed 09/16/2020  0:40:46.18 ,15.536390968804458,3.786281506194438
+Tue 09/15/2020 17:31:13.48 ,14.618875174617754,3.7278350515463914,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Tue 09/15/2020 18:52:39.23 ,13.655677592859648,3.5949828066153593,0,"ndt-iupui-mlab3-lga08.mlab-oti.measurement-lab.org"
+Tue 09/15/2020 19:32:15.52 ,13.895853022429147,2.8378599757183323,0.017126304619715097,"ndt-iupui-mlab3-lga08.mlab-oti.measurement-lab.org"
+Tue 09/15/2020 20:51:53.54 ,19.625583019351783,3.8779478715910236,0.01192467720470538,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
+Tue 09/15/2020 21:49:56.06 ,14.305847773309365,2.916935387077416,0,"ndt-iupui-mlab1-lga08.mlab-oti.measurement-lab.org"
+Tue 09/15/2020 22:24:27.26 ,14.205455584336432,3.011399717228843,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Tue 09/15/2020 23:47:08.85 ,17.109355526937936,4.314557646198236,0,"ndt-iupui-mlab3-lga08.mlab-oti.measurement-lab.org"
+Wed 09/16/2020  0:40:46.18 ,15.536390968804458,3.786281506194438,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
 Wed 09/16/2020  1:45:45.76 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Wed 09/16/2020  2:29:57.45 ,18.65128554559709,4.4034110657559715
-Wed 09/16/2020  3:51:27.85 ,17.04934352062175,4.535064640324215
-Wed 09/16/2020  4:52:42.14 ,16.748242486769456,4.167546216089518
-Wed 09/16/2020  5:45:22.32 ,16.381329250092065,4.068851976106702
-Wed 09/16/2020  6:49:37.73 ,16.42056412618006,3.986840440746933
-Wed 09/16/2020  7:51:50.25 ,16.645709498057737,4.3600138135576
-Wed 09/16/2020  8:53:07.78 ,15.06312250167352,3.3956819650937295
-Wed 09/16/2020  9:35:53.30 ,12.400007436879486,3.638096007105656
+Wed 09/16/2020  2:29:57.45 ,18.65128554559709,4.4034110657559715,0,"ndt-iupui-mlab3-lga04.mlab-oti.measurement-lab.org"
+Wed 09/16/2020  3:51:27.85 ,17.04934352062175,4.535064640324215,0,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
+Wed 09/16/2020  4:52:42.14 ,16.748242486769456,4.167546216089518,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Wed 09/16/2020  5:45:22.32 ,16.381329250092065,4.068851976106702,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Wed 09/16/2020  6:49:37.73 ,16.42056412618006,3.986840440746933,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Wed 09/16/2020  7:51:50.25 ,16.645709498057737,4.3600138135576,0,"ndt-iupui-mlab3-lga03.mlab-oti.measurement-lab.org"
+Wed 09/16/2020  8:53:07.78 ,15.06312250167352,3.3956819650937295,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Wed 09/16/2020  9:35:53.30 ,12.400007436879486,3.638096007105656,0,"ndt-iupui-mlab1-lga06.mlab-oti.measurement-lab.org"
 Wed 09/16/2020 10:41:52.17 ,,,"upload websocket: bad handshake"
 Wed 09/16/2020 11:48:03.20 ,,,"download websocket: bad handshake"
 Wed 09/16/2020 12:27:16.41 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Wed 09/16/2020 13:35:26.51 ,17.80579137775098,5.3258849024801345
-Wed 09/16/2020 14:36:28.59 ,15.324404198394731,4.3146992602122864
-Wed 09/16/2020 15:41:01.83 ,14.9210201683586,3.651767746103529
+Wed 09/16/2020 13:35:26.51 ,17.80579137775098,5.3258849024801345,0,"ndt-iupui-mlab3-lga04.mlab-oti.measurement-lab.org"
+Wed 09/16/2020 14:36:28.59 ,15.324404198394731,4.3146992602122864,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Wed 09/16/2020 15:41:01.83 ,14.9210201683586,3.651767746103529,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Wed 09/16/2020 16:47:42.75 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Wed 09/16/2020 17:26:53.82 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Wed 09/16/2020 18:36:09.60 ,16.108263047218504,3.952106200420916
-Wed 09/16/2020 19:51:59.68 ,21.48505547365971,4.070392677644752
+Wed 09/16/2020 18:36:09.60 ,16.108263047218504,3.952106200420916,0,"ndt-iupui-mlab1-lga08.mlab-oti.measurement-lab.org"
+Wed 09/16/2020 19:51:59.68 ,21.48505547365971,4.070392677644752,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
 Wed 09/16/2020 20:51:39.83 ,,,"upload websocket: bad handshake"
-Wed 09/16/2020 21:47:33.29 ,11.283855272502139,2.7323047390521897
+Wed 09/16/2020 21:47:33.29 ,11.283855272502139,2.7323047390521897,0,"ndt-iupui-mlab2-lga06.mlab-oti.measurement-lab.org"
 Wed 09/16/2020 22:33:25.44 ,,,"upload websocket: bad handshake"
-Wed 09/16/2020 23:29:25.58 ,15.33982336594465,3.5717159907441243
-Thu 09/17/2020  0:49:06.87 ,16.388684777921515,4.128774637901348
+Wed 09/16/2020 23:29:25.58 ,15.33982336594465,3.5717159907441243,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Thu 09/17/2020  0:49:06.87 ,16.388684777921515,4.128774637901348,0,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
 Thu 09/17/2020  1:47:02.54 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Thu 09/17/2020  2:46:55.68 ,13.196919913172625,3.1032198936885194
-Thu 09/17/2020  3:28:34.14 ,26.19178419160265,6.793678342991197
-Thu 09/17/2020  4:29:40.56 ,15.115480361182255,3.7854538110433418
-Thu 09/17/2020  5:38:35.00 ,27.852883394587373,7.401314887266568
-Thu 09/17/2020  6:30:40.46 ,18.585515893745043,4.854567047203951
-Thu 09/17/2020  7:49:05.05 ,13.437179220005955,3.5304656033510553
-Thu 09/17/2020  8:30:37.55 ,16.795709414153798,4.224919744965085
-Thu 09/17/2020  9:47:45.90 ,15.8732560453015,4.121510960122947
-Thu 09/17/2020 10:28:01.54 ,17.464584909605918,4.2441300872240095
-Thu 09/17/2020 11:39:43.99 ,16.652316649957584,4.299927939731412
+Thu 09/17/2020  2:46:55.68 ,13.196919913172625,3.1032198936885194,0,"ndt-iupui-mlab1-lga06.mlab-oti.measurement-lab.org"
+Thu 09/17/2020  3:28:34.14 ,26.19178419160265,6.793678342991197,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
+Thu 09/17/2020  4:29:40.56 ,15.115480361182255,3.7854538110433418,0,"ndt-iupui-mlab3-lga05.mlab-oti.measurement-lab.org"
+Thu 09/17/2020  5:38:35.00 ,27.852883394587373,7.401314887266568,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
+Thu 09/17/2020  6:30:40.46 ,18.585515893745043,4.854567047203951,0,"ndt-iupui-mlab1-lga04.mlab-oti.measurement-lab.org"
+Thu 09/17/2020  7:49:05.05 ,13.437179220005955,3.5304656033510553,0,"ndt-iupui-mlab2-lga06.mlab-oti.measurement-lab.org"
+Thu 09/17/2020  8:30:37.55 ,16.795709414153798,4.224919744965085,0,"ndt-iupui-mlab1-lga03.mlab-oti.measurement-lab.org"
+Thu 09/17/2020  9:47:45.90 ,15.8732560453015,4.121510960122947,0,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
+Thu 09/17/2020 10:28:01.54 ,17.464584909605918,4.2441300872240095,0,"ndt-iupui-mlab3-lga03.mlab-oti.measurement-lab.org"
+Thu 09/17/2020 11:39:43.99 ,16.652316649957584,4.299927939731412,0,"ndt-iupui-mlab3-lga03.mlab-oti.measurement-lab.org"
 Thu 09/17/2020 12:51:03.99 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": net/http: TLS handshake timeout"
-Thu 09/17/2020 13:44:42.92 ,17.30970912738215,4.647240008876516
-Thu 09/17/2020 14:24:47.46 ,15.651616114712384,4.066832146490335
-Thu 09/17/2020 15:35:22.59 ,14.907721628645685,5.255029736270047
+Thu 09/17/2020 13:44:42.92 ,17.30970912738215,4.647240008876516,0,"ndt-iupui-mlab1-lga04.mlab-oti.measurement-lab.org"
+Thu 09/17/2020 14:24:47.46 ,15.651616114712384,4.066832146490335,0,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
+Thu 09/17/2020 15:35:22.59 ,14.907721628645685,5.255029736270047,0,"ndt-iupui-mlab3-lga08.mlab-oti.measurement-lab.org"
 Thu 09/17/2020 16:29:38.40 ,,,"upload websocket: bad handshake"
-Thu 09/17/2020 17:26:31.86 ,15.117501578252636,3.7356780875189326
+Thu 09/17/2020 17:26:31.86 ,15.117501578252636,3.7356780875189326,0,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
 Thu 09/17/2020 18:29:55.76 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Thu 09/17/2020 19:39:54.81 ,11.342018487077908,3.0092116417066967
-Thu 09/17/2020 20:50:25.03 ,12.116252505767996,2.5331086952087625
-Thu 09/17/2020 21:47:02.94 ,14.694339333294993,3.0318818240205525
-Thu 09/17/2020 22:50:26.98 ,12.675516326380187,2.9844313693882487
-Thu 09/17/2020 23:37:06.23 ,23.130747870361304,5.379142705656837
-Fri 09/18/2020  0:51:13.83 ,18.158028439661802,4.5281992540203415
+Thu 09/17/2020 19:39:54.81 ,11.342018487077908,3.0092116417066967,0,"ndt-iupui-mlab3-lga06.mlab-oti.measurement-lab.org"
+Thu 09/17/2020 20:50:25.03 ,12.116252505767996,2.5331086952087625,0,"ndt-iupui-mlab1-lga05.mlab-oti.measurement-lab.org"
+Thu 09/17/2020 21:47:02.94 ,14.694339333294993,3.0318818240205525,0.008065203970113226,"ndt-iupui-mlab3-lga08.mlab-oti.measurement-lab.org"
+Thu 09/17/2020 22:50:26.98 ,12.675516326380187,2.9844313693882487,0,"ndt-iupui-mlab3-lga06.mlab-oti.measurement-lab.org"
+Thu 09/17/2020 23:37:06.23 ,23.130747870361304,5.379142705656837,0.0050271659785647155,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
+Fri 09/18/2020  0:51:13.83 ,18.158028439661802,4.5281992540203415,0,"ndt-iupui-mlab2-lga04.mlab-oti.measurement-lab.org"
 Fri 09/18/2020  1:48:40.00 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Fri 09/18/2020  2:37:04.80 ,13.070512881302355,3.7077426109366187
-Fri 09/18/2020  3:41:41.39 ,15.88665142637595,5.490500224224387
-Fri 09/18/2020  4:50:28.01 ,26.762499015515477,6.80687922705314
-Fri 09/18/2020  5:47:50.02 ,26.8967462846061,6.840766209047098
-Fri 09/18/2020  6:44:02.01 ,18.397218877599467,4.317891654465593
-Fri 09/18/2020  7:51:09.17 ,13.939826535571422,3.386314863676341
-Fri 09/18/2020  8:47:19.23 ,18.380920338696658,4.378738579190983
-Fri 09/18/2020  9:46:44.80 ,12.367187142065399,3.33878730857772
+Fri 09/18/2020  2:37:04.80 ,13.070512881302355,3.7077426109366187,0,"ndt-iupui-mlab2-lga06.mlab-oti.measurement-lab.org"
+Fri 09/18/2020  3:41:41.39 ,15.88665142637595,5.490500224224387,0,"ndt-iupui-mlab3-lga04.mlab-oti.measurement-lab.org"
+Fri 09/18/2020  4:50:28.01 ,26.762499015515477,6.80687922705314,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
+Fri 09/18/2020  5:47:50.02 ,26.8967462846061,6.840766209047098,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
+Fri 09/18/2020  6:44:02.01 ,18.397218877599467,4.317891654465593,0,"ndt-iupui-mlab2-lga04.mlab-oti.measurement-lab.org"
+Fri 09/18/2020  7:51:09.17 ,13.939826535571422,3.386314863676341,0,"ndt-iupui-mlab2-lga05.mlab-oti.measurement-lab.org"
+Fri 09/18/2020  8:47:19.23 ,18.380920338696658,4.378738579190983,0,"ndt-iupui-mlab2-lga04.mlab-oti.measurement-lab.org"
+Fri 09/18/2020  9:46:44.80 ,12.367187142065399,3.33878730857772,0,"ndt-iupui-mlab2-lga05.mlab-oti.measurement-lab.org"
 Fri 09/18/2020 10:49:01.93 ,,,"download websocket: bad handshake"
-Fri 09/18/2020 11:40:46.32 ,15.032343190917354,4.568246667345069
-Fri 09/18/2020 12:27:49.42 ,17.631498938428876,4.102525223642825
-Fri 09/18/2020 13:42:25.68 ,24.347689293534632,5.554238568832071
-Fri 09/18/2020 14:40:13.25 ,17.48823639493974,4.838034336999419
-Fri 09/18/2020 15:49:29.06 ,13.241313912911545,3.567371366013867
-Fri 09/18/2020 16:34:51.72 ,17.948476319247394,4.723098344255935
-Fri 09/18/2020 17:23:59.64 ,21.812933190970103,5.385674235593082
+Fri 09/18/2020 11:40:46.32 ,15.032343190917354,4.568246667345069,0.007841327620550209,"ndt-iupui-mlab1-lga08.mlab-oti.measurement-lab.org"
+Fri 09/18/2020 12:27:49.42 ,17.631498938428876,4.102525223642825,0,"ndt-iupui-mlab3-lga08.mlab-oti.measurement-lab.org"
+Fri 09/18/2020 13:42:25.68 ,24.347689293534632,5.554238568832071,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
+Fri 09/18/2020 14:40:13.25 ,17.48823639493974,4.838034336999419,0,"ndt-iupui-mlab1-lga04.mlab-oti.measurement-lab.org"
+Fri 09/18/2020 15:49:29.06 ,13.241313912911545,3.567371366013867,0,"ndt-iupui-mlab3-lga05.mlab-oti.measurement-lab.org"
+Fri 09/18/2020 16:34:51.72 ,17.948476319247394,4.723098344255935,0,"ndt-iupui-mlab3-lga04.mlab-oti.measurement-lab.org"
+Fri 09/18/2020 17:23:59.64 ,21.812933190970103,5.385674235593082,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
 Fri 09/18/2020 18:49:21.80 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Fri 09/18/2020 19:45:33.11 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Fri 09/18/2020 20:47:59.77 ,11.848620928620928,2.6655097613882863
-Fri 09/18/2020 21:45:15.08 ,11.618936342848714,2.624246392028493
-Fri 09/18/2020 22:41:37.30 ,21.493478736710443,4.454136664217487
-Fri 09/18/2020 23:36:00.54 ,23.959330192383195,6.057308471990847
-Sat 09/19/2020  0:36:00.60 ,13.7337823442753,3.7793079880392995
+Fri 09/18/2020 20:47:59.77 ,11.848620928620928,2.6655097613882863,0,"ndt-iupui-mlab1-lga05.mlab-oti.measurement-lab.org"
+Fri 09/18/2020 21:45:15.08 ,11.618936342848714,2.624246392028493,0,"ndt-iupui-mlab2-lga05.mlab-oti.measurement-lab.org"
+Fri 09/18/2020 22:41:37.30 ,21.493478736710443,4.454136664217487,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
+Fri 09/18/2020 23:36:00.54 ,23.959330192383195,6.057308471990847,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
+Sat 09/19/2020  0:36:00.60 ,13.7337823442753,3.7793079880392995,0,"ndt-iupui-mlab3-lga05.mlab-oti.measurement-lab.org"
 Sat 09/19/2020  1:48:40.54 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Sat 09/19/2020  2:26:06.66 ,17.70287773110863,4.5661846675821955
-Sat 09/19/2020  3:44:02.88 ,19.29424054929495,4.976652592744416
-Sat 09/19/2020  4:42:49.37 ,20.35932418162619,4.903744531218057
-Sat 09/19/2020  5:49:11.23 ,27.773592806230457,6.988054246732495
-Sat 09/19/2020  6:26:18.47 ,14.705112156648381,4.637771460127216
-Sat 09/19/2020  7:33:10.75 ,26.93452654710984,6.538745244070267
-Sat 09/19/2020  8:37:31.16 ,18.65480739188417,4.791810870095052
-Sat 09/19/2020  9:52:01.02 ,16.18590409383191,4.246278448206042
-Sat 09/19/2020 10:28:56.62 ,22.6016306059369,6.355375956593918
-Sat 09/19/2020 11:48:33.76 ,16.841504636379543,4.216781727940351
+Sat 09/19/2020  2:26:06.66 ,17.70287773110863,4.5661846675821955,0,"ndt-iupui-mlab3-lga03.mlab-oti.measurement-lab.org"
+Sat 09/19/2020  3:44:02.88 ,19.29424054929495,4.976652592744416,0,"ndt-iupui-mlab3-lga04.mlab-oti.measurement-lab.org"
+Sat 09/19/2020  4:42:49.37 ,20.35932418162619,4.903744531218057,0,"ndt-iupui-mlab3-lga04.mlab-oti.measurement-lab.org"
+Sat 09/19/2020  5:49:11.23 ,27.773592806230457,6.988054246732495,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
+Sat 09/19/2020  6:26:18.47 ,14.705112156648381,4.637771460127216,0,"ndt-iupui-mlab1-lga03.mlab-oti.measurement-lab.org"
+Sat 09/19/2020  7:33:10.75 ,26.93452654710984,6.538745244070267,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
+Sat 09/19/2020  8:37:31.16 ,18.65480739188417,4.791810870095052,0,"ndt-iupui-mlab1-lga04.mlab-oti.measurement-lab.org"
+Sat 09/19/2020  9:52:01.02 ,16.18590409383191,4.246278448206042,0.007183421686139972,"ndt-iupui-mlab3-lga08.mlab-oti.measurement-lab.org"
+Sat 09/19/2020 10:28:56.62 ,22.6016306059369,6.355375956593918,0.010365947776355102,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
+Sat 09/19/2020 11:48:33.76 ,16.841504636379543,4.216781727940351,0,"ndt-iupui-mlab2-lga08.mlab-oti.measurement-lab.org"
 Sat 09/19/2020 12:24:21.00 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Sat 09/19/2020 13:28:26.69 ,16.709827268810464,3.907074577583923
-Sat 09/19/2020 14:35:03.41 ,19.077377394150773,5.470286696789156
-Sat 09/19/2020 15:25:41.56 ,13.616940138055902,3.3218247328244277
-Sat 09/19/2020 16:35:45.09 ,17.721286252788673,4.862090507328974
-Sat 09/19/2020 17:33:00.70 ,9.440131766115146,3.140018388737919
-Sat 09/19/2020 18:51:31.31 ,14.19764251724731,3.14583329985941
+Sat 09/19/2020 13:28:26.69 ,16.709827268810464,3.907074577583923,0,"ndt-iupui-mlab2-lga08.mlab-oti.measurement-lab.org"
+Sat 09/19/2020 14:35:03.41 ,19.077377394150773,5.470286696789156,0,"ndt-iupui-mlab1-lga04.mlab-oti.measurement-lab.org"
+Sat 09/19/2020 15:25:41.56 ,13.616940138055902,3.3218247328244277,0,"ndt-iupui-mlab3-lga06.mlab-oti.measurement-lab.org"
+Sat 09/19/2020 16:35:45.09 ,17.721286252788673,4.862090507328974,0,"ndt-iupui-mlab2-lga08.mlab-oti.measurement-lab.org"
+Sat 09/19/2020 17:33:00.70 ,9.440131766115146,3.140018388737919,0,"ndt-iupui-mlab3-lga05.mlab-oti.measurement-lab.org"
+Sat 09/19/2020 18:51:31.31 ,14.19764251724731,3.14583329985941,0,"ndt-iupui-mlab3-lga05.mlab-oti.measurement-lab.org"
 Sat 09/19/2020 19:53:00.23 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Sat 09/19/2020 20:49:45.72 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Sat 09/19/2020 21:24:57.45 ,12.085608853370651,2.9643422982885084
-Sat 09/19/2020 22:23:32.80 ,12.823775057989327,3.022962918492726
-Sat 09/19/2020 23:44:19.08 ,18.193739466358625,4.1693092548972235
-Sun 09/20/2020  0:45:30.18 ,14.23145557515551,3.542992370149741
-Sun 09/20/2020  1:53:04.99 ,13.91319109992564,3.5135819615211794
-Sun 09/20/2020  2:46:39.66 ,19.703966565650564,4.958486789920069
-Sun 09/20/2020  3:27:02.55 ,28.34556014638177,6.588757663762504
-Sun 09/20/2020  4:40:10.83 ,13.610566431943047,3.9019655950930052
-Sun 09/20/2020  5:39:09.98 ,19.636589640198512,4.839704607873055
-Sun 09/20/2020  6:29:34.60 ,19.170328522707567,4.73084211372959
-Sun 09/20/2020  7:53:09.00 ,25.662525168273426,6.532068611049524
-Sun 09/20/2020  8:48:58.95 ,23.113710785369005,5.915157350021061
-Sun 09/20/2020  9:38:47.38 ,17.151063149172337,3.5444882144010337
-Sun 09/20/2020 10:29:49.63 ,12.817224382946895,3.511353096684358
-Sun 09/20/2020 11:51:09.88 ,24.19769504795459,5.48366201699535
-Sun 09/20/2020 12:32:59.93 ,23.018316566718106,5.1337870257037945
-Sun 09/20/2020 13:52:39.86 ,12.76144522498576,3.0153571208984897
-Sun 09/20/2020 14:49:48.83 ,13.964329667427515,3.3195931713775604
-Sun 09/20/2020 15:38:26.61 ,18.539026009107047,4.356744560838034
-Sun 09/20/2020 16:44:06.49 ,17.524861328946866,4.190298180355886
-Sun 09/20/2020 17:30:44.46 ,24.277398546454528,5.284103877395863
-Sun 09/20/2020 18:43:12.43 ,11.942943054421265,2.5113123449569406
+Sat 09/19/2020 21:24:57.45 ,12.085608853370651,2.9643422982885084,0,"ndt-iupui-mlab3-lga06.mlab-oti.measurement-lab.org"
+Sat 09/19/2020 22:23:32.80 ,12.823775057989327,3.022962918492726,0,"ndt-iupui-mlab3-lga05.mlab-oti.measurement-lab.org"
+Sat 09/19/2020 23:44:19.08 ,18.193739466358625,4.1693092548972235,0,"ndt-iupui-mlab2-lga04.mlab-oti.measurement-lab.org"
+Sun 09/20/2020  0:45:30.18 ,14.23145557515551,3.542992370149741,0,"ndt-iupui-mlab1-lga06.mlab-oti.measurement-lab.org"
+Sun 09/20/2020  1:53:04.99 ,13.91319109992564,3.5135819615211794,0,"ndt-iupui-mlab3-lga06.mlab-oti.measurement-lab.org"
+Sun 09/20/2020  2:46:39.66 ,19.703966565650564,4.958486789920069,0,"ndt-iupui-mlab1-lga04.mlab-oti.measurement-lab.org"
+Sun 09/20/2020  3:27:02.55 ,28.34556014638177,6.588757663762504,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
+Sun 09/20/2020  4:40:10.83 ,13.610566431943047,3.9019655950930052,0,"ndt-iupui-mlab1-lga05.mlab-oti.measurement-lab.org"
+Sun 09/20/2020  5:39:09.98 ,19.636589640198512,4.839704607873055,0,"ndt-iupui-mlab1-lga08.mlab-oti.measurement-lab.org"
+Sun 09/20/2020  6:29:34.60 ,19.170328522707567,4.73084211372959,0,"ndt-iupui-mlab3-lga08.mlab-oti.measurement-lab.org"
+Sun 09/20/2020  7:53:09.00 ,25.662525168273426,6.532068611049524,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
+Sun 09/20/2020  8:48:58.95 ,23.113710785369005,5.915157350021061,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
+Sun 09/20/2020  9:38:47.38 ,17.151063149172337,3.5444882144010337,0,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
+Sun 09/20/2020 10:29:49.63 ,12.817224382946895,3.511353096684358,0,"ndt-iupui-mlab2-lga06.mlab-oti.measurement-lab.org"
+Sun 09/20/2020 11:51:09.88 ,24.19769504795459,5.48366201699535,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
+Sun 09/20/2020 12:32:59.93 ,23.018316566718106,5.1337870257037945,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
+Sun 09/20/2020 13:52:39.86 ,12.76144522498576,3.0153571208984897,0,"ndt-iupui-mlab2-lga06.mlab-oti.measurement-lab.org"
+Sun 09/20/2020 14:49:48.83 ,13.964329667427515,3.3195931713775604,0,"ndt-iupui-mlab1-lga06.mlab-oti.measurement-lab.org"
+Sun 09/20/2020 15:38:26.61 ,18.539026009107047,4.356744560838034,0,"ndt-iupui-mlab2-lga04.mlab-oti.measurement-lab.org"
+Sun 09/20/2020 16:44:06.49 ,17.524861328946866,4.190298180355886,0,"ndt-iupui-mlab3-lga04.mlab-oti.measurement-lab.org"
+Sun 09/20/2020 17:30:44.46 ,24.277398546454528,5.284103877395863,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
+Sun 09/20/2020 18:43:12.43 ,11.942943054421265,2.5113123449569406,0,"ndt-iupui-mlab1-lga06.mlab-oti.measurement-lab.org"
 Sun 09/20/2020 19:25:39.42 ,,,"upload websocket: bad handshake"
-Sun 09/20/2020 20:50:22.98 ,14.798734177215191,2.4204924504497174
-Sun 09/20/2020 21:50:21.28 ,11.265309005297235,2.615461801596351
-Sun 09/20/2020 22:43:42.04 ,16.657856036707773,3.9612088650100734
-Sun 09/20/2020 23:52:29.11 ,14.024830811345145,3.352174731236612
-Mon 09/21/2020  0:32:19.49 ,18.265363115425096,4.40966990525617
+Sun 09/20/2020 20:50:22.98 ,14.798734177215191,2.4204924504497174,0.007884605663868675,"ndt-iupui-mlab3-lga04.mlab-oti.measurement-lab.org"
+Sun 09/20/2020 21:50:21.28 ,11.265309005297235,2.615461801596351,0,"ndt-iupui-mlab2-lga08.mlab-oti.measurement-lab.org"
+Sun 09/20/2020 22:43:42.04 ,16.657856036707773,3.9612088650100734,0,"ndt-iupui-mlab1-lga04.mlab-oti.measurement-lab.org"
+Sun 09/20/2020 23:52:29.11 ,14.024830811345145,3.352174731236612,0,"ndt-iupui-mlab2-lga05.mlab-oti.measurement-lab.org"
+Mon 09/21/2020  0:32:19.49 ,18.265363115425096,4.40966990525617,0,"ndt-iupui-mlab2-lga08.mlab-oti.measurement-lab.org"
 Mon 09/21/2020  1:44:40.51 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Mon 09/21/2020  2:23:35.65 ,17.965108176562712,4.203049500180658
-Mon 09/21/2020  3:38:12.17 ,19.467034367650406,4.845581844519557
-Mon 09/21/2020  4:32:40.56 ,14.790761236487768,4.070434053003172
-Mon 09/21/2020  5:42:56.89 ,14.26334312426808,3.4455306464126747
-Mon 09/21/2020  6:40:16.89 ,18.218755329522207,4.898661218214553
-Mon 09/21/2020  7:45:04.82 ,18.48247517070143,4.389538054904786
-Mon 09/21/2020  8:23:31.94 ,17.49057966376113,4.262406753520841
-Mon 09/21/2020  9:27:29.74 ,18.264140486181997,4.722878618263233
+Mon 09/21/2020  2:23:35.65 ,17.965108176562712,4.203049500180658,0,"ndt-iupui-mlab2-lga08.mlab-oti.measurement-lab.org"
+Mon 09/21/2020  3:38:12.17 ,19.467034367650406,4.845581844519557,0,"ndt-iupui-mlab2-lga08.mlab-oti.measurement-lab.org"
+Mon 09/21/2020  4:32:40.56 ,14.790761236487768,4.070434053003172,0,"ndt-iupui-mlab3-lga05.mlab-oti.measurement-lab.org"
+Mon 09/21/2020  5:42:56.89 ,14.26334312426808,3.4455306464126747,0,"ndt-iupui-mlab2-lga05.mlab-oti.measurement-lab.org"
+Mon 09/21/2020  6:40:16.89 ,18.218755329522207,4.898661218214553,0,"ndt-iupui-mlab1-lga08.mlab-oti.measurement-lab.org"
+Mon 09/21/2020  7:45:04.82 ,18.48247517070143,4.389538054904786,0,"ndt-iupui-mlab1-lga04.mlab-oti.measurement-lab.org"
+Mon 09/21/2020  8:23:31.94 ,17.49057966376113,4.262406753520841,0,"ndt-iupui-mlab3-lga03.mlab-oti.measurement-lab.org"
+Mon 09/21/2020  9:27:29.74 ,18.264140486181997,4.722878618263233,0,"ndt-iupui-mlab3-lga08.mlab-oti.measurement-lab.org"
 Mon 09/21/2020 10:52:21.89 ,,,"upload websocket: bad handshake"
-Mon 09/21/2020 11:43:46.21 ,22.0716618761936,5.955419945657644
-Mon 09/21/2020 12:46:10.08 ,5.176105644936297,3.804616036992912
-Mon 09/21/2020 13:48:33.24 ,25.11118267759777,6.462320549051272
-Mon 09/21/2020 14:27:28.58 ,17.187419539571643,4.724123711340206
-Mon 09/21/2020 15:44:43.05 ,13.52362968433411,3.8127302523762703
-Mon 09/21/2020 16:29:47.96 ,17.17033604887984,4.60396653942987
-Mon 09/21/2020 17:24:42.65 ,13.045074165409106,3.157080362150469
-Mon 09/21/2020 18:40:36.11 ,13.176100989068193,3.126742524054777
-Mon 09/21/2020 19:50:30.22 ,13.477446710005978,3.1544743188567557
-Mon 09/21/2020 20:23:50.68 ,16.222288377108526,3.6126231541878426
-Mon 09/21/2020 21:28:13.58 ,19.432310223266747,4.324503188685698
+Mon 09/21/2020 11:43:46.21 ,22.0716618761936,5.955419945657644,0.005214051826818054,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
+Mon 09/21/2020 12:46:10.08 ,5.176105644936297,3.804616036992912,0,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
+Mon 09/21/2020 13:48:33.24 ,25.11118267759777,6.462320549051272,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
+Mon 09/21/2020 14:27:28.58 ,17.187419539571643,4.724123711340206,0,"ndt-iupui-mlab3-lga08.mlab-oti.measurement-lab.org"
+Mon 09/21/2020 15:44:43.05 ,13.52362968433411,3.8127302523762703,0,"ndt-iupui-mlab1-lga05.mlab-oti.measurement-lab.org"
+Mon 09/21/2020 16:29:47.96 ,17.17033604887984,4.60396653942987,0,"ndt-iupui-mlab2-lga08.mlab-oti.measurement-lab.org"
+Mon 09/21/2020 17:24:42.65 ,13.045074165409106,3.157080362150469,0,"ndt-iupui-mlab1-lga05.mlab-oti.measurement-lab.org"
+Mon 09/21/2020 18:40:36.11 ,13.176100989068193,3.126742524054777,0,"ndt-iupui-mlab3-lga05.mlab-oti.measurement-lab.org"
+Mon 09/21/2020 19:50:30.22 ,13.477446710005978,3.1544743188567557,0.008783531432047713,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
+Mon 09/21/2020 20:23:50.68 ,16.222288377108526,3.6126231541878426,0,"ndt-iupui-mlab3-lga08.mlab-oti.measurement-lab.org"
+Mon 09/21/2020 21:28:13.58 ,19.432310223266747,4.324503188685698,0.0059970221909537305,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
 Mon 09/21/2020 22:38:55.71 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Mon 09/21/2020 23:30:17.66 ,14.859411107534415,3.329105109928722
-Tue 09/22/2020  0:42:39.08 ,18.442797807457733,4.655787218561786
-Tue 09/22/2020  1:24:13.51 ,17.348103829231274,4.417827379740133
+Mon 09/21/2020 23:30:17.66 ,14.859411107534415,3.329105109928722,0,"ndt-iupui-mlab3-lga03.mlab-oti.measurement-lab.org"
+Tue 09/22/2020  0:42:39.08 ,18.442797807457733,4.655787218561786,0,"ndt-iupui-mlab3-lga04.mlab-oti.measurement-lab.org"
+Tue 09/22/2020  1:24:13.51 ,17.348103829231274,4.417827379740133,0,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
 Tue 09/22/2020  2:43:44.10 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Tue 09/22/2020  3:42:00.17 ,26.608721458516136,6.48020179598426
-Tue 09/22/2020  4:36:24.32 ,13.859495647290087,4.408339372585134
-Tue 09/22/2020  5:38:53.50 ,17.568396281007676,5.0090699712614395
-Tue 09/22/2020  6:39:33.51 ,13.936899341971872,3.563265122921554
-Tue 09/22/2020  7:39:46.00 ,16.761748455795974,4.387257735325333
-Tue 09/22/2020  8:42:23.35 ,13.74769656617042,3.4483660444551143
-Tue 09/22/2020  9:38:10.57 ,13.609548929084992,3.6560041515308765
-Tue 09/22/2020 10:35:42.92 ,16.447259407772982,5.172448933690474
-Tue 09/22/2020 11:35:26.59 ,17.32680106650298,5.7983454630705555
+Tue 09/22/2020  3:42:00.17 ,26.608721458516136,6.48020179598426,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
+Tue 09/22/2020  4:36:24.32 ,13.859495647290087,4.408339372585134,0,"ndt-iupui-mlab2-lga06.mlab-oti.measurement-lab.org"
+Tue 09/22/2020  5:38:53.50 ,17.568396281007676,5.0090699712614395,0,"ndt-iupui-mlab1-lga08.mlab-oti.measurement-lab.org"
+Tue 09/22/2020  6:39:33.51 ,13.936899341971872,3.563265122921554,0,"ndt-iupui-mlab2-lga06.mlab-oti.measurement-lab.org"
+Tue 09/22/2020  7:39:46.00 ,16.761748455795974,4.387257735325333,0,"ndt-iupui-mlab1-lga08.mlab-oti.measurement-lab.org"
+Tue 09/22/2020  8:42:23.35 ,13.74769656617042,3.4483660444551143,0,"ndt-iupui-mlab3-lga06.mlab-oti.measurement-lab.org"
+Tue 09/22/2020  9:38:10.57 ,13.609548929084992,3.6560041515308765,0,"ndt-iupui-mlab1-lga06.mlab-oti.measurement-lab.org"
+Tue 09/22/2020 10:35:42.92 ,16.447259407772982,5.172448933690474,0,"ndt-iupui-mlab1-lga03.mlab-oti.measurement-lab.org"
+Tue 09/22/2020 11:35:26.59 ,17.32680106650298,5.7983454630705555,0,"ndt-iupui-mlab3-lga04.mlab-oti.measurement-lab.org"
 Tue 09/22/2020 12:46:51.73 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Tue 09/22/2020 13:38:50.04 ,13.005648996944332,2.3835377071767234
-Tue 09/22/2020 14:52:34.55 ,16.23022141504695,4.382687047465808
-Tue 09/22/2020 15:23:19.28 ,12.791967445680578,3.446904402743418
-Tue 09/22/2020 16:34:15.93 ,13.144648054368494,3.841508391238978
-Tue 09/22/2020 17:36:14.50 ,15.42362485024816,4.285660438667749
-Tue 09/22/2020 18:29:45.66 ,13.420413269554775,3.248418373629982
-Tue 09/22/2020 19:32:09.97 ,12.488703242362373,3.362602068372307
-Tue 09/22/2020 20:40:08.48 ,11.583243503725395,2.9326851536690355
-Tue 09/22/2020 21:29:06.10 ,13.631844595838704,2.9031002401566064
-Tue 09/22/2020 22:34:25.12 ,14.978426374632733,3.9363357074734684
+Tue 09/22/2020 13:38:50.04 ,13.005648996944332,2.3835377071767234,0,"ndt-iupui-mlab3-lga06.mlab-oti.measurement-lab.org"
+Tue 09/22/2020 14:52:34.55 ,16.23022141504695,4.382687047465808,0,"ndt-iupui-mlab1-lga04.mlab-oti.measurement-lab.org"
+Tue 09/22/2020 15:23:19.28 ,12.791967445680578,3.446904402743418,0,"ndt-iupui-mlab2-lga05.mlab-oti.measurement-lab.org"
+Tue 09/22/2020 16:34:15.93 ,13.144648054368494,3.841508391238978,0,"ndt-iupui-mlab2-lga05.mlab-oti.measurement-lab.org"
+Tue 09/22/2020 17:36:14.50 ,15.42362485024816,4.285660438667749,0,"ndt-iupui-mlab2-lga08.mlab-oti.measurement-lab.org"
+Tue 09/22/2020 18:29:45.66 ,13.420413269554775,3.248418373629982,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Tue 09/22/2020 19:32:09.97 ,12.488703242362373,3.362602068372307,0.028214203261819563,"ndt-iupui-mlab1-lga03.mlab-oti.measurement-lab.org"
+Tue 09/22/2020 20:40:08.48 ,11.583243503725395,2.9326851536690355,0.020317063076688006,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Tue 09/22/2020 21:29:06.10 ,13.631844595838704,2.9031002401566064,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Tue 09/22/2020 22:34:25.12 ,14.978426374632733,3.9363357074734684,0,"ndt-iupui-mlab3-lga04.mlab-oti.measurement-lab.org"
 Tue 09/22/2020 23:49:41.54 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Wed 09/23/2020  0:28:59.50 ,15.399782101167315,3.6249704117946107
-Wed 09/23/2020  1:27:38.84 ,16.395280442387993,4.048927107610705
-Wed 09/23/2020  2:23:28.50 ,15.686250428294057,4.120730936862729
-Wed 09/23/2020  3:30:10.32 ,25.20252131570337,6.346292244897959
-Wed 09/23/2020  4:23:30.40 ,15.726680409193367,5.092611444318366
-Wed 09/23/2020  5:34:26.42 ,15.068210313068597,4.879678325352085
-Wed 09/23/2020  6:34:36.56 ,13.769306728257167,4.392825783833314
-Wed 09/23/2020  7:30:15.92 ,18.158858376211676,4.827478759258138
-Wed 09/23/2020  8:30:08.65 ,23.701531364231677,6.218038073273856
-Wed 09/23/2020  9:23:34.18 ,15.047604940171597,3.909958931818646
-Wed 09/23/2020 10:33:51.21 ,12.400096360146046,3.912497871477803
-Wed 09/23/2020 11:35:57.86 ,14.904277137321849,4.405122673263311
-Wed 09/23/2020 12:28:43.32 ,16.007612618659508,4.4837991749673005
-Wed 09/23/2020 13:27:11.31 ,15.42692511353754,4.125167003325784
-Wed 09/23/2020 14:47:12.86 ,13.52546017131429,3.389341853035144
-Wed 09/23/2020 15:43:05.17 ,13.23641717791411,4.061957088835412
-Wed 09/23/2020 16:52:53.14 ,15.020055680356354,3.743380898761388
-Wed 09/23/2020 17:24:03.64 ,15.881189172632949,3.7301288654628535
-Wed 09/23/2020 18:50:16.06 ,14.205389194653486,3.2573734954188875
-Wed 09/23/2020 19:47:52.08 ,15.462096139866919,3.23091831168044
+Wed 09/23/2020  0:28:59.50 ,15.399782101167315,3.6249704117946107,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Wed 09/23/2020  1:27:38.84 ,16.395280442387993,4.048927107610705,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Wed 09/23/2020  2:23:28.50 ,15.686250428294057,4.120730936862729,0,"ndt-iupui-mlab2-lga04.mlab-oti.measurement-lab.org"
+Wed 09/23/2020  3:30:10.32 ,25.20252131570337,6.346292244897959,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
+Wed 09/23/2020  4:23:30.40 ,15.726680409193367,5.092611444318366,0.022669014583111647,"ndt-iupui-mlab2-lga08.mlab-oti.measurement-lab.org"
+Wed 09/23/2020  5:34:26.42 ,15.068210313068597,4.879678325352085,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Wed 09/23/2020  6:34:36.56 ,13.769306728257167,4.392825783833314,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Wed 09/23/2020  7:30:15.92 ,18.158858376211676,4.827478759258138,0,"ndt-iupui-mlab3-lga04.mlab-oti.measurement-lab.org"
+Wed 09/23/2020  8:30:08.65 ,23.701531364231677,6.218038073273856,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
+Wed 09/23/2020  9:23:34.18 ,15.047604940171597,3.909958931818646,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Wed 09/23/2020 10:33:51.21 ,12.400096360146046,3.912497871477803,0,"ndt-iupui-mlab2-lga04.mlab-oti.measurement-lab.org"
+Wed 09/23/2020 11:35:57.86 ,14.904277137321849,4.405122673263311,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Wed 09/23/2020 12:28:43.32 ,16.007612618659508,4.4837991749673005,0,"ndt-iupui-mlab1-lga03.mlab-oti.measurement-lab.org"
+Wed 09/23/2020 13:27:11.31 ,15.42692511353754,4.125167003325784,0,"ndt-iupui-mlab2-lga05.mlab-oti.measurement-lab.org"
+Wed 09/23/2020 14:47:12.86 ,13.52546017131429,3.389341853035144,0,"ndt-iupui-mlab3-lga05.mlab-oti.measurement-lab.org"
+Wed 09/23/2020 15:43:05.17 ,13.23641717791411,4.061957088835412,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Wed 09/23/2020 16:52:53.14 ,15.020055680356354,3.743380898761388,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Wed 09/23/2020 17:24:03.64 ,15.881189172632949,3.7301288654628535,0,"ndt-iupui-mlab3-lga03.mlab-oti.measurement-lab.org"
+Wed 09/23/2020 18:50:16.06 ,14.205389194653486,3.2573734954188875,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Wed 09/23/2020 19:47:52.08 ,15.462096139866919,3.23091831168044,0,"ndt-iupui-mlab1-lga04.mlab-oti.measurement-lab.org"
 Wed 09/23/2020 20:24:34.86 ,,,"download websocket: bad handshake"
-Wed 09/23/2020 21:34:28.39 ,14.539419677099508,3.084638910773084
-Wed 09/23/2020 22:39:31.20 ,13.752790483499616,3.175782389683659
-Wed 09/23/2020 23:41:04.29 ,13.142453654686507,3.3127381900618835
+Wed 09/23/2020 21:34:28.39 ,14.539419677099508,3.084638910773084,0.007793659761697642,"ndt-iupui-mlab1-lga08.mlab-oti.measurement-lab.org"
+Wed 09/23/2020 22:39:31.20 ,13.752790483499616,3.175782389683659,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Wed 09/23/2020 23:41:04.29 ,13.142453654686507,3.3127381900618835,0,"ndt-iupui-mlab3-lga05.mlab-oti.measurement-lab.org"
 Thu 09/24/2020  0:41:48.85 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Thu 09/24/2020  1:50:41.56 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Thu 09/24/2020  2:51:56.64 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Thu 09/24/2020  3:24:25.43 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Thu 09/24/2020  4:51:59.21 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Thu 09/24/2020  5:42:46.28 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Thu 09/24/2020  6:40:09.46 ,18.402807398082697,4.847552798043694
-Thu 09/24/2020  7:32:56.02 ,15.165347370021282,3.6709667539794477
-Thu 09/24/2020  8:43:10.22 ,23.50465716486903,6.443574799003625
-Thu 09/24/2020  9:50:59.06 ,16.497187643722214,4.580380191109938
+Thu 09/24/2020  6:40:09.46 ,18.402807398082697,4.847552798043694,0,"ndt-iupui-mlab1-lga04.mlab-oti.measurement-lab.org"
+Thu 09/24/2020  7:32:56.02 ,15.165347370021282,3.6709667539794477,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Thu 09/24/2020  8:43:10.22 ,23.50465716486903,6.443574799003625,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
+Thu 09/24/2020  9:50:59.06 ,16.497187643722214,4.580380191109938,0,"ndt-iupui-mlab3-lga03.mlab-oti.measurement-lab.org"
 Thu 09/24/2020 10:51:12.35 ,,,"download websocket: bad handshake"
-Thu 09/24/2020 11:44:43.59 ,14.78363222748815,3.8755137915670947
-Thu 09/24/2020 12:39:20.51 ,16.247057734582896,3.7699585332140826
-Thu 09/24/2020 13:44:07.02 ,14.920631894934333,3.6497206387709724
-Thu 09/24/2020 14:24:47.55 ,12.26083352157217,3.43960811756473
-Thu 09/24/2020 15:29:22.11 ,12.678686060059384,3.4402959704029596
-Thu 09/24/2020 16:31:33.65 ,15.264215901918405,3.5148929344775044
-Thu 09/24/2020 17:25:08.63 ,14.796572151607522,3.1822029990819134
-Thu 09/24/2020 18:39:45.31 ,13.678557869010856,3.209133510529544
-Thu 09/24/2020 19:27:47.08 ,14.458372528775191,3.7375927389128627
-Thu 09/24/2020 20:51:15.20 ,20.142144166157603,3.5672267272137526
-Thu 09/24/2020 21:31:04.94 ,11.694633558517436,2.602098829962607
-Thu 09/24/2020 22:52:17.08 ,14.768104708868433,3.560097019263536
-Thu 09/24/2020 23:52:40.11 ,16.194526669594943,3.944051612903226
-Fri 09/25/2020  0:42:40.27 ,16.26593662146914,4.347406366665329
+Thu 09/24/2020 11:44:43.59 ,14.78363222748815,3.8755137915670947,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Thu 09/24/2020 12:39:20.51 ,16.247057734582896,3.7699585332140826,0,"ndt-iupui-mlab1-lga03.mlab-oti.measurement-lab.org"
+Thu 09/24/2020 13:44:07.02 ,14.920631894934333,3.6497206387709724,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Thu 09/24/2020 14:24:47.55 ,12.26083352157217,3.43960811756473,0,"ndt-iupui-mlab2-lga06.mlab-oti.measurement-lab.org"
+Thu 09/24/2020 15:29:22.11 ,12.678686060059384,3.4402959704029596,0,"ndt-iupui-mlab2-lga06.mlab-oti.measurement-lab.org"
+Thu 09/24/2020 16:31:33.65 ,15.264215901918405,3.5148929344775044,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Thu 09/24/2020 17:25:08.63 ,14.796572151607522,3.1822029990819134,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Thu 09/24/2020 18:39:45.31 ,13.678557869010856,3.209133510529544,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Thu 09/24/2020 19:27:47.08 ,14.458372528775191,3.7375927389128627,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Thu 09/24/2020 20:51:15.20 ,20.142144166157603,3.5672267272137526,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
+Thu 09/24/2020 21:31:04.94 ,11.694633558517436,2.602098829962607,0,"ndt-iupui-mlab1-lga05.mlab-oti.measurement-lab.org"
+Thu 09/24/2020 22:52:17.08 ,14.768104708868433,3.560097019263536,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Thu 09/24/2020 23:52:40.11 ,16.194526669594943,3.944051612903226,0,"ndt-iupui-mlab3-lga03.mlab-oti.measurement-lab.org"
+Fri 09/25/2020  0:42:40.27 ,16.26593662146914,4.347406366665329,0,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
 Fri 09/25/2020  1:45:14.50 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Fri 09/25/2020  2:44:28.87 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Fri 09/25/2020  3:41:03.29 ,16.615029447311375,4.152878539809593
-Fri 09/25/2020  4:38:33.51 ,16.2936493773519,3.7610902011680727
-Fri 09/25/2020  5:26:17.28 ,25.535148815946947,6.163574871334041
-Fri 09/25/2020  6:44:48.91 ,14.234816787793463,3.9341138552032557
-Fri 09/25/2020  7:32:15.85 ,13.928186624722848,3.3457650785963637
-Fri 09/25/2020  8:29:49.98 ,12.172223269136547,3.189115821713549
-Fri 09/25/2020  9:41:11.26 ,13.728029914052907,3.3325407106967733
+Fri 09/25/2020  3:41:03.29 ,16.615029447311375,4.152878539809593,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Fri 09/25/2020  4:38:33.51 ,16.2936493773519,3.7610902011680727,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Fri 09/25/2020  5:26:17.28 ,25.535148815946947,6.163574871334041,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
+Fri 09/25/2020  6:44:48.91 ,14.234816787793463,3.9341138552032557,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Fri 09/25/2020  7:32:15.85 ,13.928186624722848,3.3457650785963637,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Fri 09/25/2020  8:29:49.98 ,12.172223269136547,3.189115821713549,0,"ndt-iupui-mlab1-lga06.mlab-oti.measurement-lab.org"
+Fri 09/25/2020  9:41:11.26 ,13.728029914052907,3.3325407106967733,0,"ndt-iupui-mlab2-lga06.mlab-oti.measurement-lab.org"
 Fri 09/25/2020 10:38:15.43 ,,,"download websocket: bad handshake"
-Fri 09/25/2020 11:48:10.69 ,12.721165624589272,3.4989503374634836
-Fri 09/25/2020 12:47:02.64 ,15.447808060786256,3.472607242001175
-Fri 09/25/2020 13:25:30.45 ,16.477036779477668,3.8532611560529575
-Fri 09/25/2020 14:37:38.73 ,22.842781874009898,6.933797711855826
-Fri 09/25/2020 15:32:11.87 ,14.655960359197312,3.9325851443399285
-Fri 09/25/2020 16:31:06.89 ,16.416091554732127,4.160804868154158
-Fri 09/25/2020 17:42:58.68 ,21.567039046381904,5.284513122393917
-Fri 09/25/2020 18:49:34.84 ,12.457465835310563,3.001248675132487
-Fri 09/25/2020 19:50:59.67 ,21.03951435818988,4.301153713298791
-Fri 09/25/2020 20:32:50.79 ,13.42289845672536,3.162386315556182
-Fri 09/25/2020 21:30:05.22 ,12.262257162949206,2.4671321013004794
-Fri 09/25/2020 22:47:28.07 ,15.647165002778468,3.1449143370566253
-Fri 09/25/2020 23:50:17.88 ,16.490454779082828,3.4860971309504727
-Sat 09/26/2020  0:25:17.58 ,14.137256760008142,3.7009671005432
+Fri 09/25/2020 11:48:10.69 ,12.721165624589272,3.4989503374634836,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Fri 09/25/2020 12:47:02.64 ,15.447808060786256,3.472607242001175,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Fri 09/25/2020 13:25:30.45 ,16.477036779477668,3.8532611560529575,0,"ndt-iupui-mlab1-lga03.mlab-oti.measurement-lab.org"
+Fri 09/25/2020 14:37:38.73 ,22.842781874009898,6.933797711855826,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
+Fri 09/25/2020 15:32:11.87 ,14.655960359197312,3.9325851443399285,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Fri 09/25/2020 16:31:06.89 ,16.416091554732127,4.160804868154158,0,"ndt-iupui-mlab2-lga08.mlab-oti.measurement-lab.org"
+Fri 09/25/2020 17:42:58.68 ,21.567039046381904,5.284513122393917,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
+Fri 09/25/2020 18:49:34.84 ,12.457465835310563,3.001248675132487,0,"ndt-iupui-mlab2-lga05.mlab-oti.measurement-lab.org"
+Fri 09/25/2020 19:50:59.67 ,21.03951435818988,4.301153713298791,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
+Fri 09/25/2020 20:32:50.79 ,13.42289845672536,3.162386315556182,0,"ndt-iupui-mlab3-lga03.mlab-oti.measurement-lab.org"
+Fri 09/25/2020 21:30:05.22 ,12.262257162949206,2.4671321013004794,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Fri 09/25/2020 22:47:28.07 ,15.647165002778468,3.1449143370566253,0,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
+Fri 09/25/2020 23:50:17.88 ,16.490454779082828,3.4860971309504727,0,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
+Sat 09/26/2020  0:25:17.58 ,14.137256760008142,3.7009671005432,0,"ndt-iupui-mlab2-lga05.mlab-oti.measurement-lab.org"
 Sat 09/26/2020  1:46:37.81 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Sat 09/26/2020  2:30:35.50 ,24.19701046570439,6.138220825744992
+Sat 09/26/2020  2:30:35.50 ,24.19701046570439,6.138220825744992,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
 Sat 09/26/2020  3:28:15.56 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": net/http: TLS handshake timeout"
 Sat 09/26/2020  4:27:55.86 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Sat 09/26/2020  5:39:13.78 ,17.672558068166563,4.368978001461158
-Sat 09/26/2020  6:24:20.43 ,16.664064953055256,4.501923429199487
-Sat 09/26/2020  7:27:20.12 ,16.14557950569913,3.8966133435799946
-Sat 09/26/2020  8:34:42.62 ,16.262607027773516,4.0098183415179465
-Sat 09/26/2020  9:50:28.16 ,13.141339620453754,3.035103702964368
-Sat 09/26/2020 10:23:14.23 ,14.857603475874685,3.4209939083039433
-Sat 09/26/2020 11:52:46.24 ,16.28049315375563,4.660512820512821
-Sat 09/26/2020 12:44:07.00 ,11.724870781169924,2.9486482162853944
-Sat 09/26/2020 13:35:56.79 ,15.973428317681073,4.292311098355952
-Sat 09/26/2020 14:26:23.59 ,14.507312952384495,4.143302145278155
-Sat 09/26/2020 15:49:02.93 ,26.106704075026,6.230355279205071
-Sat 09/26/2020 16:37:17.40 ,15.285450077501796,3.754591454498107
-Sat 09/26/2020 17:32:20.78 ,14.584316669510324,4.0850519271184025
-Sat 09/26/2020 18:49:34.15 ,15.542660881303634,3.824904138862569
-Sat 09/26/2020 19:47:08.19 ,12.396671533954072,2.5224850149349476
-Sat 09/26/2020 20:25:17.01 ,11.915426539836231,2.974702440992536
-Sat 09/26/2020 21:34:36.25 ,12.476594327621044,2.8897470180643325
-Sat 09/26/2020 22:45:27.45 ,13.681022677920657,3.128682620256224
-Sat 09/26/2020 23:26:13.35 ,13.003499226076663,3.109843567780593
-Sun 09/27/2020  0:39:33.54 ,20.17607319110166,3.94803175117447
+Sat 09/26/2020  5:39:13.78 ,17.672558068166563,4.368978001461158,0,"ndt-iupui-mlab2-lga08.mlab-oti.measurement-lab.org"
+Sat 09/26/2020  6:24:20.43 ,16.664064953055256,4.501923429199487,0,"ndt-iupui-mlab3-lga03.mlab-oti.measurement-lab.org"
+Sat 09/26/2020  7:27:20.12 ,16.14557950569913,3.8966133435799946,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Sat 09/26/2020  8:34:42.62 ,16.262607027773516,4.0098183415179465,0,"ndt-iupui-mlab3-lga08.mlab-oti.measurement-lab.org"
+Sat 09/26/2020  9:50:28.16 ,13.141339620453754,3.035103702964368,0,"ndt-iupui-mlab2-lga06.mlab-oti.measurement-lab.org"
+Sat 09/26/2020 10:23:14.23 ,14.857603475874685,3.4209939083039433,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Sat 09/26/2020 11:52:46.24 ,16.28049315375563,4.660512820512821,0,"ndt-iupui-mlab1-lga04.mlab-oti.measurement-lab.org"
+Sat 09/26/2020 12:44:07.00 ,11.724870781169924,2.9486482162853944,0,"ndt-iupui-mlab1-lga05.mlab-oti.measurement-lab.org"
+Sat 09/26/2020 13:35:56.79 ,15.973428317681073,4.292311098355952,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Sat 09/26/2020 14:26:23.59 ,14.507312952384495,4.143302145278155,0,"ndt-iupui-mlab2-lga08.mlab-oti.measurement-lab.org"
+Sat 09/26/2020 15:49:02.93 ,26.106704075026,6.230355279205071,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
+Sat 09/26/2020 16:37:17.40 ,15.285450077501796,3.754591454498107,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Sat 09/26/2020 17:32:20.78 ,14.584316669510324,4.0850519271184025,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Sat 09/26/2020 18:49:34.15 ,15.542660881303634,3.824904138862569,0,"ndt-iupui-mlab2-lga04.mlab-oti.measurement-lab.org"
+Sat 09/26/2020 19:47:08.19 ,12.396671533954072,2.5224850149349476,0.028331441120796986,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Sat 09/26/2020 20:25:17.01 ,11.915426539836231,2.974702440992536,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Sat 09/26/2020 21:34:36.25 ,12.476594327621044,2.8897470180643325,0,"ndt-iupui-mlab1-lga05.mlab-oti.measurement-lab.org"
+Sat 09/26/2020 22:45:27.45 ,13.681022677920657,3.128682620256224,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Sat 09/26/2020 23:26:13.35 ,13.003499226076663,3.109843567780593,0,"ndt-iupui-mlab2-lga05.mlab-oti.measurement-lab.org"
+Sun 09/27/2020  0:39:33.54 ,20.17607319110166,3.94803175117447,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Sun 09/27/2020  1:44:39.05 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Sun 09/27/2020  2:39:12.87 ,11.901017832854768,3.119055430666099
-Sun 09/27/2020  3:28:11.89 ,18.69950257323445,4.444868547578616
+Sun 09/27/2020  2:39:12.87 ,11.901017832854768,3.119055430666099,0,"ndt-iupui-mlab2-lga06.mlab-oti.measurement-lab.org"
+Sun 09/27/2020  3:28:11.89 ,18.69950257323445,4.444868547578616,0,"ndt-iupui-mlab3-lga04.mlab-oti.measurement-lab.org"
 Sun 09/27/2020  4:49:26.41 ,,,"upload websocket: bad handshake"
 Sun 09/27/2020  5:38:00.27 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Sun 09/27/2020  6:25:43.04 ,18.535451829433903,4.7811430874647325
-Sun 09/27/2020  7:47:47.09 ,14.890606706582385,3.7215142880403813
-Sun 09/27/2020  8:30:02.93 ,15.517418985894013,3.528380162938583
-Sun 09/27/2020  9:52:29.57 ,22.772403392287053,5.705119410161885
-Sun 09/27/2020 10:23:16.63 ,22.494552068418407,5.102863212746768
-Sun 09/27/2020 11:38:06.54 ,23.51280710390045,5.486784078758902
-Sun 09/27/2020 12:51:24.89 ,14.04172909332256,3.9052354620406047
-Sun 09/27/2020 13:50:36.12 ,15.543057363632903,4.380641532504586
-Sun 09/27/2020 14:50:04.41 ,23.253297257024098,6.037610922870261
-Sun 09/27/2020 15:49:46.04 ,12.567141614013847,3.156396620577552
-Sun 09/27/2020 16:43:58.16 ,14.65698332340679,3.724466235792289
-Sun 09/27/2020 17:27:11.63 ,31.844170510024895,4.951272609426586
-Sun 09/27/2020 18:24:39.59 ,14.992114986584898,3.6860513194697804
-Sun 09/27/2020 19:30:35.99 ,18.566005759901035,4.221481030635017
-Sun 09/27/2020 20:51:59.50 ,16.356056239015818,3.840258638108709
-Sun 09/27/2020 21:33:12.74 ,14.449064291720816,2.682283008083613
-Sun 09/27/2020 22:24:09.87 ,13.546783040488924,3.296149867644065
-Sun 09/27/2020 23:41:26.82 ,14.128039340468613,3.2754765751211634
-Mon 09/28/2020  0:32:07.03 ,13.345052086330934,4.545657357570834
-Mon 09/28/2020  1:30:18.66 ,25.163539705739062,6.010344548034049
-Mon 09/28/2020  2:31:23.35 ,16.359546110202906,4.6108069035533
-Mon 09/28/2020  3:27:32.72 ,18.031961404862987,4.878857490124583
-Mon 09/28/2020  4:36:16.22 ,12.26529783579526,2.553605754820661
-Mon 09/28/2020  5:42:28.93 ,18.40301723634239,5.214521484177536
+Sun 09/27/2020  6:25:43.04 ,18.535451829433903,4.7811430874647325,0,"ndt-iupui-mlab1-lga04.mlab-oti.measurement-lab.org"
+Sun 09/27/2020  7:47:47.09 ,14.890606706582385,3.7215142880403813,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Sun 09/27/2020  8:30:02.93 ,15.517418985894013,3.528380162938583,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Sun 09/27/2020  9:52:29.57 ,22.772403392287053,5.705119410161885,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
+Sun 09/27/2020 10:23:16.63 ,22.494552068418407,5.102863212746768,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
+Sun 09/27/2020 11:38:06.54 ,23.51280710390045,5.486784078758902,0.004996766476050293,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
+Sun 09/27/2020 12:51:24.89 ,14.04172909332256,3.9052354620406047,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Sun 09/27/2020 13:50:36.12 ,15.543057363632903,4.380641532504586,0,"ndt-iupui-mlab1-lga03.mlab-oti.measurement-lab.org"
+Sun 09/27/2020 14:50:04.41 ,23.253297257024098,6.037610922870261,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
+Sun 09/27/2020 15:49:46.04 ,12.567141614013847,3.156396620577552,0,"ndt-iupui-mlab2-lga06.mlab-oti.measurement-lab.org"
+Sun 09/27/2020 16:43:58.16 ,14.65698332340679,3.724466235792289,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Sun 09/27/2020 17:27:11.63 ,31.844170510024895,4.951272609426586,0.010938947287660547,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
+Sun 09/27/2020 18:24:39.59 ,14.992114986584898,3.6860513194697804,0,"ndt-iupui-mlab3-lga03.mlab-oti.measurement-lab.org"
+Sun 09/27/2020 19:30:35.99 ,18.566005759901035,4.221481030635017,0.012554973153855693,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
+Sun 09/27/2020 20:51:59.50 ,16.356056239015818,3.840258638108709,0.01431235318809628,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
+Sun 09/27/2020 21:33:12.74 ,14.449064291720816,2.682283008083613,0.00806000352431935,"ndt-iupui-mlab1-lga08.mlab-oti.measurement-lab.org"
+Sun 09/27/2020 22:24:09.87 ,13.546783040488924,3.296149867644065,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Sun 09/27/2020 23:41:26.82 ,14.128039340468613,3.2754765751211634,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Mon 09/28/2020  0:32:07.03 ,13.345052086330934,4.545657357570834,0,"ndt-iupui-mlab3-lga08.mlab-oti.measurement-lab.org"
+Mon 09/28/2020  1:30:18.66 ,25.163539705739062,6.010344548034049,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
+Mon 09/28/2020  2:31:23.35 ,16.359546110202906,4.6108069035533,0,"ndt-iupui-mlab2-lga04.mlab-oti.measurement-lab.org"
+Mon 09/28/2020  3:27:32.72 ,18.031961404862987,4.878857490124583,0,"ndt-iupui-mlab3-lga03.mlab-oti.measurement-lab.org"
+Mon 09/28/2020  4:36:16.22 ,12.26529783579526,2.553605754820661,0,"ndt-iupui-mlab2-lga05.mlab-oti.measurement-lab.org"
+Mon 09/28/2020  5:42:28.93 ,18.40301723634239,5.214521484177536,0,"ndt-iupui-mlab3-lga08.mlab-oti.measurement-lab.org"
 Mon 09/28/2020  6:33:25.94 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Mon 09/28/2020  7:38:23.22 ,13.149146325016858,3.455960756259581
-Mon 09/28/2020  8:39:37.98 ,25.1155910380589,6.531282051282051
-Mon 09/28/2020  9:43:33.25 ,15.911537146114384,3.8448850994721884
-Mon 09/28/2020 10:41:30.09 ,16.92393243895377,4.806977515738983
+Mon 09/28/2020  7:38:23.22 ,13.149146325016858,3.455960756259581,0,"ndt-iupui-mlab1-lga06.mlab-oti.measurement-lab.org"
+Mon 09/28/2020  8:39:37.98 ,25.1155910380589,6.531282051282051,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
+Mon 09/28/2020  9:43:33.25 ,15.911537146114384,3.8448850994721884,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Mon 09/28/2020 10:41:30.09 ,16.92393243895377,4.806977515738983,0,"ndt-iupui-mlab1-lga08.mlab-oti.measurement-lab.org"
 Mon 09/28/2020 13:40:50.36 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Mon 09/28/2020 14:45:40.53 ,81.02616752923137,2.8444444444444446
-Mon 09/28/2020 15:35:11.85 ,86.03652636858146,3.35045740342701
+Mon 09/28/2020 14:45:40.53 ,81.02616752923137,2.8444444444444446,0.07308509072235601,"ndt-iupui-mlab1-lga06.mlab-oti.measurement-lab.org"
+Mon 09/28/2020 15:35:11.85 ,86.03652636858146,3.35045740342701,0,"ndt-iupui-mlab2-lga05.mlab-oti.measurement-lab.org"
 Mon 09/28/2020 16:51:47.22 ,,,"upload websocket: bad handshake"
-Mon 09/28/2020 17:47:35.20 ,85.55042313581828,5.272341526520052
-Mon 09/28/2020 18:33:10.17 ,77.88060893072837,3.2036868154158213
-Mon 09/28/2020 19:24:16.21 ,66.02826104333593,2.9795786591471014
-Mon 09/28/2020 20:51:53.42 ,58.07334970960678,2.7575213880227074
-Mon 09/28/2020 21:36:05.17 ,72.9603200763485,2.985347958709573
-Mon 09/28/2020 22:32:48.19 ,83.05637114907847,2.74932278556874
-Mon 09/28/2020 23:49:24.20 ,90.53502849558905,3.486661282506865
-Tue 09/29/2020  0:47:00.22 ,88.23481920914944,3.6532046996657392
+Mon 09/28/2020 17:47:35.20 ,85.55042313581828,5.272341526520052,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
+Mon 09/28/2020 18:33:10.17 ,77.88060893072837,3.2036868154158213,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Mon 09/28/2020 19:24:16.21 ,66.02826104333593,2.9795786591471014,0.06854251248400929,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Mon 09/28/2020 20:51:53.42 ,58.07334970960678,2.7575213880227074,1.0015495114442396,"ndt-iupui-mlab3-lga06.mlab-oti.measurement-lab.org"
+Mon 09/28/2020 21:36:05.17 ,72.9603200763485,2.985347958709573,0.013443280956100872,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Mon 09/28/2020 22:32:48.19 ,83.05637114907847,2.74932278556874,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Mon 09/28/2020 23:49:24.20 ,90.53502849558905,3.486661282506865,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Tue 09/29/2020  0:47:00.22 ,88.23481920914944,3.6532046996657392,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
 Tue 09/29/2020  1:48:33.16 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Tue 09/29/2020  2:23:55.23 ,81.84616739401497,4.404839300989857
-Tue 09/29/2020  3:33:29.67 ,92.7197058071621,3.367405482136074
-Tue 09/29/2020  4:37:50.24 ,89.91097792888839,3.833560041219616
-Tue 09/29/2020  5:41:18.28 ,90.11646991665715,3.258504299629131
-Tue 09/29/2020  6:26:37.30 ,90.61649718401067,2.8418579125523267
+Tue 09/29/2020  2:23:55.23 ,81.84616739401497,4.404839300989857,0,"ndt-iupui-mlab3-lga08.mlab-oti.measurement-lab.org"
+Tue 09/29/2020  3:33:29.67 ,92.7197058071621,3.367405482136074,0,"ndt-iupui-mlab1-lga06.mlab-oti.measurement-lab.org"
+Tue 09/29/2020  4:37:50.24 ,89.91097792888839,3.833560041219616,0,"ndt-iupui-mlab2-lga05.mlab-oti.measurement-lab.org"
+Tue 09/29/2020  5:41:18.28 ,90.11646991665715,3.258504299629131,0,"ndt-iupui-mlab2-lga05.mlab-oti.measurement-lab.org"
+Tue 09/29/2020  6:26:37.30 ,90.61649718401067,2.8418579125523267,0,"ndt-iupui-mlab1-lga06.mlab-oti.measurement-lab.org"
 Tue 09/29/2020  7:35:11.12 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Tue 09/29/2020  8:48:38.97 ,85.93801735009747,3.6672107176408115
-Tue 09/29/2020  9:42:23.00 ,89.71186080269919,3.3501336338753824
-Tue 09/29/2020 10:27:01.89 ,81.60271096803864,3.0614496348904674
+Tue 09/29/2020  8:48:38.97 ,85.93801735009747,3.6672107176408115,0.06873584247164528,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
+Tue 09/29/2020  9:42:23.00 ,89.71186080269919,3.3501336338753824,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Tue 09/29/2020 10:27:01.89 ,81.60271096803864,3.0614496348904674,1.0294448298652905,"ndt-iupui-mlab1-lga03.mlab-oti.measurement-lab.org"
 Tue 09/29/2020 11:44:48.07 ,,,"download websocket: bad handshake"
-Tue 09/29/2020 12:49:23.31 ,81.77382524271844,5.319352272270662
-Tue 09/29/2020 13:48:00.38 ,86.57378431938432,4.304086004122379
-Tue 09/29/2020 14:26:47.32 ,85.33921592303349,3.177511173069827
-Tue 09/29/2020 15:32:56.29 ,86.50712138106039,3.827016366942817
-Tue 09/29/2020 16:44:55.54 ,88.95964338895041,3.4024597766038953
-Tue 09/29/2020 17:52:17.90 ,85.90725821365892,4.523584045011555
-Tue 09/29/2020 18:28:14.25 ,89.05529368731108,2.8818482964036307
-Tue 09/29/2020 19:52:37.29 ,87.99452262620979,2.690581379047924
+Tue 09/29/2020 12:49:23.31 ,81.77382524271844,5.319352272270662,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
+Tue 09/29/2020 13:48:00.38 ,86.57378431938432,4.304086004122379,0,"ndt-iupui-mlab3-lga04.mlab-oti.measurement-lab.org"
+Tue 09/29/2020 14:26:47.32 ,85.33921592303349,3.177511173069827,0,"ndt-iupui-mlab2-lga05.mlab-oti.measurement-lab.org"
+Tue 09/29/2020 15:32:56.29 ,86.50712138106039,3.827016366942817,0,"ndt-iupui-mlab1-lga03.mlab-oti.measurement-lab.org"
+Tue 09/29/2020 16:44:55.54 ,88.95964338895041,3.4024597766038953,0.006394438989413752,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Tue 09/29/2020 17:52:17.90 ,85.90725821365892,4.523584045011555,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
+Tue 09/29/2020 18:28:14.25 ,89.05529368731108,2.8818482964036307,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Tue 09/29/2020 19:52:37.29 ,87.99452262620979,2.690581379047924,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Tue 09/29/2020 20:41:38.72 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": net/http: TLS handshake timeout"
-Tue 09/29/2020 21:24:19.91 ,75.85619683519876,2.817546516310914
-Tue 09/29/2020 22:40:16.65 ,70.92025,2.101039264828738
+Tue 09/29/2020 21:24:19.91 ,75.85619683519876,2.817546516310914,0.19571827440131861,"ndt-iupui-mlab1-lga08.mlab-oti.measurement-lab.org"
+Tue 09/29/2020 22:40:16.65 ,70.92025,2.101039264828738,0.06946403579976124,"ndt-iupui-mlab1-lga05.mlab-oti.measurement-lab.org"
 Tue 09/29/2020 23:23:54.21 ,,,"upload websocket: bad handshake"
-Wed 09/30/2020  0:51:23.06 ,88.32807749033363,3.157839397339317
-Wed 09/30/2020  1:30:09.24 ,90.57525522328473,6.160814992636824
-Wed 09/30/2020  2:51:27.20 ,90.70910955248914,3.9978763353836193
-Wed 09/30/2020  3:32:49.97 ,90.49137273007078,3.6021048416162746
+Wed 09/30/2020  0:51:23.06 ,88.32807749033363,3.157839397339317,0,"ndt-iupui-mlab1-lga06.mlab-oti.measurement-lab.org"
+Wed 09/30/2020  1:30:09.24 ,90.57525522328473,6.160814992636824,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
+Wed 09/30/2020  2:51:27.20 ,90.70910955248914,3.9978763353836193,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Wed 09/30/2020  3:32:49.97 ,90.49137273007078,3.6021048416162746,0,"ndt-iupui-mlab1-lga06.mlab-oti.measurement-lab.org"
 Wed 09/30/2020  4:28:42.06 ,,,"upload websocket: bad handshake"
-Wed 09/30/2020  5:37:44.24 ,93.10391989225275,6.948893947783999
-Wed 09/30/2020  6:30:04.85 ,84.72523682559599,4.127506409995523
-Wed 09/30/2020  7:52:20.90 ,88.46924553970537,6.344962321176708
+Wed 09/30/2020  5:37:44.24 ,93.10391989225275,6.948893947783999,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
+Wed 09/30/2020  6:30:04.85 ,84.72523682559599,4.127506409995523,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Wed 09/30/2020  7:52:20.90 ,88.46924553970537,6.344962321176708,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
 Wed 09/30/2020  8:39:51.14 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Wed 09/30/2020  9:25:21.14 ,87.2732995647606,3.500399675060926
+Wed 09/30/2020  9:25:21.14 ,87.2732995647606,3.500399675060926,0,"ndt-iupui-mlab2-lga06.mlab-oti.measurement-lab.org"
 Wed 09/30/2020 10:27:57.92 ,,,"download websocket: bad handshake"
-Wed 09/30/2020 11:45:07.98 ,77.36963570884411,3.664833353631308
-Wed 09/30/2020 12:27:51.53 ,79.56371914946172,3.2202124492833404
-Wed 09/30/2020 13:41:18.95 ,88.18961439981658,4.080025999350016
-Wed 09/30/2020 14:40:04.92 ,88.76161668138705,4.130116206723533
-Wed 09/30/2020 15:46:14.01 ,89.91145308968318,4.1147107238444045
-Wed 09/30/2020 16:48:09.93 ,83.05142967497731,3.8784582701062216
+Wed 09/30/2020 11:45:07.98 ,77.36963570884411,3.664833353631308,0.02655903442119987,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Wed 09/30/2020 12:27:51.53 ,79.56371914946172,3.2202124492833404,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Wed 09/30/2020 13:41:18.95 ,88.18961439981658,4.080025999350016,0,"ndt-iupui-mlab1-lga03.mlab-oti.measurement-lab.org"
+Wed 09/30/2020 14:40:04.92 ,88.76161668138705,4.130116206723533,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Wed 09/30/2020 15:46:14.01 ,89.91145308968318,4.1147107238444045,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Wed 09/30/2020 16:48:09.93 ,83.05142967497731,3.8784582701062216,0,"ndt-iupui-mlab1-lga03.mlab-oti.measurement-lab.org"
 Wed 09/30/2020 17:31:22.99 ,,,"download websocket: bad handshake"
-Wed 09/30/2020 18:49:20.91 ,78.5591554881605,2.7960069239384993
-Wed 09/30/2020 19:30:30.00 ,60.90495211529521,3.069431091688921
-Wed 09/30/2020 20:50:29.96 ,78.9187481427864,2.7520166370053394
-Wed 09/30/2020 21:48:28.88 ,62.43310124081245,2.072116729604719
-Wed 09/30/2020 22:44:29.90 ,82.864790513834,3.2429207064408416
-Wed 09/30/2020 23:29:30.93 ,85.30794478051807,5.17795435472316
-Thu 10/01/2020  0:33:05.97 ,91.99683889860655,4.465529250475742
+Wed 09/30/2020 18:49:20.91 ,78.5591554881605,2.7960069239384993,0.18949503911965276,"ndt-iupui-mlab1-lga03.mlab-oti.measurement-lab.org"
+Wed 09/30/2020 19:30:30.00 ,60.90495211529521,3.069431091688921,0.014315000216187741,"ndt-iupui-mlab3-lga08.mlab-oti.measurement-lab.org"
+Wed 09/30/2020 20:50:29.96 ,78.9187481427864,2.7520166370053394,0.09355759077984718,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Wed 09/30/2020 21:48:28.88 ,62.43310124081245,2.072116729604719,0.12057516625410793,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Wed 09/30/2020 22:44:29.90 ,82.864790513834,3.2429207064408416,0,"ndt-iupui-mlab1-lga06.mlab-oti.measurement-lab.org"
+Wed 09/30/2020 23:29:30.93 ,85.30794478051807,5.17795435472316,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
+Thu 10/01/2020  0:33:05.97 ,91.99683889860655,4.465529250475742,0,"ndt-iupui-mlab1-lga04.mlab-oti.measurement-lab.org"
 Thu 10/01/2020  1:52:49.34 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Thu 10/01/2020  2:38:40.16 ,81.40490374873353,3.4226279211542368
+Thu 10/01/2020  2:38:40.16 ,81.40490374873353,3.4226279211542368,0,"ndt-iupui-mlab3-lga06.mlab-oti.measurement-lab.org"
 Thu 10/01/2020  3:49:32.94 ,,,"upload websocket: bad handshake"
-Thu 10/01/2020  4:26:42.09 ,91.25748232735181,4.075422129640975
-Thu 10/01/2020  5:31:51.16 ,86.25223320988125,4.112916025589116
-Thu 10/01/2020  6:31:55.41 ,90.55331625239006,3.417586109883043
-Thu 10/01/2020  7:51:41.85 ,89.41953628755661,5.8361886444684865
-Thu 10/01/2020  8:25:05.75 ,87.08259528235,4.370556380119539
+Thu 10/01/2020  4:26:42.09 ,91.25748232735181,4.075422129640975,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Thu 10/01/2020  5:31:51.16 ,86.25223320988125,4.112916025589116,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Thu 10/01/2020  6:31:55.41 ,90.55331625239006,3.417586109883043,0,"ndt-iupui-mlab1-lga05.mlab-oti.measurement-lab.org"
+Thu 10/01/2020  7:51:41.85 ,89.41953628755661,5.8361886444684865,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
+Thu 10/01/2020  8:25:05.75 ,87.08259528235,4.370556380119539,0,"ndt-iupui-mlab3-lga04.mlab-oti.measurement-lab.org"
 Thu 10/01/2020  9:29:21.74 ,,,"upload websocket: bad handshake"
 Thu 10/01/2020 10:34:09.28 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Thu 10/01/2020 11:36:19.32 ,83.17353602166136,3.428492777977834
+Thu 10/01/2020 11:36:19.32 ,83.17353602166136,3.428492777977834,0,"ndt-iupui-mlab3-lga06.mlab-oti.measurement-lab.org"
 Thu 10/01/2020 12:42:08.58 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Thu 10/01/2020 13:30:59.66 ,87.73270697232451,3.852587978448535
-Thu 10/01/2020 14:35:05.44 ,90.64006465055596,5.385165973411631
-Thu 10/01/2020 15:50:55.47 ,89.4924005812175,3.8747864380517445
-Thu 10/01/2020 16:46:49.98 ,90.31890698814075,5.384905237904838
-Thu 10/01/2020 17:38:26.94 ,85.15211641739332,3.486170182469131
-Thu 10/01/2020 18:37:19.41 ,75.60591366426736,5.190079501680191
-Thu 10/01/2020 19:26:20.71 ,74.48669801197885,3.6997536935718536
-Thu 10/01/2020 20:31:53.81 ,84.37002510299895,2.878301783208963
-Thu 10/01/2020 21:34:01.90 ,71.77289513279572,2.2866896607042593
-Thu 10/01/2020 22:34:40.82 ,74.73096922442406,2.806119370135457
-Thu 10/01/2020 23:51:57.80 ,82.47207616849394,4.215004057782828
-Fri 10/02/2020  0:49:08.79 ,90.36903448008978,3.7228875930022123
+Thu 10/01/2020 13:30:59.66 ,87.73270697232451,3.852587978448535,0,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
+Thu 10/01/2020 14:35:05.44 ,90.64006465055596,5.385165973411631,0.0012680548427813493,"ndt-iupui-mlab3-lga04.mlab-oti.measurement-lab.org"
+Thu 10/01/2020 15:50:55.47 ,89.4924005812175,3.8747864380517445,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Thu 10/01/2020 16:46:49.98 ,90.31890698814075,5.384905237904838,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
+Thu 10/01/2020 17:38:26.94 ,85.15211641739332,3.486170182469131,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Thu 10/01/2020 18:37:19.41 ,75.60591366426736,5.190079501680191,0.0015534959745727183,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
+Thu 10/01/2020 19:26:20.71 ,74.48669801197885,3.6997536935718536,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
+Thu 10/01/2020 20:31:53.81 ,84.37002510299895,2.878301783208963,0,"ndt-iupui-mlab2-lga08.mlab-oti.measurement-lab.org"
+Thu 10/01/2020 21:34:01.90 ,71.77289513279572,2.2866896607042593,0.06156606512225292,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Thu 10/01/2020 22:34:40.82 ,74.73096922442406,2.806119370135457,0,"ndt-iupui-mlab3-lga06.mlab-oti.measurement-lab.org"
+Thu 10/01/2020 23:51:57.80 ,82.47207616849394,4.215004057782828,0.0012966412832439167,"ndt-iupui-mlab2-lga04.mlab-oti.measurement-lab.org"
+Fri 10/02/2020  0:49:08.79 ,90.36903448008978,3.7228875930022123,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Fri 10/02/2020  1:49:51.78 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Fri 10/02/2020  2:40:57.22 ,90.13311312832406,3.8812181792324414
-Fri 10/02/2020  3:35:35.45 ,77.64826069183002,8.64372574385511
-Fri 10/02/2020  4:37:07.86 ,91.17577475683098,4.650625202461938
-Fri 10/02/2020  5:32:22.53 ,93.50213461991056,4.441919385796545
-Fri 10/02/2020  6:32:58.72 ,91.64012015250125,4.57579535335546
-Fri 10/02/2020  7:38:21.90 ,88.80521230875023,6.012415843600448
-Fri 10/02/2020  8:26:21.53 ,88.96467080162006,5.261564458325825
-Fri 10/02/2020  9:33:27.25 ,79.64696630103354,5.586614929934257
+Fri 10/02/2020  2:40:57.22 ,90.13311312832406,3.8812181792324414,0,"ndt-iupui-mlab3-lga05.mlab-oti.measurement-lab.org"
+Fri 10/02/2020  3:35:35.45 ,77.64826069183002,8.64372574385511,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
+Fri 10/02/2020  4:37:07.86 ,91.17577475683098,4.650625202461938,0,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
+Fri 10/02/2020  5:32:22.53 ,93.50213461991056,4.441919385796545,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Fri 10/02/2020  6:32:58.72 ,91.64012015250125,4.57579535335546,0,"ndt-iupui-mlab1-lga03.mlab-oti.measurement-lab.org"
+Fri 10/02/2020  7:38:21.90 ,88.80521230875023,6.012415843600448,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
+Fri 10/02/2020  8:26:21.53 ,88.96467080162006,5.261564458325825,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
+Fri 10/02/2020  9:33:27.25 ,79.64696630103354,5.586614929934257,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
 Fri 10/02/2020  9:48:28.70 ,,,"upload websocket: bad handshake"
-Fri 10/02/2020  9:50:56.50 ,87.77324568227789,2.795983581697232
+Fri 10/02/2020  9:50:56.50 ,87.77324568227789,2.795983581697232,0,"ndt-iupui-mlab3-lga06.mlab-oti.measurement-lab.org"
 Fri 10/02/2020  9:53:14.56 ,,,"upload websocket: bad handshake"
 Fri 10/02/2020 10:02:14.93 ,,,"upload websocket: bad handshake"
-Fri 10/02/2020 10:23:15.21 ,86.6165027492883,3.1484844089920228
-Fri 10/02/2020 11:36:16.98 ,84.25695302464378,3.6596846312998412
-Fri 10/02/2020 12:28:45.05 ,83.19244516684195,4.32125887421371
-Fri 10/02/2020 13:51:03.62 ,85.85085320614733,3.8593154214206846
-Fri 10/02/2020 14:39:36.50 ,87.83419113470316,3.643174628890824
-Fri 10/02/2020 15:38:39.59 ,91.34570968248978,2.9372102161100195
-Fri 10/02/2020 16:51:59.30 ,90.3889052866454,4.199827206781318
-Fri 10/02/2020 17:49:55.47 ,90.11718349594453,2.7604658847526773
-Fri 10/02/2020 18:44:37.62 ,83.77986604378904,2.8950120929860677
-Fri 10/02/2020 19:31:15.52 ,85.04199923693247,2.8118764961252887
-Fri 10/02/2020 20:47:40.65 ,70.09598591804884,4.431155917243613
-Fri 10/02/2020 21:33:00.77 ,56.96683535241254,3.0111456381113597
-Fri 10/02/2020 22:47:19.72 ,75.82841563138858,4.929675501811816
-Fri 10/02/2020 23:30:27.49 ,87.84248423286246,3.465452235043348
-Sat 10/03/2020  0:33:24.30 ,84.13497749705434,3.7867182962245884
+Fri 10/02/2020 10:23:15.21 ,86.6165027492883,3.1484844089920228,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Fri 10/02/2020 11:36:16.98 ,84.25695302464378,3.6596846312998412,0,"ndt-iupui-mlab2-lga08.mlab-oti.measurement-lab.org"
+Fri 10/02/2020 12:28:45.05 ,83.19244516684195,4.32125887421371,0,"ndt-iupui-mlab3-lga04.mlab-oti.measurement-lab.org"
+Fri 10/02/2020 13:51:03.62 ,85.85085320614733,3.8593154214206846,0,"ndt-iupui-mlab2-lga08.mlab-oti.measurement-lab.org"
+Fri 10/02/2020 14:39:36.50 ,87.83419113470316,3.643174628890824,0,"ndt-iupui-mlab2-lga04.mlab-oti.measurement-lab.org"
+Fri 10/02/2020 15:38:39.59 ,91.34570968248978,2.9372102161100195,0,"ndt-iupui-mlab2-lga05.mlab-oti.measurement-lab.org"
+Fri 10/02/2020 16:51:59.30 ,90.3889052866454,4.199827206781318,0,"ndt-iupui-mlab1-lga04.mlab-oti.measurement-lab.org"
+Fri 10/02/2020 17:49:55.47 ,90.11718349594453,2.7604658847526773,0,"ndt-iupui-mlab1-lga06.mlab-oti.measurement-lab.org"
+Fri 10/02/2020 18:44:37.62 ,83.77986604378904,2.8950120929860677,0,"ndt-iupui-mlab1-lga08.mlab-oti.measurement-lab.org"
+Fri 10/02/2020 19:31:15.52 ,85.04199923693247,2.8118764961252887,0.0733852485378332,"ndt-iupui-mlab3-lga05.mlab-oti.measurement-lab.org"
+Fri 10/02/2020 20:47:40.65 ,70.09598591804884,4.431155917243613,0.2080077565961747,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
+Fri 10/02/2020 21:33:00.77 ,56.96683535241254,3.0111456381113597,0,"ndt-iupui-mlab1-lga08.mlab-oti.measurement-lab.org"
+Fri 10/02/2020 22:47:19.72 ,75.82841563138858,4.929675501811816,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
+Fri 10/02/2020 23:30:27.49 ,87.84248423286246,3.465452235043348,0,"ndt-iupui-mlab3-lga03.mlab-oti.measurement-lab.org"
+Sat 10/03/2020  0:33:24.30 ,84.13497749705434,3.7867182962245884,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Sat 10/03/2020  1:50:04.79 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Sat 10/03/2020  2:35:43.78 ,81.89336076150582,4.453787604204422
-Sat 10/03/2020  3:37:40.79 ,84.1200900319026,3.9242721474698605
-Sat 10/03/2020  4:33:26.67 ,91.18676676058513,3.8811505922165814
+Sat 10/03/2020  2:35:43.78 ,81.89336076150582,4.453787604204422,0,"ndt-iupui-mlab3-lga08.mlab-oti.measurement-lab.org"
+Sat 10/03/2020  3:37:40.79 ,84.1200900319026,3.9242721474698605,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Sat 10/03/2020  4:33:26.67 ,91.18676676058513,3.8811505922165814,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Sat 10/03/2020  5:40:04.53 ,,,"upload websocket: bad handshake"
-Sat 10/03/2020  6:40:05.72 ,91.09929877702473,6.378726970189049
-Sat 10/03/2020  7:33:36.49 ,89.11045141957048,3.5663709661284835
-Sat 10/03/2020  8:29:10.46 ,81.63472869989332,3.463973804422525
-Sat 10/03/2020  9:27:06.50 ,81.4156091653895,3.544043671157817
-Sat 10/03/2020 10:31:04.53 ,89.30052661837414,3.099087733632928
-Sat 10/03/2020 11:37:09.89 ,79.59912062302149,3.262779221817891
+Sat 10/03/2020  6:40:05.72 ,91.09929877702473,6.378726970189049,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
+Sat 10/03/2020  7:33:36.49 ,89.11045141957048,3.5663709661284835,0,"ndt-iupui-mlab2-lga06.mlab-oti.measurement-lab.org"
+Sat 10/03/2020  8:29:10.46 ,81.63472869989332,3.463973804422525,0,"ndt-iupui-mlab1-lga06.mlab-oti.measurement-lab.org"
+Sat 10/03/2020  9:27:06.50 ,81.4156091653895,3.544043671157817,0.04132803936875062,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Sat 10/03/2020 10:31:04.53 ,89.30052661837414,3.099087733632928,0,"ndt-iupui-mlab2-lga06.mlab-oti.measurement-lab.org"
+Sat 10/03/2020 11:37:09.89 ,79.59912062302149,3.262779221817891,0.0012840317768355962,"ndt-iupui-mlab3-lga03.mlab-oti.measurement-lab.org"
 Sat 10/03/2020 12:46:46.36 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
 Sat 10/03/2020 13:51:43.70 ,,,"download websocket: bad handshake"
-Sat 10/03/2020 14:37:48.94 ,87.0896983034571,3.3507569461419373
-Sat 10/03/2020 15:47:07.82 ,89.22532064478538,3.304292233802985
-Sat 10/03/2020 16:25:52.70 ,88.06437773560057,3.2117153408523804
-Sat 10/03/2020 17:39:27.76 ,90.13866722341375,3.6083413246647704
-Sat 10/03/2020 18:32:55.57 ,86.72178372867009,3.1606256517205424
-Sat 10/03/2020 19:26:45.58 ,78.60552662171587,3.440708814176283
-Sat 10/03/2020 20:48:38.71 ,89.15668982590641,2.950828720417168
-Sat 10/03/2020 21:49:12.73 ,86.48799910757447,3.505664093368184
-Sat 10/03/2020 22:36:20.31 ,87.80138903512069,4.3286569480174775
-Sat 10/03/2020 23:48:42.69 ,84.17645303825674,3.5892615311081015
-Sun 10/04/2020  0:38:36.83 ,88.12893013308893,4.247864495220235
+Sat 10/03/2020 14:37:48.94 ,87.0896983034571,3.3507569461419373,0.08865731423394468,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Sat 10/03/2020 15:47:07.82 ,89.22532064478538,3.304292233802985,0,"ndt-iupui-mlab3-lga05.mlab-oti.measurement-lab.org"
+Sat 10/03/2020 16:25:52.70 ,88.06437773560057,3.2117153408523804,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Sat 10/03/2020 17:39:27.76 ,90.13866722341375,3.6083413246647704,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Sat 10/03/2020 18:32:55.57 ,86.72178372867009,3.1606256517205424,0.0013084733435659533,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Sat 10/03/2020 19:26:45.58 ,78.60552662171587,3.440708814176283,0,"ndt-iupui-mlab3-lga04.mlab-oti.measurement-lab.org"
+Sat 10/03/2020 20:48:38.71 ,89.15668982590641,2.950828720417168,0.0013014911808461576,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Sat 10/03/2020 21:49:12.73 ,86.48799910757447,3.505664093368184,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Sat 10/03/2020 22:36:20.31 ,87.80138903512069,4.3286569480174775,0,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
+Sat 10/03/2020 23:48:42.69 ,84.17645303825674,3.5892615311081015,0.05640162282148732,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Sun 10/04/2020  0:38:36.83 ,88.12893013308893,4.247864495220235,0,"ndt-iupui-mlab1-lga03.mlab-oti.measurement-lab.org"
 Sun 10/04/2020  1:44:37.39 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Sun 10/04/2020  2:43:11.94 ,91.04646322588043,4.274115678487188
-Sun 10/04/2020  3:45:21.70 ,93.38905790838376,4.3179401362194065
-Sun 10/04/2020  4:25:59.49 ,86.8988032892493,3.6363913245985295
-Sun 10/04/2020  5:27:16.52 ,88.09580705297499,6.89944384195126
-Sun 10/04/2020  6:32:22.49 ,92.24918452438669,5.0985879458794585
-Sun 10/04/2020  7:31:52.54 ,90.00754506337947,4.809268821160647
-Sun 10/04/2020  8:42:42.08 ,89.27387839058804,4.078129360435893
-Sun 10/04/2020  9:50:41.82 ,86.55303900096062,3.635203115176344
-Sun 10/04/2020 10:31:32.52 ,91.47140561931144,3.534309235389047
-Sun 10/04/2020 11:52:28.72 ,83.03105851157169,4.6956882946972485
-Sun 10/04/2020 12:41:33.81 ,77.88643291363182,3.6901656463072547
-Sun 10/04/2020 13:44:35.64 ,88.15585691689058,3.664982137057486
+Sun 10/04/2020  2:43:11.94 ,91.04646322588043,4.274115678487188,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Sun 10/04/2020  3:45:21.70 ,93.38905790838376,4.3179401362194065,0,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
+Sun 10/04/2020  4:25:59.49 ,86.8988032892493,3.6363913245985295,0,"ndt-iupui-mlab2-lga05.mlab-oti.measurement-lab.org"
+Sun 10/04/2020  5:27:16.52 ,88.09580705297499,6.89944384195126,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
+Sun 10/04/2020  6:32:22.49 ,92.24918452438669,5.0985879458794585,0,"ndt-iupui-mlab2-lga04.mlab-oti.measurement-lab.org"
+Sun 10/04/2020  7:31:52.54 ,90.00754506337947,4.809268821160647,0,"ndt-iupui-mlab1-lga08.mlab-oti.measurement-lab.org"
+Sun 10/04/2020  8:42:42.08 ,89.27387839058804,4.078129360435893,0,"ndt-iupui-mlab3-lga03.mlab-oti.measurement-lab.org"
+Sun 10/04/2020  9:50:41.82 ,86.55303900096062,3.635203115176344,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Sun 10/04/2020 10:31:32.52 ,91.47140561931144,3.534309235389047,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Sun 10/04/2020 11:52:28.72 ,83.03105851157169,4.6956882946972485,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
+Sun 10/04/2020 12:41:33.81 ,77.88643291363182,3.6901656463072547,0,"ndt-iupui-mlab3-lga08.mlab-oti.measurement-lab.org"
+Sun 10/04/2020 13:44:35.64 ,88.15585691689058,3.664982137057486,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
 Sun 10/04/2020 14:31:29.50 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Sun 10/04/2020 15:42:16.74 ,83.58372731397459,2.82545505946972
-Sun 10/04/2020 16:32:48.54 ,82.59424676051987,3.08003469350707
-Sun 10/04/2020 17:41:04.61 ,86.16177686510781,2.8965174089554626
+Sun 10/04/2020 15:42:16.74 ,83.58372731397459,2.82545505946972,0,"ndt-iupui-mlab3-lga06.mlab-oti.measurement-lab.org"
+Sun 10/04/2020 16:32:48.54 ,82.59424676051987,3.08003469350707,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Sun 10/04/2020 17:41:04.61 ,86.16177686510781,2.8965174089554626,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
 Sun 10/04/2020 18:31:00.65 ,,,"upload websocket: bad handshake"
-Sun 10/04/2020 19:43:41.54 ,51.53030778824169,2.3373643910695576
-Sun 10/04/2020 20:28:20.61 ,76.92455413252723,2.208380314372768
-Sun 10/04/2020 21:49:06.48 ,80.264082158679,2.6720430586188058
-Sun 10/04/2020 22:45:30.82 ,78.35243478095165,3.4671303230469612
-Sun 10/04/2020 23:41:50.67 ,79.64944598815707,4.098332384283738
-Mon 10/05/2020  0:39:40.44 ,87.90642499274591,3.7145321182484996
+Sun 10/04/2020 19:43:41.54 ,51.53030778824169,2.3373643910695576,0,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
+Sun 10/04/2020 20:28:20.61 ,76.92455413252723,2.208380314372768,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Sun 10/04/2020 21:49:06.48 ,80.264082158679,2.6720430586188058,0.03957148915765289,"ndt-iupui-mlab3-lga05.mlab-oti.measurement-lab.org"
+Sun 10/04/2020 22:45:30.82 ,78.35243478095165,3.4671303230469612,0.008684080640769363,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Sun 10/04/2020 23:41:50.67 ,79.64944598815707,4.098332384283738,0,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
+Mon 10/05/2020  0:39:40.44 ,87.90642499274591,3.7145321182484996,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Mon 10/05/2020  1:43:45.70 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Mon 10/05/2020  2:25:37.13 ,91.3159189300979,4.595260786621749
-Mon 10/05/2020  3:43:39.83 ,91.83533311158504,6.432169041139747
-Mon 10/05/2020  4:45:17.77 ,93.33591202598521,4.355219302729782
-Mon 10/05/2020  5:23:58.83 ,93.80601865122216,6.8777417397986005
-Mon 10/05/2020  6:50:44.97 ,93.40392699267176,4.846825145272055
-Mon 10/05/2020  7:39:16.86 ,90.89618647692367,6.240831956144947
+Mon 10/05/2020  2:25:37.13 ,91.3159189300979,4.595260786621749,0,"ndt-iupui-mlab3-lga03.mlab-oti.measurement-lab.org"
+Mon 10/05/2020  3:43:39.83 ,91.83533311158504,6.432169041139747,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
+Mon 10/05/2020  4:45:17.77 ,93.33591202598521,4.355219302729782,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Mon 10/05/2020  5:23:58.83 ,93.80601865122216,6.8777417397986005,0,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
+Mon 10/05/2020  6:50:44.97 ,93.40392699267176,4.846825145272055,0,"ndt-iupui-mlab3-lga04.mlab-oti.measurement-lab.org"
+Mon 10/05/2020  7:39:16.86 ,90.89618647692367,6.240831956144947,0,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
 Mon 10/05/2020  8:48:43.63 ,,,"upload websocket: bad handshake"
-Mon 10/05/2020  9:41:13.69 ,88.90289523445708,3.6481114124934213
-Mon 10/05/2020 10:35:06.68 ,88.30993264689943,3.770028813765675
-Mon 10/05/2020 11:30:51.22 ,90.26164472559412,3.4335338467774625
+Mon 10/05/2020  9:41:13.69 ,88.90289523445708,3.6481114124934213,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Mon 10/05/2020 10:35:06.68 ,88.30993264689943,3.770028813765675,0,"ndt-iupui-mlab3-lga05.mlab-oti.measurement-lab.org"
+Mon 10/05/2020 11:30:51.22 ,90.26164472559412,3.4335338467774625,0,"ndt-iupui-mlab1-lga06.mlab-oti.measurement-lab.org"
 Mon 10/05/2020 12:25:17.14 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Mon 10/05/2020 13:48:06.37 ,14.55981235280711,3.59117737622559
-Mon 10/05/2020 14:25:03.53 ,14.679385253490352,2.763518925616532
+Mon 10/05/2020 13:48:06.37 ,14.55981235280711,3.59117737622559,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Mon 10/05/2020 14:25:03.53 ,14.679385253490352,2.763518925616532,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
 Mon 10/05/2020 15:44:56.48 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Mon 10/05/2020 16:31:53.00 ,23.141331412776886,6.009119229910033
-Mon 10/05/2020 17:49:40.48 ,12.149651413265401,3.190263289418444
-Mon 10/05/2020 18:41:03.48 ,13.420471795657335,3.1340624687356184
-Mon 10/05/2020 19:24:33.32 ,12.889765080776643,3.0278574585191436
-Mon 10/05/2020 20:28:41.45 ,12.957590223067672,3.8282079005446557
-Mon 10/05/2020 21:28:56.39 ,13.516036821341347,2.4273567141107746
-Mon 10/05/2020 22:43:18.40 ,15.027141570334784,3.4231270963831077
-Mon 10/05/2020 23:36:38.29 ,15.161712151242567,3.531189795469541
-Tue 10/06/2020  0:47:24.33 ,23.358289253301134,4.490581719691151
+Mon 10/05/2020 16:31:53.00 ,23.141331412776886,6.009119229910033,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
+Mon 10/05/2020 17:49:40.48 ,12.149651413265401,3.190263289418444,0,"ndt-iupui-mlab3-lga05.mlab-oti.measurement-lab.org"
+Mon 10/05/2020 18:41:03.48 ,13.420471795657335,3.1340624687356184,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Mon 10/05/2020 19:24:33.32 ,12.889765080776643,3.0278574585191436,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Mon 10/05/2020 20:28:41.45 ,12.957590223067672,3.8282079005446557,0.0344948244768659,"ndt-iupui-mlab1-yul02.mlab-oti.measurement-lab.org"
+Mon 10/05/2020 21:28:56.39 ,13.516036821341347,2.4273567141107746,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Mon 10/05/2020 22:43:18.40 ,15.027141570334784,3.4231270963831077,0,"ndt-iupui-mlab2-lga03.mlab-oti.measurement-lab.org"
+Mon 10/05/2020 23:36:38.29 ,15.161712151242567,3.531189795469541,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Tue 10/06/2020  0:47:24.33 ,23.358289253301134,4.490581719691151,0,"ndt-iupui-mlab2-lga08.mlab-oti.measurement-lab.org"
 Tue 10/06/2020  1:32:59.88 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
-Tue 10/06/2020  2:25:32.94 ,14.818855928451253,3.847462571353119
-Tue 10/06/2020  3:24:22.64 ,14.392454496991853,3.466813115813278
-Tue 10/06/2020  4:42:12.97 ,18.859272593823036,4.768419035451933
-Tue 10/06/2020  5:23:40.96 ,25.436375913129318,7.433720732742934
-Tue 10/06/2020  6:51:37.81 ,15.621251435132033,4.1363342383596065
-Tue 10/06/2020  7:43:57.86 ,15.554059953651791,3.8396360830185614
-Tue 10/06/2020  8:31:09.65 ,22.94582820046538,6.113852553359044
+Tue 10/06/2020  2:25:32.94 ,14.818855928451253,3.847462571353119,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Tue 10/06/2020  3:24:22.64 ,14.392454496991853,3.466813115813278,0,"ndt-iupui-mlab2-lga06.mlab-oti.measurement-lab.org"
+Tue 10/06/2020  4:42:12.97 ,18.859272593823036,4.768419035451933,0,"ndt-iupui-mlab2-lga04.mlab-oti.measurement-lab.org"
+Tue 10/06/2020  5:23:40.96 ,25.436375913129318,7.433720732742934,0,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
+Tue 10/06/2020  6:51:37.81 ,15.621251435132033,4.1363342383596065,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Tue 10/06/2020  7:43:57.86 ,15.554059953651791,3.8396360830185614,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Tue 10/06/2020  8:31:09.65 ,22.94582820046538,6.113852553359044,0.005091405372953116,"ndt-iupui-mlab2-yul02.mlab-oti.measurement-lab.org"
+Tue 10/06/2020  9:51:08.77 ,21.499444466117897,5.636168207137174,0.005426836285284471,"ndt-iupui-mlab3-yul02.mlab-oti.measurement-lab.org"
+Tue 10/06/2020 10:50:20.93 ,15.357006293193312,4.128774637901348,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Tue 10/06/2020 11:31:14.59 ,14.778551964868821,4.0239891561633865,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
+Tue 10/06/2020 12:24:59.40 ,15.722028852850464,3.6260027257378815,0,"ndt-iupui-mlab1-lga03.mlab-oti.measurement-lab.org"
+Tue 10/06/2020 13:46:08.77 ,13.892408005896694,4.198040322416909,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Tue 10/06/2020 14:23:45.53 ,15.134810237974873,4.077564204395022,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Tue 10/06/2020 15:25:41.61 ,11.259636726473142,3.968695934431551,0.010325306562595121,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Tue 10/06/2020 16:46:46.02 ,,,"download Get ""https://locate.measurementlab.net/ndt7"": context deadline exceeded"
+Tue 10/06/2020 17:44:06.03 ,13.1884997800264,3.0425255338904362,0,"ndt-iupui-mlab1-yqm01.mlab-oti.measurement-lab.org"
+Tue 10/06/2020 18:29:02.67 ,16.252441795635875,3.2592251040666023,0,"ndt-iupui-mlab1-lga04.mlab-oti.measurement-lab.org"
+Tue 10/06/2020 19:30:42.61 ,12.947389940671881,2.352008759301689,0,"ndt-iupui-mlab3-yqm01.mlab-oti.measurement-lab.org"
+Tue 10/06/2020 19:50:10.00 ,12.52588053397692,2.6349028113107167,0,"ndt-iupui-mlab2-yqm01.mlab-oti.measurement-lab.org"
