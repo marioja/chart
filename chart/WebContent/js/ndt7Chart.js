@@ -6,33 +6,56 @@ var dragOptions = {
   animationDuration: 1000,
   backgroundColor: "rgba(0, 0, 0, 0.4)"
 };
-d3.csv('ndt7-client.csv').then(makeChart);
-function makeChart(ndt7Client) {
-  ndt7Download=ndt7Client.map(function(d) {return {x: moment(d.Date).format(timeFormat), y: d.Download}})
-  ndt7Error=ndt7Client.map(function(d) {return {x: moment(d.Date).format(timeFormat), y: d.Error}})
+d3.csv('ndt7-client.csv').then(function(ndt7) {
+	d3.csv('ookla-client.csv').then(function(ookla){
+		makeChart(ndt7, ookla)
+	})
+})
+function makeChart(ndt7Client, ooklaClient) {
+  ndt7Download=ndt7Client.map(function(d) {return {x: moment(d.Date).format(timeFormat), y: d.Download, e: d.Error}})
   ndt7Upload=ndt7Client.map(function(d) {return {x: moment(d.Date).format(timeFormat), y: d.Upload}})
+  ooklaDownload=ooklaClient.map(function(d) {return {x: moment(d.Date).format(timeFormat), y: d.Download*8/1000000}})
+  ooklaUpload=ooklaClient.map(function(d) {return {x: moment(d.Date).format(timeFormat), y: d.Upload*8/1000000}})
   window.myLine = new Chart('canvas', {
     type: 'line',
     data: {
 
       datasets: [{
-          label: "Downloads (Mbps)",
+          label: "M-Lab Downloads (Mbps)",
           fill: 'origin',
           backgroundColor: "rgba(0, 0, 255, 0.1)",
-          borderColor: "blue",
+          borderColor: "rgba(0, 0, 255, 1)",
           borderWidth: 1,
-          data: ndt7Download,
-          dataError: ndt7Error
+          data: ndt7Download
         },
         {
-          label: "Uploads (Mbps)",
+          label: "M-Lab Uploads (Mbps)",
           fill: 'origin',
-	  backgroundColor: "rgba(255, 0, 0, 0.1)",
-          borderColor: "red",
+	      backgroundColor: "rgba(255, 0, 0, 0.1)",
+          borderColor: "rgba(255, 0, 0, 1)",
           borderWidth: 1,
-          data: ndt7Upload,
-          dataError: ndt7Error
-        }
+          data: ndt7Upload
+        },
+        {
+            label: "Ookla Downloads (Mbps)",
+            fill: 'origin',
+            backgroundColor: "rgba(0, 0, 255, 0.1)",
+            borderColor: "rgba(0, 0, 255, 1)",
+            borderWidth: 1,
+            borderDash: [2, 5],
+            pointStyle: 'star',
+            data: ooklaDownload
+        },
+        {
+            label: "Ookla Uploads (Mbps)",
+            fill: 'origin',
+  	        backgroundColor: "rgba(255, 0, 0, 0.1)",
+            borderColor: "rgba(255, 0, 0, 1)",
+            borderWidth: 1,
+            borderDash: [2, 5],
+            pointStyle: 'star',
+            data: ooklaUpload
+          }
       ]
     },
     options: {
@@ -82,7 +105,8 @@ function makeChart(ndt7Client) {
                   return label;
               },
               afterLabel: function(tooltipItem, data) {
-                 return 'Error: '+data.datasets[tooltipItem.datasetIndex].dataError[tooltipItem.index].y;
+            	 var estr=data.datasets[tooltipItem.datasetIndex].data[tooltipItem.index].e;
+                 return estr ? 'Error: '+estr : '';
               }
           }
       }      
