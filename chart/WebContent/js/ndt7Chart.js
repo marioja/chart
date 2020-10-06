@@ -101,13 +101,27 @@ function makeChart(ndt7Download, ndt7Upload, ooklaDownload, ooklaUpload) {
       scales: {
           xAxes: [{
             type: 'time',
-            scaleLabel: {
-              display: true,
-              labelString: 'Date'
+            time: {
+            	displayFormats: {
+            		hour: 'hA'
+            	},
+          		unit: 'hour'
             },
             ticks: {
               maxRotation: 0
             }              
+          },{
+              type: 'time',
+              time: {
+            		unit: 'day'
+              },
+              scaleLabel: {
+                display: true,
+                labelString: 'Date'
+              },
+              ticks: {
+                maxRotation: 0
+              }              
           }],
           yAxes: [{
             scaleLabel: {
