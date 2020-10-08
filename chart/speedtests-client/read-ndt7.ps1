@@ -14,7 +14,7 @@ select-string -path .\mlab\ndt7-client.log -pattern '([^{]*)(\{.*\})'  | foreach
 	  if ($o.keys -contains "Download") {
 		"$dtstamp,$($o.Download.Value),$($o.Upload.Value),$($o.DownloadRetrans.Value),""$($o.ServerFQDN)"""
 	  } else {
-	    "$dtstamp,,,""$($o.Value.Test  -replace '""','""""') $($o.Value.Failure  -replace '""','""""')"""
+	    "$dtstamp,,,,,""$($o.Value.Test  -replace '""','""""') $($o.Value.Failure  -replace '""','""""')"""
 	  }
   }
 } | out-file -Append -Encoding utf8 -FilePath .\mlab\ndt7-client.csv
