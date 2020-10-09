@@ -6,6 +6,8 @@ var dragOptions = {
   animationDuration: 1000,
   backgroundColor: "rgba(0, 0, 0, 0.4)"
 };
+var colorSchemeSize = 20
+var colorScheme = palette('mpn65', colorSchemeSize);
 d3.csv('ndt7-client.csv').then(function(ndt7) {
   d3.csv('ookla-client.csv').then(function(ookla){
     addData(ndt7, ookla)
@@ -22,32 +24,52 @@ function addDataNoCache(ndt7Client, ooklaClient) {
   ndt7Download=ndt7Client.reduce(function(filtered, d) {
     x=moment(d.Date);
     if (x>lastDays) {
-      filtered.push({"x": x.format(timeFormat), y: d.Download, e: d.Error, s: d.Server, r: d.Retrans})
+      filtered.push({"x": x.format(timeFormat), "y": d.Download, "e": d.Error, "s": d.Server, "r": d.Retrans})
     }
     return filtered;
   }, [])
   ndt7Upload=ndt7Client.reduce(function(filtered, d) {
     x=moment(d.Date);
     if (x>lastDays) {
-      filtered.push({"x": x.format(timeFormat), y: d.Upload, s: d.Server})
+      filtered.push({"x": x.format(timeFormat), "y": d.Upload, "s": d.Server})
     }
     return filtered;
   }, [])
   ooklaDownload=ooklaClient.reduce(function(filtered, d) {
     x=moment(d.Date);
     if (x>lastDays) {
-      filtered.push({"x": x.format(timeFormat), y: d.Download*8/1000000, s: d.ServerName, r: d.PacketLoss})
+      filtered.push({"x": x.format(timeFormat), "y": d.Download*8/1000000, "s": d.ServerName, "r": d.PacketLoss})
     }
     return filtered;
   }, [])
   ooklaUpload=ooklaClient.reduce(function(filtered, d) {
     x=moment(d.Date);
     if (x>lastDays) {
-      filtered.push({"x": x.format(timeFormat), y: d.Upload*8/1000000, s: d.ServerName})
+      filtered.push({"x": x.format(timeFormat), "y": d.Upload*8/1000000, "s": d.ServerName})
     }
     return filtered;
   }, [])
   makeChart(ndt7Download, ndt7Upload, ooklaDownload, ooklaUpload);
+}
+function schemeColor(context) {
+	var servers=context.dataset.servers;
+	var i=context.dataIndex;
+	var d=context.datasetIndex;
+	var serverName=context.dataset.data[i].s;
+	var l=Object.keys(servers).length;
+	var color="#"+colorScheme[colorSchemeSize-1];
+	if (serverName || l>(colorSchemeSize-2)) {
+		if (!servers[serverName]) {
+			if (l<(colorSchemeSize-2)) {// room for one more
+				color="#"+colorScheme[l];
+				servers[serverName]=color;
+			}
+		} else {
+			color=servers[serverName];
+		}
+	};
+	//console.log("["+d+","+i+"]="+color);
+	return color;
 }
 function makeChart(ndt7Download, ndt7Upload, ooklaDownload, ooklaUpload) {
   window.myLine = new Chart('canvas', {
@@ -60,15 +82,21 @@ function makeChart(ndt7Download, ndt7Upload, ooklaDownload, ooklaUpload) {
           backgroundColor: "rgba(0, 0, 255, 0.1)",
           borderColor: "rgba(0, 0, 255, 1)",
           borderWidth: 1,
-          data: ndt7Download
+          pointBorderColor: schemeColor,
+          pointBackgroundColor: schemeColor,
+          data: ndt7Download,
+          servers: []
         },
         {
           label: "M-Lab Uploads (Mbps)",
           fill: 'origin',
-        backgroundColor: "rgba(255, 0, 0, 0.1)",
+          backgroundColor: "rgba(255, 0, 0, 0.1)",
           borderColor: "rgba(255, 0, 0, 1)",
           borderWidth: 1,
-          data: ndt7Upload
+          pointBorderColor: schemeColor,
+          pointBackgroundColor: schemeColor,
+          data: ndt7Upload,
+          servers: []
         },
         {
             label: "Ookla Downloads (Mbps)",
@@ -76,9 +104,11 @@ function makeChart(ndt7Download, ndt7Upload, ooklaDownload, ooklaUpload) {
             backgroundColor: "rgba(0, 0, 255, 0.1)",
             borderColor: "rgba(0, 0, 255, 1)",
             borderWidth: 1,
+            pointBorderColor: schemeColor,
             borderDash: [2, 5],
             pointStyle: 'star',
-            data: ooklaDownload
+            data: ooklaDownload,
+            servers: []
         },
         {
             label: "Ookla Uploads (Mbps)",
@@ -86,9 +116,11 @@ function makeChart(ndt7Download, ndt7Upload, ooklaDownload, ooklaUpload) {
             backgroundColor: "rgba(255, 0, 0, 0.1)",
             borderColor: "rgba(255, 0, 0, 1)",
             borderWidth: 1,
+            pointBorderColor: schemeColor,
             borderDash: [2, 5],
             pointStyle: 'star',
-            data: ooklaUpload
+            data: ooklaUpload,
+            servers: []
           }
       ]
     },
@@ -149,7 +181,7 @@ function makeChart(ndt7Download, ndt7Upload, ooklaDownload, ooklaUpload) {
                       label += ': ';
                   }
                   label += Math.round(tooltipItem.yLabel * 100) / 100;
-                  console.log(tooltipItem.datasetIndex+" - "+tooltipItem.index+" - "+tooltipItem.yLabel) 
+                  //console.log(tooltipItem.datasetIndex+" - "+tooltipItem.index+" - "+tooltipItem.yLabel) 
                   return label;
               },
               afterLabel: function(tooltipItem, data) {
@@ -168,7 +200,7 @@ function makeChart(ndt7Download, ndt7Upload, ooklaDownload, ooklaUpload) {
 }
 window.resetZoom = function() {
   window.myLine.resetZoom();
-  console.log('done reset zoom')
+  //console.log('done reset zoom')
 };
 
 window.toggleDragMode = function() {
