@@ -83,7 +83,7 @@ function makeChart(ndt7Download, ndt7Upload, ooklaDownload, ooklaUpload) {
           borderColor: "rgba(0, 0, 255, 1)",
           borderWidth: 1,
           pointBorderColor: schemeColor,
-          pointBackgroundColor: schemeColor,
+          //pointBackgroundColor: schemeColor,
           data: ndt7Download,
           servers: []
         },
@@ -94,7 +94,7 @@ function makeChart(ndt7Download, ndt7Upload, ooklaDownload, ooklaUpload) {
           borderColor: "rgba(255, 0, 0, 1)",
           borderWidth: 1,
           pointBorderColor: schemeColor,
-          pointBackgroundColor: schemeColor,
+          //pointBackgroundColor: schemeColor,
           data: ndt7Upload,
           servers: []
         },
